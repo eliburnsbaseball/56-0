@@ -1769,6 +1769,23 @@ function ResultsPage({
             </div>
 
             <ResultsRosterTable draftedList={draftedList} />
+
+            {optimalSummary ? (
+              <div className="results-optimal-block">
+                <div className="section-bar">
+                  <div>
+                    <p className="section-kicker">Best Lineup Possible</p>
+                    <h2>Optimal path from your boards</h2>
+                  </div>
+                  <span>
+                    {optimalSummary.wins}-{optimalSummary.losses} • {formatPoints(optimalSummary.totalPoints)}
+                  </span>
+                </div>
+
+                <ResultsLineupSnapshot draftedList={optimalSummary.draftedList} />
+                <ResultsRosterTable draftedList={optimalSummary.draftedList} />
+              </div>
+            ) : null}
           </section>
 
           <RunSummaryPanel
