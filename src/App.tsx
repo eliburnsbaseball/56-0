@@ -297,11 +297,36 @@ function getPlayerVolume(player: Player) {
   return player.stats.games ?? 0
 }
 
+function inverseNormalCdf(probability: number) {
+  const p = Math.min(1 - 1e-9, Math.max(1e-9, probability))
+  const a = [-39.6968302866538, 220.946098424521, -275.928510446969, 138.357751867269, -30.6647980661472, 2.50662827745924]
+  const b = [-54.4760987982241, 161.585836858041, -155.698979859887, 66.8013118877197, -13.2806815528857]
+  const c = [-0.00778489400243029, -0.322396458041136, -2.40075827716184, -2.54973253934373, 4.37466414146497, 2.93816398269878]
+  const d = [0.00778469570904146, 0.32246712907004, 2.445134137143, 3.75440866190742]
+  const low = 0.02425
+  const high = 1 - low
+
+  if (p < low) {
+    const q = Math.sqrt(-2 * Math.log(p))
+    return (((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) / ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1)
+  }
+
+  if (p > high) {
+    const q = Math.sqrt(-2 * Math.log(1 - p))
+    return -(((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) / ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1)
+  }
+
+  const q = p - 0.5
+  const r = q * q
+  return (((((a[0] * r + a[1]) * r + a[2]) * r + a[3]) * r + a[4]) * r + a[5]) * q / (((((b[0] * r + b[1]) * r + b[2]) * r + b[3]) * r + b[4]) * r + 1)
+}
+
 function estimateWinsFromPercentile(percentile: number) {
   if (percentile >= 99) return 56
-  const normalized = Math.max(0, Math.min(1, percentile / 100))
-  const projected = 18 + 37 * Math.pow(normalized, 0.72)
-  return Math.max(18, Math.min(55, Math.round(projected)))
+  const probability = Math.min(0.99, Math.max(0.01, percentile / 100))
+  const zScore = inverseNormalCdf(probability)
+  const projected = 28 + zScore * 8.25
+  return Math.max(10, Math.min(55, Math.round(projected)))
 }
 
 function estimateLossesFromPercentile(percentile: number) {
@@ -1439,7 +1464,6 @@ function ResultsHero({
   summaryRecord,
   totalScore,
   modeSummary,
-  drawLabel,
   optimalSummary,
   simulationSummary,
   strengthPercentile,
@@ -1452,7 +1476,6 @@ function ResultsHero({
   summaryRecord: string
   totalScore: number
   modeSummary: string
-  drawLabel: string
   optimalSummary: OptimalSummary | null
   simulationSummary: SimulationSummary | null
   strengthPercentile: number
@@ -1498,18 +1521,13 @@ function ResultsHero({
           <p className="section-kicker">Season Recap</p>
           <h1>{summaryRecord}</h1>
           <p className="results-total-war">{formatPoints(totalScore)}</p>
-          <p className="results-meta">{drawLabel} draw / {modeSummary}</p>
+          <p className="results-meta">{modeSummary}</p>
           <p className="results-hero-strength">
-            Stronger than {strengthPercentile}% of {simulationSummary?.sampleSize ?? 0} no-respin top-pick runs
+            Stronger than {strengthPercentile}% of the {simulationSummary?.sampleSize ?? 1000} simulated seasons.
           </p>
           {optimalSummary ? (
             <p className="results-hero-optimal">
               Optimal result on your boards: {optimalSummary.wins}-{optimalSummary.losses} at {formatPoints(optimalSummary.totalPoints)}
-            </p>
-          ) : null}
-          {simulationSummary ? (
-            <p className="results-hero-optimal">
-              Best simulated no-respin result: {simulationSummary.bestRun.wins}-{simulationSummary.bestRun.losses} at {formatPoints(simulationSummary.bestRun.totalPoints)}
             </p>
           ) : null}
         </div>
@@ -1589,7 +1607,6 @@ function ResultsRosterTable({
 function RunSummaryPanel({
   currentEra,
   activeMode,
-  drawLabel,
   leaderboardName,
   savedResult,
   simulationSummary,
@@ -1600,7 +1617,6 @@ function RunSummaryPanel({
 }: {
   currentEra: Era
   activeMode: ModeConfig
-  drawLabel: string
   leaderboardName: string
   savedResult: boolean
   simulationSummary: SimulationSummary | null
@@ -1621,7 +1637,6 @@ function RunSummaryPanel({
   const recapRows = [
     ['Final Record', summary.recordLabel],
     ['Total Points', formatPoints(totalScore)],
-    ['Final Draw', drawLabel],
     ['Era', currentEra],
     ['Mode', activeMode.label],
     ['Median Sim', simulationSummary ? formatPoints(simulationSummary.percentilePoints.p50) : '-'],
@@ -1685,7 +1700,6 @@ function RunSummaryPanel({
 function ResultsPage({
   activeMode,
   currentEra,
-  displayAssignment,
   draftedList,
   totalScore,
   projectedWins,
@@ -1706,7 +1720,6 @@ function ResultsPage({
 }: {
   activeMode: ModeConfig
   currentEra: Era
-  displayAssignment: DraftAssignment | null
   draftedList: DraftedEntry[]
   totalScore: number
   projectedWins: number
@@ -1726,7 +1739,6 @@ function ResultsPage({
   onViewBoard: () => void
 }) {
   const summary = summarizeRoster(draftedList, totalScore, projectedWins, projectedLosses)
-  const drawLabel = displayAssignment?.label ?? 'Random'
 
   return (
     <AppShell wide>
@@ -1735,7 +1747,6 @@ function ResultsPage({
           summaryRecord={summary.recordLabel}
           totalScore={totalScore}
           modeSummary={formatModeSummary(activeMode, currentEra)}
-          drawLabel={drawLabel}
           optimalSummary={optimalSummary}
           simulationSummary={simulationSummary}
           strengthPercentile={strengthPercentile}
@@ -1763,7 +1774,6 @@ function ResultsPage({
           <RunSummaryPanel
             currentEra={currentEra}
             activeMode={activeMode}
-            drawLabel={drawLabel}
             leaderboardName={leaderboardName}
             savedResult={savedResult}
             simulationSummary={simulationSummary}
@@ -2090,7 +2100,6 @@ function App() {
       <ResultsPage
         activeMode={activeMode}
         currentEra={currentEra}
-        displayAssignment={displayAssignment}
         draftedList={draftedList}
         totalScore={totalScore}
         projectedWins={projectedWins}
