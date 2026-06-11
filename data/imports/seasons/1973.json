@@ -1,0 +1,7179 @@
+{
+  "year": 1973,
+  "players": [
+    {
+      "id": "1973-arizona-ben heise-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ben Heise",
+      "team": "Arizona",
+      "classYear": "Jr",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 48,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-auburn-victor sharek-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Victor Sharek",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.284,
+        "ops": 0.47,
+        "hr": 3,
+        "rbi": 38,
+        "sb": 8
+      },
+      "statLine": "..284 AVG - ..470 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-auburn-lynn jones-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Lynn Jones",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.243,
+        "ops": 0.243,
+        "hr": 0,
+        "rbi": 8,
+        "sb": 1
+      },
+      "statLine": "..243 AVG - ..243 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-california-steve bartkowski-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Bartkowski",
+      "team": "California",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 51,
+        "avg": 0.329,
+        "ops": 0.999,
+        "hr": 12,
+        "rbi": 35,
+        "sb": 1
+      },
+      "statLine": "..329 AVG - ..999 OPS - 12 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-california-claude westmoreland-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Claude Westmoreland",
+      "team": "California",
+      "classYear": "null",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-cincinnati-tim burman-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tim Burman",
+      "team": "Cincinnati",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 3.58,
+        "whip": 1.18,
+        "strikeouts": 61,
+        "innings": 75.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.58 ERA - 1.180 WHIP - 61 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-cincinnati-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Cincinnati",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 3.58,
+        "whip": 1.18,
+        "strikeouts": 61,
+        "innings": 75.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.58 ERA - 1.180 WHIP - 61 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-richard haynes-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Haynes",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 38,
+        "avg": 0.275,
+        "ops": 0.391,
+        "hr": 4,
+        "rbi": 14,
+        "sb": 3
+      },
+      "statLine": "..275 AVG - ..391 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-craig white-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Craig White",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 35,
+        "avg": 0.336,
+        "ops": 0.982,
+        "hr": 8,
+        "rbi": 31,
+        "sb": 3
+      },
+      "statLine": "..336 AVG - ..982 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-john adeimy-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Adeimy",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 37,
+        "avg": 0.298,
+        "ops": 0.744,
+        "hr": 1,
+        "rbi": 15,
+        "sb": 3
+      },
+      "statLine": "..298 AVG - ..744 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-lindsay graham-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lindsay Graham",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 2.37,
+        "whip": 0.89,
+        "strikeouts": 43,
+        "innings": 60.2,
+        "saves": 3,
+        "starts": 8
+      },
+      "statLine": "2.37 ERA - ..890 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-steve cline-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Cline",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 10,
+        "wins": 7,
+        "era": 2.12,
+        "whip": 1.23,
+        "strikeouts": 68,
+        "innings": 59.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.12 ERA - 1.230 WHIP - 68 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-jimmy baker-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jimmy Baker",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 2,
+        "era": 3.8,
+        "whip": 1.4,
+        "strikeouts": 30,
+        "innings": 45,
+        "saves": 3,
+        "starts": 1
+      },
+      "statLine": "3.80 ERA - 1.400 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-randy owens-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Owens",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 3.24,
+        "whip": 1.47,
+        "strikeouts": 18,
+        "innings": 33.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "3.24 ERA - 1.470 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-mark adams-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Adams",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 6.06,
+        "whip": 1.71,
+        "strikeouts": 24,
+        "innings": 32.2,
+        "saves": 1,
+        "starts": 7
+      },
+      "statLine": "6.06 ERA - 1.710 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-larry lee-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Lee",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 3.09,
+        "whip": 1.38,
+        "strikeouts": 18,
+        "innings": 32,
+        "saves": 1,
+        "starts": 5
+      },
+      "statLine": "3.09 ERA - 1.380 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-dave bigwood-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Bigwood",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 2,
+        "era": 3.77,
+        "whip": 1.4,
+        "strikeouts": 17,
+        "innings": 28.2,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "3.77 ERA - 1.400 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-jeffrey bradford-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jeffrey Bradford",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 3.38,
+        "whip": 1.03,
+        "strikeouts": 14,
+        "innings": 21.1,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "3.38 ERA - 1.030 WHIP - 14 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-wayne lawrimore-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Wayne Lawrimore",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 6,
+        "whip": 1.75,
+        "strikeouts": 8,
+        "innings": 12,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.00 ERA - 1.750 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-sonny callahan-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Sonny Callahan",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 9,
+        "whip": 2,
+        "strikeouts": 2,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 2.000 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-clemson-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 73,
+        "wins": 21,
+        "era": 3.23,
+        "whip": 1.27,
+        "strikeouts": 215,
+        "innings": 284.1,
+        "saves": 8,
+        "starts": 36
+      },
+      "statLine": "3.23 ERA - 1.270 WHIP - 215 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-duke-john poff-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Poff",
+      "team": "Duke",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 24,
+        "avg": 0.314,
+        "ops": 0.809,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 0
+      },
+      "statLine": "..314 AVG - ..809 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-east carolina-ronald staggs-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ronald Staggs",
+      "team": "East Carolina",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 24,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-east carolina-tommy toms-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tommy Toms",
+      "team": "East Carolina",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 0.93,
+        "whip": 0.84,
+        "strikeouts": 65,
+        "innings": 77.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "..93 ERA - ..840 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-east carolina-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "East Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 0.93,
+        "whip": 0.84,
+        "strikeouts": 65,
+        "innings": 77.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "..93 ERA - ..840 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-florida-david bowden-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Bowden",
+      "team": "Florida",
+      "classYear": "So",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 36,
+        "avg": 0.303,
+        "ops": 0.41,
+        "hr": 2,
+        "rbi": 17,
+        "sb": 3
+      },
+      "statLine": "..303 AVG - ..410 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-florida-nick devirgilis-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Nick Devirgilis",
+      "team": "Florida",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 6,
+        "avg": 0.143,
+        "ops": 0.143,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..143 AVG - ..143 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-florida state-rick langford-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Langford",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.09,
+        "strikeouts": 2,
+        "innings": 3.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.090 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-florida state-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Florida State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.09,
+        "strikeouts": 2,
+        "innings": 3.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.090 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-lenn sakata-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Lenn Sakata",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 50,
+        "avg": 0.327,
+        "ops": 0.91,
+        "hr": 8,
+        "rbi": 40,
+        "sb": 16
+      },
+      "statLine": "..327 AVG - ..910 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-don lyons-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Lyons",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-dave whiteaker-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Whiteaker",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-rick sweet-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rick Sweet",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-casey parsons-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Casey Parsons",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-mike davey-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Davey",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 17,
+        "wins": 12,
+        "era": 1.38,
+        "whip": 1.08,
+        "strikeouts": 121,
+        "innings": 117,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.38 ERA - 1.080 WHIP - 121 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-byron burns-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Byron Burns",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 22,
+        "wins": 10,
+        "era": 2.56,
+        "whip": 1.41,
+        "strikeouts": 51,
+        "innings": 88,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.56 ERA - 1.410 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-bill wilson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Wilson",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 15,
+        "wins": 6,
+        "era": 4.05,
+        "whip": 1.4,
+        "strikeouts": 34,
+        "innings": 60,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "4.05 ERA - 1.400 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-gonzaga-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 39,
+        "wins": 22,
+        "era": 1.89,
+        "whip": 1.22,
+        "strikeouts": 172,
+        "innings": 205,
+        "saves": 0,
+        "starts": 24
+      },
+      "statLine": "1.89 ERA - 1.220 WHIP - 172 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-illinois-bob polock-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Polock",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 34,
+        "avg": 0.347,
+        "ops": 0.815,
+        "hr": 0,
+        "rbi": 19,
+        "sb": 19
+      },
+      "statLine": "..347 AVG - ..815 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-illinois-kenneth ossola-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kenneth Ossola",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 26,
+        "avg": 0.364,
+        "ops": 1.057,
+        "hr": 1,
+        "rbi": 14,
+        "sb": 1
+      },
+      "statLine": "..364 AVG - 1.057 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-illinois-chuck sommer-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chuck Sommer",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 7,
+        "era": 3.71,
+        "whip": 1.22,
+        "strikeouts": 25,
+        "innings": 60.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.71 ERA - 1.220 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-illinois-gary anderson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Anderson",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 3.76,
+        "whip": 1.4,
+        "strikeouts": 35,
+        "innings": 55,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.76 ERA - 1.400 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-illinois state-dave bergman-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Bergman",
+      "team": "Illinois State",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 32,
+        "avg": 0.4,
+        "ops": 1.012,
+        "hr": 2,
+        "rbi": 22,
+        "sb": 3
+      },
+      "statLine": "..400 AVG - 1.012 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas-bob allinder-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Allinder",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 1.68,
+        "whip": 1.27,
+        "strikeouts": 50,
+        "innings": 59,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.68 ERA - 1.270 WHIP - 50 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-scott scholbe-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Scott Scholbe",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 43,
+        "avg": 0.296,
+        "ops": 0.43,
+        "hr": 3,
+        "rbi": 23,
+        "sb": 0
+      },
+      "statLine": "..296 AVG - ..430 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-kem mosley-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kem Mosley",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 43,
+        "avg": 0.263,
+        "ops": 0.361,
+        "hr": 3,
+        "rbi": 14,
+        "sb": 8
+      },
+      "statLine": "..263 AVG - ..361 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-steve anson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Anson",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 42,
+        "avg": 0.346,
+        "ops": 0.485,
+        "hr": 2,
+        "rbi": 14,
+        "sb": 6
+      },
+      "statLine": "..346 AVG - ..485 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-curtis shockey-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Curtis Shockey",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 43,
+        "avg": 0.238,
+        "ops": 0.267,
+        "hr": 0,
+        "rbi": 7,
+        "sb": 2
+      },
+      "statLine": "..238 AVG - ..267 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-kevin wilkinson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kevin Wilkinson",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 37,
+        "avg": 0.257,
+        "ops": 0.515,
+        "hr": 6,
+        "rbi": 6,
+        "sb": 3
+      },
+      "statLine": "..257 AVG - ..515 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-david specht-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Specht",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.194,
+        "ops": 0.312,
+        "hr": 2,
+        "rbi": 13,
+        "sb": 1
+      },
+      "statLine": "..194 AVG - ..312 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-bryan reed-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bryan Reed",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 29,
+        "avg": 0.329,
+        "ops": 0.427,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 2
+      },
+      "statLine": "..329 AVG - ..427 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-chester austermar-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Chester Austermar",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 29,
+        "avg": 0.227,
+        "ops": 0.293,
+        "hr": 1,
+        "rbi": 8,
+        "sb": 1
+      },
+      "statLine": "..227 AVG - ..293 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-stephen reser-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Stephen Reser",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 25,
+        "avg": 0.194,
+        "ops": 0.278,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 0
+      },
+      "statLine": "..194 AVG - ..278 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-mike chapman-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Chapman",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 20,
+        "avg": 0.189,
+        "ops": 0.245,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 2
+      },
+      "statLine": "..189 AVG - ..245 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-randy johnston-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Randy Johnston",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 10,
+        "avg": 0.136,
+        "ops": 0.136,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..136 AVG - ..136 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-donald hoffman-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Donald Hoffman",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 10,
+        "avg": 0.158,
+        "ops": 0.316,
+        "hr": 1,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..158 AVG - ..316 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-james peterson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "James Peterson",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "avg": 0.25,
+        "ops": 0.25,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..250 AVG - ..250 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-paul klipowicz-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Klipowicz",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "avg": 0.222,
+        "ops": 0.222,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..222 AVG - ..222 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-jay parker-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jay Parker",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "avg": 0.222,
+        "ops": 0.333,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..222 AVG - ..333 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-gary holub-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Holub",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 6,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 1
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-richard dreiling-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Dreiling",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 3,
+        "avg": 0.167,
+        "ops": 0.333,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..167 AVG - ..333 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-andy replogle-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Andy Replogle",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 2.75,
+        "whip": 1.25,
+        "strikeouts": 78,
+        "innings": 78.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.75 ERA - 1.250 WHIP - 78 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-david klenda-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Klenda",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 3.82,
+        "whip": 1.57,
+        "strikeouts": 57,
+        "innings": 68.1,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.82 ERA - 1.570 WHIP - 57 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-james kick-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "James Kick",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 4,
+        "whip": 1.59,
+        "strikeouts": 65,
+        "innings": 63,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "4.00 ERA - 1.590 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-jay parker-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jay Parker",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 4.89,
+        "whip": 1.51,
+        "strikeouts": 26,
+        "innings": 35,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.89 ERA - 1.510 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-michael hampton-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Michael Hampton",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 6.1,
+        "whip": 1.55,
+        "strikeouts": 8,
+        "innings": 10.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.10 ERA - 1.550 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-carl bailey-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Carl Bailey",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 27,
+        "whip": 4,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "27.00 ERA - 4.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kansas state-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 50,
+        "wins": 18,
+        "era": 3.86,
+        "whip": 1.47,
+        "strikeouts": 234,
+        "innings": 256.1,
+        "saves": 0,
+        "starts": 37
+      },
+      "statLine": "3.86 ERA - 1.470 WHIP - 234 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kentucky-derek bryant-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Derek Bryant",
+      "team": "Kentucky",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 36,
+        "avg": 0.341,
+        "ops": 0.859,
+        "hr": 0,
+        "rbi": 13,
+        "sb": 6
+      },
+      "statLine": "..341 AVG - ..859 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kentucky-jim lett-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Lett",
+      "team": "Kentucky",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 34,
+        "avg": 0.323,
+        "ops": 0.767,
+        "hr": 2,
+        "rbi": 11,
+        "sb": 6
+      },
+      "statLine": "..323 AVG - ..767 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kentucky-marv foley-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Marv Foley",
+      "team": "Kentucky",
+      "classYear": "So",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 33,
+        "avg": 0.324,
+        "ops": 1.008,
+        "hr": 3,
+        "rbi": 26,
+        "sb": 1
+      },
+      "statLine": "..324 AVG - 1.008 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kentucky-john bowling-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Bowling",
+      "team": "Kentucky",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 4,
+        "era": 3.83,
+        "whip": 1.49,
+        "strikeouts": 40,
+        "innings": 51.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.83 ERA - 1.490 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-kentucky-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kentucky",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 4,
+        "era": 3.83,
+        "whip": 1.49,
+        "strikeouts": 40,
+        "innings": 51.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.83 ERA - 1.490 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-loyola marymount-russ noah-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Russ Noah",
+      "team": "Loyola Marymount",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 54,
+        "avg": 0.399,
+        "ops": 1.088,
+        "hr": 7,
+        "rbi": 41,
+        "sb": 18
+      },
+      "statLine": "..399 AVG - 1.088 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-loyola marymount-dean jelmini-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dean Jelmini",
+      "team": "Loyola Marymount",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 53,
+        "avg": 0.381,
+        "ops": 0.997,
+        "hr": 3,
+        "rbi": 36,
+        "sb": 15
+      },
+      "statLine": "..381 AVG - ..997 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-loyola marymount-jerry stone-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jerry Stone",
+      "team": "Loyola Marymount",
+      "classYear": "Jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 54,
+        "avg": 0.35,
+        "ops": 1.12,
+        "hr": 11,
+        "rbi": 45,
+        "sb": 0
+      },
+      "statLine": "..350 AVG - 1.120 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-loyola marymount-chris wibberley-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chris Wibberley",
+      "team": "Loyola Marymount",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 23,
+        "wins": 8,
+        "era": 4.11,
+        "whip": 1.35,
+        "strikeouts": 105,
+        "innings": 142.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "4.11 ERA - 1.350 WHIP - 105 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-loyola marymount-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Loyola Marymount",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 23,
+        "wins": 8,
+        "era": 4.11,
+        "whip": 1.35,
+        "strikeouts": 105,
+        "innings": 142.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "4.11 ERA - 1.350 WHIP - 105 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-lsu-eric rasmussen-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Eric Rasmussen",
+      "team": "LSU",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 11,
+        "era": 0.9,
+        "whip": 0.77,
+        "strikeouts": 98,
+        "innings": 99.2,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "..90 ERA - ..770 WHIP - 98 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-lsu-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "LSU",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 11,
+        "era": 0.9,
+        "whip": 0.77,
+        "strikeouts": 98,
+        "innings": 99.2,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "..90 ERA - ..770 WHIP - 98 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-maryland-bob madden-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Madden",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 2.02,
+        "whip": 1.16,
+        "strikeouts": 75,
+        "innings": 58,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.02 ERA - 1.160 WHIP - 75 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-maryland-ty hunt-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ty Hunt",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 2.03,
+        "whip": 1.31,
+        "strikeouts": 54,
+        "innings": 53.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.03 ERA - 1.310 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-michigan-tom kettinger-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tom Kettinger",
+      "team": "Michigan",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 38,
+        "avg": 0.342,
+        "ops": 0.897,
+        "hr": 2,
+        "rbi": 24,
+        "sb": 2
+      },
+      "statLine": "..342 AVG - ..897 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-minnesota-dave winfield-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Winfield",
+      "team": "Minnesota",
+      "classYear": "Sr",
+      "primaryPosition": "RF",
+      "eligiblePositions": [
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 43,
+        "avg": 0.385,
+        "ops": 1.174,
+        "hr": 8,
+        "rbi": 33,
+        "sb": 6
+      },
+      "statLine": "..385 AVG - 1.174 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-minnesota-tim grice-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tim Grice",
+      "team": "Minnesota",
+      "classYear": "null",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 49,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 39,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-minnesota-dave winfield-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Winfield",
+      "team": "Minnesota",
+      "classYear": "Sr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 14,
+        "wins": 9,
+        "era": 2.74,
+        "whip": 1.27,
+        "strikeouts": 109,
+        "innings": 82,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.74 ERA - 1.270 WHIP - 109 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-minnesota-steve comer-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Comer",
+      "team": "Minnesota",
+      "classYear": "Fr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 6,
+        "era": 1.48,
+        "whip": 1.05,
+        "strikeouts": 31,
+        "innings": 60.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.48 ERA - 1.050 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-minnesota-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Minnesota",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 25,
+        "wins": 15,
+        "era": 2.21,
+        "whip": 1.18,
+        "strikeouts": 140,
+        "innings": 142.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.21 ERA - 1.180 WHIP - 140 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-mississippi state-dale holland-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dale Holland",
+      "team": "Mississippi State",
+      "classYear": "Jr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 29,
+        "avg": 0.302,
+        "ops": 0.689,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 10
+      },
+      "statLine": "..302 AVG - ..689 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-murray state-steve barrett-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Barrett",
+      "team": "Murray State",
+      "classYear": "Jr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 43,
+        "avg": 0.318,
+        "ops": 1.073,
+        "hr": 11,
+        "rbi": 42,
+        "sb": 9
+      },
+      "statLine": "..318 AVG - 1.073 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-bob roemer-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Roemer",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 34,
+        "avg": 0.238,
+        "ops": 0.75,
+        "hr": 2,
+        "rbi": 24,
+        "sb": 0
+      },
+      "statLine": "..238 AVG - ..750 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-mike riddell-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "MIke Riddell",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 3.26,
+        "whip": 1.28,
+        "strikeouts": 33,
+        "innings": 58,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "3.26 ERA - 1.280 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-rick eich-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Eich",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 4.25,
+        "whip": 1.65,
+        "strikeouts": 31,
+        "innings": 55,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "4.25 ERA - 1.650 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-mike swallow-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "MIke Swallow",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 4,
+        "era": 1.21,
+        "whip": 1.18,
+        "strikeouts": 17,
+        "innings": 37.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "1.21 ERA - 1.180 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-mitch stoltz-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mitch Stoltz",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 3.51,
+        "whip": 1.98,
+        "strikeouts": 23,
+        "innings": 33.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.51 ERA - 1.980 WHIP - 23 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-pittman-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pittman",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 8.68,
+        "whip": 2.18,
+        "strikeouts": 28,
+        "innings": 28,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "8.68 ERA - 2.180 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-kevin fanning-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kevin Fanning",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 1.25,
+        "whip": 1.57,
+        "strikeouts": 12,
+        "innings": 21.2,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "1.25 ERA - 1.570 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-bob stratta-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Stratta",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 8.64,
+        "whip": 2.04,
+        "strikeouts": 18,
+        "innings": 16.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "8.64 ERA - 2.040 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-ed hrabcsak-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Hrabcsak",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 0,
+        "era": 9.35,
+        "whip": 3.12,
+        "strikeouts": 6,
+        "innings": 8.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "9.35 ERA - 3.120 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-ed lange-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Lange",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 0.75,
+        "strikeouts": 0,
+        "innings": 1.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..750 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-lazzeri-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lazzeri",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 1,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-notre dame-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 54,
+        "wins": 13,
+        "era": 3.61,
+        "whip": 1.6,
+        "strikeouts": 140,
+        "innings": 232,
+        "saves": 0,
+        "starts": 32
+      },
+      "statLine": "3.61 ERA - 1.600 WHIP - 140 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-ohio-bob brenly-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Brenly",
+      "team": "Ohio",
+      "classYear": "Fr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-lanny phillips-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Lanny Phillips",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 58,
+        "avg": 0.33,
+        "ops": 0.909,
+        "hr": 7,
+        "rbi": 52,
+        "sb": 2
+      },
+      "statLine": "..330 AVG - ..909 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-billy severns-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Billy Severns",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 56,
+        "avg": 0.341,
+        "ops": 0.941,
+        "hr": 4,
+        "rbi": 40,
+        "sb": 18
+      },
+      "statLine": "..341 AVG - ..941 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-keith drumright-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Drumright",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-chuck redmon-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Chuck Redmon",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-joe simpson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Simpson",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-mike umfleet-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Umfleet",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-glenn bannister-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glenn Bannister",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-jackson todd-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jackson Todd",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 17,
+        "wins": 8,
+        "era": 1.52,
+        "whip": 1.05,
+        "strikeouts": 115,
+        "innings": 124,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "1.52 ERA - 1.050 WHIP - 115 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-stan meek-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Stan Meek",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 2.16,
+        "whip": 1.27,
+        "strikeouts": 90,
+        "innings": 79,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.16 ERA - 1.270 WHIP - 90 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-bob shirley-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Shirley",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "wins": 7,
+        "era": 2.09,
+        "whip": 1.11,
+        "strikeouts": 61,
+        "innings": 56,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.09 ERA - 1.110 WHIP - 61 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 47,
+        "wins": 22,
+        "era": 1.84,
+        "whip": 1.13,
+        "strikeouts": 266,
+        "innings": 259,
+        "saves": 0,
+        "starts": 34
+      },
+      "statLine": "1.84 ERA - 1.130 WHIP - 266 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-charles meyers-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Charles Meyers",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 36,
+        "avg": 0.328,
+        "ops": 0.937,
+        "hr": 6,
+        "rbi": 25,
+        "sb": 4
+      },
+      "statLine": "..328 AVG - ..937 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-dan massari-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Massari",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 36,
+        "avg": 0.342,
+        "ops": 0.987,
+        "hr": 5,
+        "rbi": 34,
+        "sb": 0
+      },
+      "statLine": "..342 AVG - ..987 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-michael cross-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Cross",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS",
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 36,
+        "avg": 0.306,
+        "ops": 0.87,
+        "hr": 2,
+        "rbi": 11,
+        "sb": 1
+      },
+      "statLine": "..306 AVG - ..870 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-gary brandenburg-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Brandenburg",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 35,
+        "avg": 0.193,
+        "ops": 0.702,
+        "hr": 2,
+        "rbi": 21,
+        "sb": 0
+      },
+      "statLine": "..193 AVG - ..702 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-david lewis-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Lewis",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 2.69,
+        "whip": 1.06,
+        "strikeouts": 67,
+        "innings": 67,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "2.69 ERA - 1.060 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-jim jacobsen-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Jacobsen",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 1.36,
+        "whip": 0.96,
+        "strikeouts": 45,
+        "innings": 53,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "1.36 ERA - ..960 WHIP - 45 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-greg ferguson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Ferguson",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 1.88,
+        "whip": 1.06,
+        "strikeouts": 34,
+        "innings": 48,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "1.88 ERA - 1.060 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-william bird-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "William Bird",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 1.03,
+        "whip": 0.8,
+        "strikeouts": 26,
+        "innings": 43.2,
+        "saves": 4,
+        "starts": 0
+      },
+      "statLine": "1.03 ERA - ..800 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-mark stanley-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Stanley",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 0.6,
+        "whip": 1.1,
+        "strikeouts": 28,
+        "innings": 30,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..60 ERA - 1.100 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-harold tompkins-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Harold Tompkins",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 2.74,
+        "whip": 1.35,
+        "strikeouts": 17,
+        "innings": 23,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "2.74 ERA - 1.350 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-alan schroeder-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Schroeder",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 9.82,
+        "whip": 1.91,
+        "strikeouts": 1,
+        "innings": 3.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.82 ERA - 1.910 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-rich swanson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rich Swanson",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 18,
+        "whip": 4,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "18.00 ERA - 4.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-bob evans-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Evans",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 3,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 3.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-david fisher-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Fisher",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 3,
+        "strikeouts": 0,
+        "innings": 0.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 3.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oklahoma state-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 78,
+        "wins": 30,
+        "era": 1.93,
+        "whip": 1.06,
+        "strikeouts": 218,
+        "innings": 270.2,
+        "saves": 11,
+        "starts": 0
+      },
+      "statLine": "1.93 ERA - 1.060 WHIP - 218 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oregon-jim willis-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Willis",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 33,
+        "avg": 0.405,
+        "ops": 1.037,
+        "hr": 4,
+        "rbi": 30,
+        "sb": 2
+      },
+      "statLine": "..405 AVG - 1.037 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oregon-don reynolds-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Reynolds",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 35,
+        "avg": 0.358,
+        "ops": 1.155,
+        "hr": 8,
+        "rbi": 30,
+        "sb": 11
+      },
+      "statLine": "..358 AVG - 1.155 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oregon-guy krause-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Guy Krause",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-oregon-pat mcnally-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pat McNally",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-jamie pratt-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jamie Pratt",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 31,
+        "avg": 0.255,
+        "ops": 0.702,
+        "hr": 2,
+        "rbi": 16,
+        "sb": 2
+      },
+      "statLine": "..255 AVG - ..702 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-carl smith-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Carl Smith",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 0,
+        "era": 6.14,
+        "whip": 1.98,
+        "strikeouts": 20,
+        "innings": 44,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "6.14 ERA - 1.980 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-bob butsch-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Butsch",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 8.42,
+        "whip": 1.95,
+        "strikeouts": 28,
+        "innings": 36.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "8.42 ERA - 1.950 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-kevin weidner-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kevin Weidner",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 10.03,
+        "whip": 2.11,
+        "strikeouts": 17,
+        "innings": 35,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "10.03 ERA - 2.110 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-gary parks-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Parks",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 6.39,
+        "whip": 2.01,
+        "strikeouts": 15,
+        "innings": 25.1,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "6.39 ERA - 2.010 WHIP - 15 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-tom miller-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Miller",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 6.04,
+        "whip": 1.86,
+        "strikeouts": 18,
+        "innings": 25.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "6.04 ERA - 1.860 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-dean marek-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dean Marek",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 0,
+        "era": 10.35,
+        "whip": 2.4,
+        "strikeouts": 18,
+        "innings": 20,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "10.35 ERA - 2.400 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-bob brown-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Brown",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 6,
+        "wins": 0,
+        "era": 10.8,
+        "whip": 2.4,
+        "strikeouts": 6,
+        "innings": 16.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "10.80 ERA - 2.400 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-don anderson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Don Anderson",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 7.82,
+        "whip": 1.66,
+        "strikeouts": 7,
+        "innings": 12.2,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "7.82 ERA - 1.660 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-daugherty-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Daugherty",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 3.18,
+        "whip": 1.68,
+        "strikeouts": 4,
+        "innings": 11.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.18 ERA - 1.680 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-osterling-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Osterling",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 13.5,
+        "whip": 2.5,
+        "strikeouts": 3,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "13.50 ERA - 2.500 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-dave holloway-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Holloway",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 0.6,
+        "strikeouts": 3,
+        "innings": 3.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "..00 ERA - ..600 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-purdue-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 66,
+        "wins": 7,
+        "era": 7.9,
+        "whip": 2.02,
+        "strikeouts": 132,
+        "innings": 218.2,
+        "saves": 0,
+        "starts": 34
+      },
+      "statLine": "7.90 ERA - 2.020 WHIP - 132 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-rhode island-ed zabilski-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Zabilski",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 7,
+        "wins": 3,
+        "era": 2.79,
+        "whip": 1.53,
+        "strikeouts": 25,
+        "innings": 48.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.79 ERA - 1.530 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-rhode island-george ellis-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "George Ellis",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 4.57,
+        "whip": 1.67,
+        "strikeouts": 12,
+        "innings": 41.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.57 ERA - 1.670 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-rhode island-richard matthews-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Matthews",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 10,
+        "wins": 1,
+        "era": 2.35,
+        "whip": 1.43,
+        "strikeouts": 2,
+        "innings": 15.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.35 ERA - 1.430 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-ernie rosseau-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ernie Rosseau",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 42,
+        "avg": 0.39,
+        "ops": 0.99,
+        "hr": 1,
+        "rbi": 26,
+        "sb": 34
+      },
+      "statLine": "..390 AVG - ..990 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-alex pastore-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Alex Pastore",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 42,
+        "avg": 0.356,
+        "ops": 1.189,
+        "hr": 11,
+        "rbi": 53,
+        "sb": 13
+      },
+      "statLine": "..356 AVG - 1.189 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-gary conley-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Conley",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 42,
+        "avg": 0.309,
+        "ops": 0.911,
+        "hr": 3,
+        "rbi": 41,
+        "sb": 8
+      },
+      "statLine": "..309 AVG - ..911 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-dennis whitehead-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Whitehead",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 39,
+        "avg": 0.204,
+        "ops": 0.605,
+        "hr": 1,
+        "rbi": 9,
+        "sb": 2
+      },
+      "statLine": "..204 AVG - ..605 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-forrest crowder-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Forrest Crowder",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 32,
+        "avg": 0.236,
+        "ops": 0.827,
+        "hr": 2,
+        "rbi": 16,
+        "sb": 1
+      },
+      "statLine": "..236 AVG - ..827 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-mike warren-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Warren",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 39,
+        "avg": 0.362,
+        "ops": 1.062,
+        "hr": 1,
+        "rbi": 3,
+        "sb": 18
+      },
+      "statLine": "..362 AVG - 1.062 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-bruce calderone-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Calderone",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 33,
+        "avg": 0.293,
+        "ops": 0.835,
+        "hr": 1,
+        "rbi": 8,
+        "sb": 3
+      },
+      "statLine": "..293 AVG - ..835 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-jim hively-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Hively",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 24,
+        "avg": 0.286,
+        "ops": 0.793,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 9
+      },
+      "statLine": "..286 AVG - ..793 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-mike o berry-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike O'Berry",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 19,
+        "avg": 0.308,
+        "ops": 0.727,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 1
+      },
+      "statLine": "..308 AVG - ..727 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-mark hoffman-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Hoffman",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 15,
+        "wins": 10,
+        "era": 1.77,
+        "whip": 1.23,
+        "strikeouts": 92,
+        "innings": 91.1,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "1.77 ERA - 1.230 WHIP - 92 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-willie collins-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Willie Collins",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 17,
+        "wins": 7,
+        "era": 1.53,
+        "whip": 1.13,
+        "strikeouts": 83,
+        "innings": 70.2,
+        "saves": 2,
+        "starts": 10
+      },
+      "statLine": "1.53 ERA - 1.130 WHIP - 83 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-tommy mercer-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tommy Mercer",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 15,
+        "wins": 5,
+        "era": 2.42,
+        "whip": 1.19,
+        "strikeouts": 62,
+        "innings": 67,
+        "saves": 2,
+        "starts": 9
+      },
+      "statLine": "2.42 ERA - 1.190 WHIP - 62 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-buddy choat-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Buddy Choat",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 1.62,
+        "whip": 0.87,
+        "strikeouts": 22,
+        "innings": 33.1,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "1.62 ERA - ..870 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-blaine dollar-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Blaine Dollar",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 18,
+        "wins": 1,
+        "era": 1.8,
+        "whip": 1.28,
+        "strikeouts": 20,
+        "innings": 25,
+        "saves": 4,
+        "starts": 1
+      },
+      "statLine": "1.80 ERA - 1.280 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-bill sturgeon-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Sturgeon",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 10,
+        "wins": 2,
+        "era": 3.48,
+        "whip": 1.26,
+        "strikeouts": 8,
+        "innings": 20.2,
+        "saves": 3,
+        "starts": 1
+      },
+      "statLine": "3.48 ERA - 1.260 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-eddie hightower-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Eddie Hightower",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 6,
+        "wins": 4,
+        "era": 1.42,
+        "whip": 0.74,
+        "strikeouts": 8,
+        "innings": 19,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "1.42 ERA - ..740 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-ronnie powell-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ronnie Powell",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 5.4,
+        "whip": 1.05,
+        "strikeouts": 2,
+        "innings": 6.2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "5.40 ERA - 1.050 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-al rosen-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Al Rosen",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 0,
+        "whip": 2.5,
+        "strikeouts": 3,
+        "innings": 4,
+        "saves": 3,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 2.500 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-mullen-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mullen",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.2,
+        "strikeouts": 2,
+        "innings": 3.1,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.200 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-howard-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Howard",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 3,
+        "whip": 1.33,
+        "strikeouts": 2,
+        "innings": 3,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "3.00 ERA - 1.330 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-pocasse-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pocasse",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1,
+        "strikeouts": 1,
+        "innings": 2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-bruce poole-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Poole",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 4.5,
+        "whip": 1,
+        "strikeouts": 4,
+        "innings": 2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "4.50 ERA - 1.000 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-mcgrain-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "McGrain",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 1,
+        "wins": 1,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 1,
+        "innings": 2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-tapis-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tapis",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 5.4,
+        "whip": 4.2,
+        "strikeouts": 1,
+        "innings": 1.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.40 ERA - 4.200 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-williams-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Williams",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 1,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south alabama-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 103,
+        "wins": 32,
+        "era": 1.99,
+        "whip": 1.15,
+        "strikeouts": 304,
+        "innings": 339.2,
+        "saves": 18,
+        "starts": 41
+      },
+      "statLine": "1.99 ERA - 1.150 WHIP - 304 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-hank small-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Hank Small",
+      "team": "South Carolina",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 42,
+        "avg": 0.282,
+        "ops": 0.822,
+        "hr": 8,
+        "rbi": 32,
+        "sb": 25
+      },
+      "statLine": "..282 AVG - ..822 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-john gambrell-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Gambrell",
+      "team": "South Carolina",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 41,
+        "avg": 0.326,
+        "ops": 0.813,
+        "hr": 3,
+        "rbi": 10,
+        "sb": 23
+      },
+      "statLine": "..326 AVG - ..813 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-steve king-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve King",
+      "team": "South Carolina",
+      "classYear": "Fr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 39,
+        "avg": 0.315,
+        "ops": 0.826,
+        "hr": 3,
+        "rbi": 19,
+        "sb": 5
+      },
+      "statLine": "..315 AVG - ..826 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-greg ward-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Ward",
+      "team": "South Carolina",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 2.43,
+        "whip": 0.82,
+        "strikeouts": 74,
+        "innings": 74,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.43 ERA - ..820 WHIP - 74 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-tim lewis-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tim Lewis",
+      "team": "South Carolina",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 2.56,
+        "whip": 1.3,
+        "strikeouts": 70,
+        "innings": 56.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.56 ERA - 1.300 WHIP - 70 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-south carolina-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 23,
+        "wins": 11,
+        "era": 2.49,
+        "whip": 1.03,
+        "strikeouts": 144,
+        "innings": 130.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "2.49 ERA - 1.030 WHIP - 144 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-larry calufetti-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Calufetti",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 43,
+        "avg": 0.308,
+        "ops": 0.909,
+        "hr": 7,
+        "rbi": 43,
+        "sb": 6
+      },
+      "statLine": "..308 AVG - ..909 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-michael wilbins-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Wilbins",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 43,
+        "avg": 0.336,
+        "ops": 0.899,
+        "hr": 2,
+        "rbi": 27,
+        "sb": 9
+      },
+      "statLine": "..336 AVG - ..899 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-stanley mann-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Stanley Mann",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 43,
+        "avg": 0.309,
+        "ops": 0.784,
+        "hr": 2,
+        "rbi": 21,
+        "sb": 4
+      },
+      "statLine": "..309 AVG - ..784 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-joe wallis-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Wallis",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 43,
+        "avg": 0.36,
+        "ops": 1.115,
+        "hr": 6,
+        "rbi": 25,
+        "sb": 34
+      },
+      "statLine": "..360 AVG - 1.115 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-howard mitchell-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Howard Mitchell",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 42,
+        "avg": 0.288,
+        "ops": 0.857,
+        "hr": 2,
+        "rbi": 26,
+        "sb": 1
+      },
+      "statLine": "..288 AVG - ..857 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-steve shartzer-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Shartzer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 36,
+        "avg": 0.339,
+        "ops": 0.814,
+        "hr": 1,
+        "rbi": 27,
+        "sb": 10
+      },
+      "statLine": "..339 AVG - ..814 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-ken kral-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Kral",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 42,
+        "avg": 0.266,
+        "ops": 0.828,
+        "hr": 5,
+        "rbi": 19,
+        "sb": 9
+      },
+      "statLine": "..266 AVG - ..828 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-bert newman-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bert Newman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 42,
+        "avg": 0.321,
+        "ops": 0.817,
+        "hr": 1,
+        "rbi": 16,
+        "sb": 20
+      },
+      "statLine": "..321 AVG - ..817 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-john hoscheidt-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Hoscheidt",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 19,
+        "avg": 0.167,
+        "ops": 0.553,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 0
+      },
+      "statLine": "..167 AVG - ..553 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-frank hunsaker-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Frank Hunsaker",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 16,
+        "avg": 0.263,
+        "ops": 0.68,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..263 AVG - ..680 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-jim bokelman-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Bokelman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 1,
+        "wins": 7,
+        "era": 2.15,
+        "whip": 1.31,
+        "strikeouts": 55,
+        "innings": 58.2,
+        "saves": 1,
+        "starts": 7
+      },
+      "statLine": "2.15 ERA - 1.310 WHIP - 55 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-richard ware-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Ware",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 11,
+        "wins": 6,
+        "era": 0.47,
+        "whip": 0.83,
+        "strikeouts": 48,
+        "innings": 57.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "..47 ERA - ..830 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-robin derry-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robin Derry",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 1.96,
+        "whip": 1.4,
+        "strikeouts": 34,
+        "innings": 41.1,
+        "saves": 3,
+        "starts": 3
+      },
+      "statLine": "1.96 ERA - 1.400 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-robert klass-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Klass",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 7,
+        "wins": 3,
+        "era": 4.33,
+        "whip": 1.64,
+        "strikeouts": 30,
+        "innings": 35.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.33 ERA - 1.640 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-bill dunning-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Dunning",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 7,
+        "wins": 3,
+        "era": 1.05,
+        "whip": 0.87,
+        "strikeouts": 19,
+        "innings": 34.1,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "1.05 ERA - ..870 WHIP - 19 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-willie jones-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Willie Jones",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 5.16,
+        "whip": 2.03,
+        "strikeouts": 16,
+        "innings": 22.2,
+        "saves": 2,
+        "starts": 4
+      },
+      "statLine": "5.16 ERA - 2.030 WHIP - 16 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-steve randall-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Randall",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 1.69,
+        "whip": 1.12,
+        "strikeouts": 6,
+        "innings": 10.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "1.69 ERA - 1.120 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-southern illinois-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 49,
+        "wins": 27,
+        "era": 2.14,
+        "whip": 1.26,
+        "strikeouts": 208,
+        "innings": 260.2,
+        "saves": 8,
+        "starts": 32
+      },
+      "statLine": "2.14 ERA - 1.260 WHIP - 208 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-bob hampton-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Hampton",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 52,
+        "avg": 0.393,
+        "ops": 1.056,
+        "hr": 7,
+        "rbi": 30,
+        "sb": 4
+      },
+      "statLine": "..393 AVG - 1.056 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-steve davis-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Davis",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 45,
+        "avg": 0.309,
+        "ops": 0.717,
+        "hr": 1,
+        "rbi": 18,
+        "sb": 5
+      },
+      "statLine": "..309 AVG - ..717 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-mark lucich-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mark Lucich",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 54,
+        "avg": 0.28,
+        "ops": 0.819,
+        "hr": 4,
+        "rbi": 26,
+        "sb": 4
+      },
+      "statLine": "..280 AVG - ..819 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-michael nelson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Nelson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 47,
+        "avg": 0.199,
+        "ops": 0.67,
+        "hr": 3,
+        "rbi": 15,
+        "sb": 0
+      },
+      "statLine": "..199 AVG - ..670 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-bob reece-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Reece",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 39,
+        "avg": 0.256,
+        "ops": 0.689,
+        "hr": 2,
+        "rbi": 16,
+        "sb": 0
+      },
+      "statLine": "..256 AVG - ..689 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-glen johnson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glen Johnson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 37,
+        "avg": 0.243,
+        "ops": 0.65,
+        "hr": 2,
+        "rbi": 9,
+        "sb": 1
+      },
+      "statLine": "..243 AVG - ..650 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-david baker-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Baker",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 33,
+        "avg": 0.348,
+        "ops": 0.98,
+        "hr": 5,
+        "rbi": 22,
+        "sb": 3
+      },
+      "statLine": "..348 AVG - ..980 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-bruce robinson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Robinson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 31,
+        "avg": 0.261,
+        "ops": 0.697,
+        "hr": 1,
+        "rbi": 12,
+        "sb": 1
+      },
+      "statLine": "..261 AVG - ..697 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-ed orrizzi-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ed Orrizzi",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 19,
+        "avg": 0.222,
+        "ops": 0.536,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 0
+      },
+      "statLine": "..222 AVG - ..536 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-patrick rusco-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Patrick Rusco",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 19,
+        "avg": 0.333,
+        "ops": 0.769,
+        "hr": 0,
+        "rbi": 6,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - ..769 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-ray anderson-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ray Anderson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "avg": 0.273,
+        "ops": 0.724,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..273 AVG - ..724 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-max goldstein-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Max Goldstein",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "avg": 0.4,
+        "ops": 0.855,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..400 AVG - ..855 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-andy bielanski-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andy Bielanski",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-bob dipietro-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob DiPietro",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "wins": 5,
+        "era": 1.3,
+        "whip": 1.05,
+        "strikeouts": 65,
+        "innings": 76.1,
+        "saves": 2,
+        "starts": 9
+      },
+      "statLine": "1.30 ERA - 1.050 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-al arthur-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Al Arthur",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 7,
+        "era": 1.55,
+        "whip": 1.01,
+        "strikeouts": 48,
+        "innings": 75.1,
+        "saves": 2,
+        "starts": 13
+      },
+      "statLine": "1.55 ERA - 1.010 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-ken grolle-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ken Grolle",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 5,
+        "era": 2.16,
+        "whip": 1.32,
+        "strikeouts": 62,
+        "innings": 75,
+        "saves": 2,
+        "starts": 8
+      },
+      "statLine": "2.16 ERA - 1.320 WHIP - 62 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-nicholas peterson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Nicholas Peterson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 23,
+        "wins": 3,
+        "era": 2.13,
+        "whip": 1.09,
+        "strikeouts": 58,
+        "innings": 67.2,
+        "saves": 8,
+        "starts": 1
+      },
+      "statLine": "2.13 ERA - 1.090 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-dan shaw-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Shaw",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 3.26,
+        "whip": 0.93,
+        "strikeouts": 46,
+        "innings": 66.1,
+        "saves": 1,
+        "starts": 12
+      },
+      "statLine": "3.26 ERA - ..930 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-dave frost-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Frost",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.11,
+        "whip": 1.08,
+        "strikeouts": 39,
+        "innings": 42.2,
+        "saves": 1,
+        "starts": 4
+      },
+      "statLine": "2.11 ERA - 1.080 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-mike higgins-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Higgins",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 2,
+        "era": 5.31,
+        "whip": 1.35,
+        "strikeouts": 25,
+        "innings": 42.1,
+        "saves": 1,
+        "starts": 6
+      },
+      "statLine": "5.31 ERA - 1.350 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-max goldstein-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Max Goldstein",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 3,
+        "era": 6.38,
+        "whip": 1.64,
+        "strikeouts": 7,
+        "innings": 18.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.38 ERA - 1.640 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-andy bielanski-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Andy Bielanski",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 7.11,
+        "whip": 1.74,
+        "strikeouts": 3,
+        "innings": 6.1,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "7.11 ERA - 1.740 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-jim dudley-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Dudley",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 1,
+        "era": 5.4,
+        "whip": 2.6,
+        "strikeouts": 5,
+        "innings": 5,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.40 ERA - 2.600 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-mike williamson-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Williamson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.33,
+        "strikeouts": 3,
+        "innings": 3,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "..00 ERA - 1.330 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-patrick rusco-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Patrick Rusco",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 13.5,
+        "whip": 4,
+        "strikeouts": 2,
+        "innings": 2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "13.50 ERA - 4.000 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-stanford-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 110,
+        "wins": 37,
+        "era": 2.64,
+        "whip": 1.17,
+        "strikeouts": 363,
+        "innings": 480.1,
+        "saves": 18,
+        "starts": 57
+      },
+      "statLine": "2.64 ERA - 1.170 WHIP - 363 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas-keith moreland-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Moreland",
+      "team": "Texas",
+      "classYear": "Fr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas-ken pape-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Pape",
+      "team": "Texas",
+      "classYear": "Jr",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-michael schrader-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Schrader",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 25,
+        "avg": 0.31,
+        "ops": 0.894,
+        "hr": 3,
+        "rbi": 14,
+        "sb": 0
+      },
+      "statLine": "..310 AVG - ..894 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-jim hacker-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Hacker",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-michael frazier-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Frazier",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-bob falcon-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Falcon",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 2.19,
+        "whip": 1.37,
+        "strikeouts": 87,
+        "innings": 53.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.19 ERA - 1.370 WHIP - 87 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-bobby wittkamp-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bobby Wittkamp",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 5,
+        "era": 2.9,
+        "whip": 1.25,
+        "strikeouts": 45,
+        "innings": 49.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.90 ERA - 1.250 WHIP - 45 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-texas a m-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 2.19,
+        "whip": 1.37,
+        "strikeouts": 87,
+        "innings": 53.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.19 ERA - 1.370 WHIP - 87 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-tulane-curtis zimmerman-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Curtis Zimmerman",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-tulane-kenneth cronin-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kenneth Cronin",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 14,
+        "wins": 4,
+        "era": 3.63,
+        "whip": 1.49,
+        "strikeouts": 54,
+        "innings": 67,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "3.63 ERA - 1.490 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-tulane-edward bernard-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Edward Bernard",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 2.84,
+        "whip": 1.46,
+        "strikeouts": 55,
+        "innings": 50.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.84 ERA - 1.460 WHIP - 55 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-tulane-tony beaulieu-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tony Beaulieu",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.55,
+        "whip": 1.42,
+        "strikeouts": 31,
+        "innings": 50.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.55 ERA - 1.420 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-ucla-bill hobbs-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bill Hobbs",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 47,
+        "avg": 0.356,
+        "ops": 0.985,
+        "hr": 4,
+        "rbi": 31,
+        "sb": 8
+      },
+      "statLine": "..356 AVG - ..985 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-ucla-mike edwards-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Edwards",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-wake forest-jon bolton-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jon Bolton",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 3.19,
+        "whip": 1.31,
+        "strikeouts": 47,
+        "innings": 62,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.19 ERA - 1.310 WHIP - 47 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-washington-dwight carter-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dwight Carter",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-washington-ray price-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ray Price",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 1.9,
+        "whip": 1.04,
+        "strikeouts": 43,
+        "innings": 52,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.90 ERA - 1.040 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-washington-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 1.9,
+        "whip": 1.04,
+        "strikeouts": 43,
+        "innings": 52,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.90 ERA - 1.040 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-west virginia-tom whitecotton-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Whitecotton",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 2.08,
+        "whip": 1.01,
+        "strikeouts": 66,
+        "innings": 82.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.08 ERA - 1.010 WHIP - 66 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-michael bennett-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Bennett",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 42,
+        "avg": 0.241,
+        "ops": 0.764,
+        "hr": 4,
+        "rbi": 24,
+        "sb": 10
+      },
+      "statLine": "..241 AVG - ..764 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-dennis mantick-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Mantick",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 38,
+        "avg": 0.282,
+        "ops": 0.746,
+        "hr": 1,
+        "rbi": 16,
+        "sb": 12
+      },
+      "statLine": "..282 AVG - ..746 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-dirk dunbar-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dirk Dunbar",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 33,
+        "avg": 0,
+        "ops": 0,
+        "hr": 5,
+        "rbi": 24,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-rick vogel-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Vogel",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 13,
+        "wins": 9,
+        "era": 3.42,
+        "whip": 1.34,
+        "strikeouts": 58,
+        "innings": 71,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.42 ERA - 1.340 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-frank stout-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Frank Stout",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 3.82,
+        "whip": 1.44,
+        "strikeouts": 51,
+        "innings": 66,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.82 ERA - 1.440 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western illinois-ed gvazdinskas-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Gvazdinskas",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 2.95,
+        "whip": 1.45,
+        "strikeouts": 39,
+        "innings": 55,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.95 ERA - 1.450 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western michigan-mike squires-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Squires",
+      "team": "Western Michigan",
+      "classYear": "Sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 39,
+        "avg": 0.382,
+        "ops": 1.023,
+        "hr": 2,
+        "rbi": 33,
+        "sb": 11
+      },
+      "statLine": "..382 AVG - 1.023 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western michigan-paul bock-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Paul Bock",
+      "team": "Western Michigan",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 3.04,
+        "whip": 1.4,
+        "strikeouts": 65,
+        "innings": 94.2,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.04 ERA - 1.400 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western michigan-mike squires-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Squires",
+      "team": "Western Michigan",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 11,
+        "wins": 7,
+        "era": 3.01,
+        "whip": 1.43,
+        "strikeouts": 59,
+        "innings": 80.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "3.01 ERA - 1.430 WHIP - 59 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western michigan-thomas carpenter-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Thomas Carpenter",
+      "team": "Western Michigan",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 3.18,
+        "whip": 1.1,
+        "strikeouts": 18,
+        "innings": 51,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.18 ERA - 1.100 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-western michigan-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Western Michigan",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 32,
+        "wins": 18,
+        "era": 3.06,
+        "whip": 1.34,
+        "strikeouts": 142,
+        "innings": 226.1,
+        "saves": 0,
+        "starts": 30
+      },
+      "statLine": "3.06 ERA - 1.340 WHIP - 142 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-rod spence-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rod Spence",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 56,
+        "avg": 0.377,
+        "ops": 1.005,
+        "hr": 7,
+        "rbi": 60,
+        "sb": 2
+      },
+      "statLine": "..377 AVG - 1.005 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-jeff malinoff-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeff Malinoff",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 56,
+        "avg": 0.367,
+        "ops": 0.986,
+        "hr": 3,
+        "rbi": 53,
+        "sb": 1
+      },
+      "statLine": "..367 AVG - ..986 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-terry stupy-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terry Stupy",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-carl peternell-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Carl Peternell",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-keith bridges-bat",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Bridges",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-ray humphries-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ray Humphries",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 21,
+        "wins": 13,
+        "era": 2.78,
+        "whip": 1.22,
+        "strikeouts": 79,
+        "innings": 139,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "2.78 ERA - 1.220 WHIP - 79 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-gary wheelock-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Wheelock",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 19,
+        "wins": 11,
+        "era": 2.54,
+        "whip": 1.13,
+        "strikeouts": 64,
+        "innings": 102.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.54 ERA - 1.130 WHIP - 64 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-jerry maras-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jerry Maras",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 12,
+        "wins": 9,
+        "era": 1.6,
+        "whip": 1.08,
+        "strikeouts": 95,
+        "innings": 101,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "1.60 ERA - 1.080 WHIP - 95 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-uc irvine-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 40,
+        "wins": 24,
+        "era": 2.68,
+        "whip": 1.18,
+        "strikeouts": 143,
+        "innings": 241.2,
+        "saves": 0,
+        "starts": 26
+      },
+      "statLine": "2.68 ERA - 1.180 WHIP - 143 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-lehigh-paul hartzell-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Paul Hartzell",
+      "team": "Lehigh",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 2.86,
+        "whip": 1.57,
+        "strikeouts": 35,
+        "innings": 56.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.86 ERA - 1.570 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1973-lehigh-totals-pit",
+      "season": 1973,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Lehigh",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 2.86,
+        "whip": 1.57,
+        "strikeouts": 35,
+        "innings": 56.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.86 ERA - 1.570 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    }
+  ]
+}

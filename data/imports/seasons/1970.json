@@ -1,0 +1,4823 @@
+{
+  "year": 1970,
+  "players": [
+    {
+      "id": "1970-bowling green-john knox-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Knox",
+      "team": "Bowling Green",
+      "classYear": "Sr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 35,
+        "avg": 0.373,
+        "ops": 0.534,
+        "hr": 5,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..373 AVG - ..534 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-brigham young-dane iorg-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dane Iorg",
+      "team": "Brigham Young",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 45,
+        "avg": 0.38,
+        "ops": 1.107,
+        "hr": 3,
+        "rbi": 38,
+        "sb": 9
+      },
+      "statLine": "..380 AVG - 1.107 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-craig white-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Craig White",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 43,
+        "avg": 0.28,
+        "ops": 0.538,
+        "hr": 7,
+        "rbi": 28,
+        "sb": 3
+      },
+      "statLine": "..280 AVG - ..538 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-donald russell-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Donald Russell",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 48,
+        "avg": 0.254,
+        "ops": 0.446,
+        "hr": 4,
+        "rbi": 26,
+        "sb": 9
+      },
+      "statLine": "..254 AVG - ..446 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-john severs-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Severs",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 44,
+        "avg": 0.255,
+        "ops": 0.426,
+        "hr": 1,
+        "rbi": 14,
+        "sb": 9
+      },
+      "statLine": "..255 AVG - ..426 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-eddie dixon-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Eddie Dixon",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 30,
+        "avg": 0.267,
+        "ops": 0.442,
+        "hr": 0,
+        "rbi": 10,
+        "sb": 2
+      },
+      "statLine": "..267 AVG - ..442 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-rusty gerhardt-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rusty Gerhardt",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 9,
+        "era": 1.79,
+        "whip": 0.98,
+        "strikeouts": 111,
+        "innings": 100.1,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.79 ERA - ..980 WHIP - 111 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-alan demarest-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Demarest",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 5,
+        "era": 4.13,
+        "whip": 1.33,
+        "strikeouts": 44,
+        "innings": 65.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.13 ERA - 1.330 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-david van volkenburg-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Van Volkenburg",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 2.04,
+        "whip": 1.18,
+        "strikeouts": 42,
+        "innings": 61.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.04 ERA - 1.180 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-lindsay graham-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lindsay Graham",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 2.42,
+        "whip": 1.24,
+        "strikeouts": 27,
+        "innings": 48.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.42 ERA - 1.240 WHIP - 27 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-jay bevis-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jay Bevis",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 20,
+        "wins": 5,
+        "era": 1.12,
+        "whip": 0.89,
+        "strikeouts": 40,
+        "innings": 40.1,
+        "saves": 5,
+        "starts": 0
+      },
+      "statLine": "1.12 ERA - ..890 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-russell bryant-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Russell Bryant",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 7.71,
+        "whip": 2.1,
+        "strikeouts": 6,
+        "innings": 21,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "7.71 ERA - 2.100 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-tom hudgins-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Hudgins",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 6.05,
+        "whip": 2.38,
+        "strikeouts": 13,
+        "innings": 19.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.05 ERA - 2.380 WHIP - 13 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-donny boettcher-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Donny Boettcher",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 1.4,
+        "whip": 1.5,
+        "strikeouts": 5,
+        "innings": 19.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "1.40 ERA - 1.500 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-joe penale-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Penale",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 2.67,
+        "strikeouts": 2,
+        "innings": 3,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 2.670 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-jimmy baker-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jimmy Baker",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.5,
+        "strikeouts": 1,
+        "innings": 2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.500 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-mike whitfield-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Whitfield",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 36,
+        "whip": 8,
+        "strikeouts": 1,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "36.00 ERA - 8.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-clemson-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 39,
+        "wins": 19,
+        "era": 1.99,
+        "whip": 1.1,
+        "strikeouts": 181,
+        "innings": 212.1,
+        "saves": 0,
+        "starts": 33
+      },
+      "statLine": "1.99 ERA - 1.100 WHIP - 181 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-john posen-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Posen",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 32,
+        "avg": 0.282,
+        "ops": 0.749,
+        "hr": 1,
+        "rbi": 15,
+        "sb": 9
+      },
+      "statLine": "..282 AVG - ..749 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-steve denison-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Denison",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.7,
+        "whip": 1.41,
+        "strikeouts": 79,
+        "innings": 80,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.70 ERA - 1.410 WHIP - 79 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-carle felton-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Carle Felton",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 3,
+        "era": 1.35,
+        "whip": 1.18,
+        "strikeouts": 51,
+        "innings": 53.1,
+        "saves": 1,
+        "starts": 5
+      },
+      "statLine": "1.35 ERA - 1.180 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-leo hart-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Leo Hart",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 1.25,
+        "whip": 1.04,
+        "strikeouts": 45,
+        "innings": 43.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.25 ERA - 1.040 WHIP - 45 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-bill hanenberg-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Hanenberg",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 2.36,
+        "whip": 1.39,
+        "strikeouts": 17,
+        "innings": 26.2,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "2.36 ERA - 1.390 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-alan schwartz-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Schwartz",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 0,
+        "era": 3.24,
+        "whip": 1.2,
+        "strikeouts": 19,
+        "innings": 25,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "3.24 ERA - 1.200 WHIP - 19 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-craig buschman-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Craig Buschman",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 4,
+        "whip": 2.22,
+        "strikeouts": 6,
+        "innings": 18,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "4.00 ERA - 2.220 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-jack wagner-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jack Wagner",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 0,
+        "era": 3,
+        "whip": 1.8,
+        "strikeouts": 10,
+        "innings": 15,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "3.00 ERA - 1.800 WHIP - 10 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-dave snyder-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Snyder",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 1,
+        "era": 0,
+        "whip": 1.33,
+        "strikeouts": 4,
+        "innings": 3,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.330 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-stuart meadows-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Stuart Meadows",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 4.5,
+        "whip": 1.5,
+        "strikeouts": 3,
+        "innings": 2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "4.50 ERA - 1.500 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-duke-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 67,
+        "wins": 17,
+        "era": 2.3,
+        "whip": 1.36,
+        "strikeouts": 234,
+        "innings": 266.1,
+        "saves": 4,
+        "starts": 33
+      },
+      "statLine": "2.30 ERA - 1.360 WHIP - 234 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida-nick devirgilis-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Nick Devirgilis",
+      "team": "Florida",
+      "classYear": "Fr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 31,
+        "avg": 0.222,
+        "ops": 0.608,
+        "hr": 0,
+        "rbi": 8,
+        "sb": 2
+      },
+      "statLine": "..222 AVG - ..608 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-dick nichols-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dick Nichols",
+      "team": "Florida State",
+      "classYear": "Sr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.338,
+        "ops": 0.922,
+        "hr": 2,
+        "rbi": 35,
+        "sb": 34
+      },
+      "statLine": "..338 AVG - ..922 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-johnny grubb-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Johnny Grubb",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.303,
+        "ops": 0.773,
+        "hr": 3,
+        "rbi": 35,
+        "sb": 14
+      },
+      "statLine": "..303 AVG - ..773 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-ron cash-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ron Cash",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.335,
+        "ops": 0.914,
+        "hr": 3,
+        "rbi": 47,
+        "sb": 5
+      },
+      "statLine": "..335 AVG - ..914 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-greg gromek-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Gromek",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.3,
+        "ops": 0.726,
+        "hr": 2,
+        "rbi": 35,
+        "sb": 5
+      },
+      "statLine": "..300 AVG - ..726 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-harry saferight-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Harry Saferight",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.269,
+        "ops": 0.737,
+        "hr": 4,
+        "rbi": 38,
+        "sb": 3
+      },
+      "statLine": "..269 AVG - ..737 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-richard moss-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Moss",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0.125,
+        "ops": 0.489,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 1
+      },
+      "statLine": "..125 AVG - ..489 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-gene ammann-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gene Ammann",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 15,
+        "era": 0.66,
+        "whip": 0.96,
+        "strikeouts": 150,
+        "innings": 137.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "..66 ERA - ..960 WHIP - 150 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-pat osburn-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pat Osburn",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 12,
+        "era": 0.92,
+        "whip": 1.06,
+        "strikeouts": 154,
+        "innings": 126.2,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "..92 ERA - 1.060 WHIP - 154 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-mike slade-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Slade",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 7,
+        "era": 2.13,
+        "whip": 1.41,
+        "strikeouts": 67,
+        "innings": 88.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.13 ERA - 1.410 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-mac scarce-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mac Scarce",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 1,
+        "era": 1.62,
+        "whip": 0.78,
+        "strikeouts": 49,
+        "innings": 33.1,
+        "saves": 12,
+        "starts": 0
+      },
+      "statLine": "1.62 ERA - ..780 WHIP - 49 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-john ferguson-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Ferguson",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 1.08,
+        "whip": 1.12,
+        "strikeouts": 20,
+        "innings": 25,
+        "saves": 1,
+        "starts": 2
+      },
+      "statLine": "1.08 ERA - 1.120 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-al cleveland-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Al Cleveland",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 2.63,
+        "whip": 1.32,
+        "strikeouts": 12,
+        "innings": 13.2,
+        "saves": 3,
+        "starts": 0
+      },
+      "statLine": "2.63 ERA - 1.320 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-florida state-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Florida State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 86,
+        "wins": 37,
+        "era": 1.21,
+        "whip": 1.09,
+        "strikeouts": 452,
+        "innings": 424.2,
+        "saves": 16,
+        "starts": 47
+      },
+      "statLine": "1.21 ERA - 1.090 WHIP - 452 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-keith lieppman-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Lieppman",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 23,
+        "avg": 0.417,
+        "ops": 0.583,
+        "hr": 3,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..417 AVG - ..583 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-skip james-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Skip James",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 23,
+        "avg": 0.38,
+        "ops": 0.557,
+        "hr": 2,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..380 AVG - ..557 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-paul womble-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Womble",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 23,
+        "avg": 0.379,
+        "ops": 0.682,
+        "hr": 6,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..379 AVG - ..682 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-bill steigemeier-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Steigemeier",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 1.38,
+        "whip": 1.19,
+        "strikeouts": 37,
+        "innings": 52,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.38 ERA - 1.190 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-bob wolf-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Wolf",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 22,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas-bob kaufman-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Kaufman",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 21,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-bryce dietrich-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bryce Dietrich",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 17,
+        "wins": 3,
+        "era": 3.45,
+        "whip": 1.45,
+        "strikeouts": 48,
+        "innings": 62.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.45 ERA - 1.450 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-robert haney-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Haney",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 17,
+        "wins": 6,
+        "era": 1.33,
+        "whip": 1.04,
+        "strikeouts": 36,
+        "innings": 47.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "1.33 ERA - 1.040 WHIP - 36 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-mark arnold-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Arnold",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 0,
+        "era": 5.44,
+        "whip": 1.84,
+        "strikeouts": 41,
+        "innings": 44.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "5.44 ERA - 1.840 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-mike todd-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Todd",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 17,
+        "wins": 2,
+        "era": 3.58,
+        "whip": 1.35,
+        "strikeouts": 25,
+        "innings": 37.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.58 ERA - 1.350 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-david klenda-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Klenda",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 3,
+        "era": 3.34,
+        "whip": 1.43,
+        "strikeouts": 39,
+        "innings": 35,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.34 ERA - 1.430 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-nicholas horner-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Nicholas Horner",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 6.23,
+        "whip": 2.31,
+        "strikeouts": 19,
+        "innings": 21.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "6.23 ERA - 2.310 WHIP - 19 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-joseph simecka-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joseph Simecka",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 6.41,
+        "whip": 1.88,
+        "strikeouts": 6,
+        "innings": 19.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.41 ERA - 1.880 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-floyd rudolph-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Floyd Rudolph",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 1,
+        "era": 2.35,
+        "whip": 0.78,
+        "strikeouts": 6,
+        "innings": 7.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "2.35 ERA - ..780 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-gus vegrox-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gus Vegrox",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kansas state-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 24,
+        "wins": 3,
+        "era": 4.52,
+        "whip": 1.66,
+        "strikeouts": 80,
+        "innings": 79.2,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "4.52 ERA - 1.660 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-kentucky-derek bryant-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Derek Bryant",
+      "team": "Kentucky",
+      "classYear": "Fr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-maryland-david sauve-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Sauve",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 40,
+        "avg": 0.368,
+        "ops": 0.368,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..368 AVG - ..368 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-maryland-gene hiser-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gene Hiser",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 40,
+        "avg": 0.338,
+        "ops": 0.639,
+        "hr": 11,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..338 AVG - ..639 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-maryland-rick clee-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Clee",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 13,
+        "wins": 8,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 92,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-maryland-harry martell-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Harry Martell",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 38,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-maryland-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 38,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-joel green-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joel Green",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 44,
+        "avg": 0.341,
+        "ops": 0.798,
+        "hr": 0,
+        "rbi": 18,
+        "sb": 32
+      },
+      "statLine": "..341 AVG - ..798 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-tom borzecki-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Borzecki",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 2.93,
+        "whip": 1.31,
+        "strikeouts": 61,
+        "innings": 86,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.93 ERA - 1.310 WHIP - 61 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-neale monte-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Neale Monte",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 8,
+        "era": 1.48,
+        "whip": 1.2,
+        "strikeouts": 30,
+        "innings": 66.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.48 ERA - 1.200 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-ferris french-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ferris french",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 4,
+        "era": 3.45,
+        "whip": 1.25,
+        "strikeouts": 32,
+        "innings": 60,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.45 ERA - 1.250 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-rusty cameron-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rusty Cameron",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 4.28,
+        "whip": 1.45,
+        "strikeouts": 29,
+        "innings": 54.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.28 ERA - 1.450 WHIP - 29 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-jim muelhausen-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Muelhausen",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 3.46,
+        "whip": 1.23,
+        "strikeouts": 39,
+        "innings": 39,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.46 ERA - 1.230 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-vincent battaglia-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Vincent Battaglia",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "wins": 3,
+        "era": 1.13,
+        "whip": 1.21,
+        "strikeouts": 24,
+        "innings": 24,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.13 ERA - 1.210 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-terry brown-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Terry Brown",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 1,
+        "era": 2.01,
+        "whip": 1.66,
+        "strikeouts": 20,
+        "innings": 22.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.01 ERA - 1.660 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-dave patrylo-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Patrylo",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 4.24,
+        "whip": 2,
+        "strikeouts": 8,
+        "innings": 17,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.24 ERA - 2.000 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-mike larkin-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Larkin",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 6,
+        "whip": 2,
+        "strikeouts": 7,
+        "innings": 9,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.00 ERA - 2.000 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-ralph maza-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ralph Maza",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 0.37,
+        "strikeouts": 3,
+        "innings": 2.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..370 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-dave popivic-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Popivic",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 0,
+        "whip": 4,
+        "strikeouts": 2,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 4.000 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-miami-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 110,
+        "wins": 28,
+        "era": 2.94,
+        "whip": 1.35,
+        "strikeouts": 255,
+        "innings": 382.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.94 ERA - 1.350 WHIP - 255 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-nick scarpelli-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Nick Scarpelli",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 28,
+        "avg": 0.235,
+        "ops": 0.564,
+        "hr": 0,
+        "rbi": 15,
+        "sb": 4
+      },
+      "statLine": "..235 AVG - ..564 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-richard lucke-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Lucke",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 28,
+        "avg": 0.274,
+        "ops": 0.868,
+        "hr": 3,
+        "rbi": 18,
+        "sb": 4
+      },
+      "statLine": "..274 AVG - ..868 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-tom o connor-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tom O'Connor",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "avg": 0.265,
+        "ops": 0.559,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..265 AVG - ..559 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-bob roemer-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Roemer",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "avg": 0.333,
+        "ops": 0.749,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - ..749 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-joe theismann-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Theismann",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "avg": 0.368,
+        "ops": 0.952,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 1
+      },
+      "statLine": "..368 AVG - ..952 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-joe larocca-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe LaRocca",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "avg": 0.8,
+        "ops": 1.6,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..800 AVG - 1.600 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-ron schmitz-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Schmitz",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 3,
+        "whip": 1.35,
+        "strikeouts": 33,
+        "innings": 75,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.00 ERA - 1.350 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-micky karkhut-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Micky Karkhut",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.76,
+        "whip": 1.35,
+        "strikeouts": 48,
+        "innings": 75,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.76 ERA - 1.350 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-jim phelps-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Phelps",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 3.27,
+        "whip": 0.95,
+        "strikeouts": 21,
+        "innings": 22,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "3.27 ERA - ..950 WHIP - 21 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-rick eich-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Eich",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 2,
+        "era": 2.66,
+        "whip": 1.38,
+        "strikeouts": 7,
+        "innings": 20.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "2.66 ERA - 1.380 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-bob jaeger-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Jaeger",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 3.86,
+        "whip": 0.98,
+        "strikeouts": 7,
+        "innings": 16.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.86 ERA - ..980 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-jerry fenzel-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jerry Fenzel",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 5.56,
+        "whip": 1.41,
+        "strikeouts": 8,
+        "innings": 11.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.56 ERA - 1.410 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-danny curran-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Danny Curran",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 7.5,
+        "whip": 2.17,
+        "strikeouts": 3,
+        "innings": 6,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "7.50 ERA - 2.170 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-john gardner-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Gardner",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 2.25,
+        "whip": 1.75,
+        "strikeouts": 1,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.25 ERA - 1.750 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-notre dame-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Notre Dame",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 40,
+        "wins": 12,
+        "era": 3.43,
+        "whip": 1.3,
+        "strikeouts": 80,
+        "innings": 155,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "3.43 ERA - 1.300 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oklahoma-mike swenton-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Swenton",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 36,
+        "avg": 0.274,
+        "ops": 0.621,
+        "hr": 10,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..274 AVG - ..621 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oklahoma-john shelley-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Shelley",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oklahoma-bobby jack-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bobby Jack",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oregon-dave dingman-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Dingman",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oregon-greg brosterhous-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Brosterhous",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oregon-dick whitman-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dick Whitman",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oregon-bruce maxwell-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Maxwell",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-oregon-mike bubalo-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Bubalo",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-richard tekavec-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Tekavec",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0.356,
+        "ops": 1.031,
+        "hr": 4,
+        "rbi": 18,
+        "sb": 1
+      },
+      "statLine": "..356 AVG - 1.031 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-randy morris-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Morris",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.85,
+        "whip": 1.52,
+        "strikeouts": 58,
+        "innings": 60,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.85 ERA - 1.520 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-bryant wilson-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bryant Wilson",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 2.97,
+        "whip": 1.27,
+        "strikeouts": 29,
+        "innings": 39.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.97 ERA - 1.270 WHIP - 29 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-nick maniotis-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Nick Maniotis",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 4.63,
+        "whip": 1.31,
+        "strikeouts": 28,
+        "innings": 35,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "4.63 ERA - 1.310 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-alan emerson-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Emerson",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 4,
+        "wins": 3,
+        "era": 2.33,
+        "whip": 1.15,
+        "strikeouts": 12,
+        "innings": 27,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "2.33 ERA - 1.150 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-ronnie deans-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ronnie Deans",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 1.59,
+        "whip": 1.18,
+        "strikeouts": 11,
+        "innings": 17,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "1.59 ERA - 1.180 WHIP - 11 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-bob adamson-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Adamson",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 4.32,
+        "whip": 1.62,
+        "strikeouts": 10,
+        "innings": 16.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "4.32 ERA - 1.620 WHIP - 10 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-purdue-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Purdue",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 43,
+        "wins": 14,
+        "era": 3.14,
+        "whip": 1.36,
+        "strikeouts": 148,
+        "innings": 195,
+        "saves": 0,
+        "starts": 29
+      },
+      "statLine": "3.14 ERA - 1.360 WHIP - 148 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-rhode island-brian sheekey-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Brian Sheekey",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 8,
+        "wins": 5,
+        "era": 2.47,
+        "whip": 1.29,
+        "strikeouts": 46,
+        "innings": 51,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.47 ERA - 1.290 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-rhode island-garry caffrey-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Garry Caffrey",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 2.86,
+        "whip": 1.27,
+        "strikeouts": 15,
+        "innings": 22,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.86 ERA - 1.270 WHIP - 15 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-rhode island-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 8,
+        "wins": 5,
+        "era": 2.47,
+        "whip": 1.29,
+        "strikeouts": 46,
+        "innings": 51,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.47 ERA - 1.290 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-south alabama-glenn borgmann-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glenn Borgmann",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.328,
+        "ops": 1.035,
+        "hr": 5,
+        "rbi": 0,
+        "sb": 5
+      },
+      "statLine": "..328 AVG - 1.035 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-south alabama-al snypes-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Al Snypes",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.248,
+        "ops": 0.674,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 13
+      },
+      "statLine": "..248 AVG - ..674 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-south alabama-dennis whitehead-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Whitehead",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.298,
+        "ops": 0.695,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 4
+      },
+      "statLine": "..298 AVG - ..695 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-south alabama-joseph tillman-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joseph Tillman",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.26,
+        "ops": 0.648,
+        "hr": 1,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..260 AVG - ..648 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-jim dwyer-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Dwyer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.381,
+        "ops": 1.14,
+        "hr": 7,
+        "rbi": 30,
+        "sb": 12
+      },
+      "statLine": "..381 AVG - 1.140 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-dan radison-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Radison",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.315,
+        "ops": 0.862,
+        "hr": 3,
+        "rbi": 39,
+        "sb": 5
+      },
+      "statLine": "..315 AVG - ..862 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-ray nygard-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ray Nygard",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.315,
+        "ops": 0.799,
+        "hr": 0,
+        "rbi": 18,
+        "sb": 1
+      },
+      "statLine": "..315 AVG - ..799 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-larry calufetti-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Calufetti",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.294,
+        "ops": 0.852,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..294 AVG - ..852 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-wendell starrick-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Wendell Starrick",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.5,
+        "ops": 1.247,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..500 AVG - 1.247 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-ken kral-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Kral",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.333,
+        "ops": 0.762,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - ..762 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-dick langdon-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dick Langdon",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 12,
+        "wins": 9,
+        "era": 1.67,
+        "whip": 1.13,
+        "strikeouts": 90,
+        "innings": 75.1,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "1.67 ERA - 1.130 WHIP - 90 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-robert eldridge-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Eldridge",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 2.01,
+        "whip": 1.25,
+        "strikeouts": 65,
+        "innings": 58.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.01 ERA - 1.250 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-steve webber-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Webber",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 2.98,
+        "whip": 1.32,
+        "strikeouts": 40,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.98 ERA - 1.320 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-jerry paetzhold-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jerry Paetzhold",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 4.4,
+        "whip": 1.51,
+        "strikeouts": 34,
+        "innings": 45,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "4.40 ERA - 1.510 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-john daigle-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Daigle",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 9,
+        "wins": 6,
+        "era": 0.4,
+        "whip": 0.85,
+        "strikeouts": 39,
+        "innings": 44.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "..40 ERA - ..850 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-jim fischer-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Fischer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 9,
+        "wins": 0,
+        "era": 3.86,
+        "whip": 1.41,
+        "strikeouts": 14,
+        "innings": 16.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.86 ERA - 1.410 WHIP - 14 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-richards-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richards",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 6,
+        "wins": 0,
+        "era": 4.05,
+        "whip": 1.5,
+        "strikeouts": 10,
+        "innings": 13.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.05 ERA - 1.500 WHIP - 10 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-mike broeking-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Broeking",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 3.75,
+        "whip": 1.33,
+        "strikeouts": 12,
+        "innings": 12,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.75 ERA - 1.330 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-steve randall-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Randall",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 0.35,
+        "strikeouts": 3,
+        "innings": 5.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..350 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-dave martin-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Martin",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 9,
+        "whip": 2.5,
+        "strikeouts": 1,
+        "innings": 2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 2.500 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-southern illinois-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 74,
+        "wins": 31,
+        "era": 2.36,
+        "whip": 1.21,
+        "strikeouts": 298,
+        "innings": 304.2,
+        "saves": 0,
+        "starts": 39
+      },
+      "statLine": "2.36 ERA - 1.210 WHIP - 298 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-david edson-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Edson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 51,
+        "avg": 0.264,
+        "ops": 0.751,
+        "hr": 2,
+        "rbi": 17,
+        "sb": 12
+      },
+      "statLine": "..264 AVG - ..751 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-michael nelson-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Nelson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 41,
+        "avg": 0.282,
+        "ops": 0.943,
+        "hr": 8,
+        "rbi": 36,
+        "sb": 2
+      },
+      "statLine": "..282 AVG - ..943 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-bob reece-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Reece",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 34,
+        "avg": 0.293,
+        "ops": 0.72,
+        "hr": 1,
+        "rbi": 13,
+        "sb": 1
+      },
+      "statLine": "..293 AVG - ..720 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-glen johnson-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glen Johnson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 31,
+        "avg": 0.173,
+        "ops": 0.506,
+        "hr": 1,
+        "rbi": 5,
+        "sb": 3
+      },
+      "statLine": "..173 AVG - ..506 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-patrick rusco-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Patrick Rusco",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "avg": 0.207,
+        "ops": 0.465,
+        "hr": 0,
+        "rbi": 8,
+        "sb": 1
+      },
+      "statLine": "..207 AVG - ..465 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-phil keller-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Phil Keller",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 8,
+        "era": 2.15,
+        "whip": 1.02,
+        "strikeouts": 110,
+        "innings": 117,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "2.15 ERA - 1.020 WHIP - 110 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-steve dunning-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Dunning",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 13,
+        "era": 1.83,
+        "whip": 0.92,
+        "strikeouts": 144,
+        "innings": 108,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.83 ERA - ..920 WHIP - 144 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-jim coate-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Coate",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 7,
+        "era": 2.03,
+        "whip": 1.26,
+        "strikeouts": 58,
+        "innings": 80,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.03 ERA - 1.260 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-bruce schoen-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Schoen",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 2,
+        "era": 2.94,
+        "whip": 1.17,
+        "strikeouts": 42,
+        "innings": 52,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.94 ERA - 1.170 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-bob kammeyer-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Kammeyer",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 1.81,
+        "whip": 1.17,
+        "strikeouts": 37,
+        "innings": 49.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.81 ERA - 1.170 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-tom changnon-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Changnon",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 2,
+        "era": 1.89,
+        "whip": 1.16,
+        "strikeouts": 10,
+        "innings": 19,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "1.89 ERA - 1.160 WHIP - 10 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-bob marshall-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Marshall",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 2.38,
+        "whip": 0.97,
+        "strikeouts": 5,
+        "innings": 11.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.38 ERA - ..970 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-rod boone-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rod Boone",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 7.71,
+        "whip": 1.86,
+        "strikeouts": 8,
+        "innings": 7,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "7.71 ERA - 1.860 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-bob scott-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Scott",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 1,
+        "era": 1.29,
+        "whip": 0.86,
+        "strikeouts": 3,
+        "innings": 7,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "1.29 ERA - ..860 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-dan shaw-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Shaw",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 2.08,
+        "whip": 1.62,
+        "strikeouts": 2,
+        "innings": 4.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.08 ERA - 1.620 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-stanford-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 88,
+        "wins": 36,
+        "era": 2.17,
+        "whip": 1.09,
+        "strikeouts": 419,
+        "innings": 455.1,
+        "saves": 0,
+        "starts": 53
+      },
+      "statLine": "2.17 ERA - 1.090 WHIP - 419 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-rj englert-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "RJ Englert",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 25,
+        "avg": 0.4,
+        "ops": 0.4,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..400 AVG - ..400 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-daniel ragland-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Daniel Ragland",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-william hodge-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "William Hodge",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-dave elmendorf-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Elmendorf",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-doug rau-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Doug Rau",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 9,
+        "era": 0.86,
+        "whip": 0.95,
+        "strikeouts": 82,
+        "innings": 73,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..86 ERA - ..950 WHIP - 82 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-texas a m-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 9,
+        "era": 0.86,
+        "whip": 0.95,
+        "strikeouts": 82,
+        "innings": 73,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..86 ERA - ..950 WHIP - 82 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-tulane-curtis zimmerman-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Curtis Zimmerman",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-tulane-cary livingston-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Cary Livingston",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-tulane-chris winter-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chris Winter",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 10,
+        "wins": 7,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 63,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-tulane-bobby thomas-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bobby Thomas",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 62.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-tulane-steve walton-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Walton",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 39.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-ucla-earl altschuler-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Earl Altschuler",
+      "team": "UCLA",
+      "classYear": "So",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 38,
+        "avg": 0.39,
+        "ops": 0.39,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..390 AVG - ..390 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-ucla-bill bonham-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Bonham",
+      "team": "UCLA",
+      "classYear": "Sr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 18,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 100,
+        "innings": 82.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 100 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-ucla-rick pope-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Pope",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 16,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 67.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-ucla-bill susa-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Susa",
+      "team": "UCLA",
+      "classYear": "null",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 19,
+        "wins": 4,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 43.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-ucla-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UCLA",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 53,
+        "wins": 12,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 100,
+        "innings": 194,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 100 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-virginia-mike cubbage-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Cubbage",
+      "team": "Virginia",
+      "classYear": "So",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 33,
+        "avg": 0.339,
+        "ops": 0.565,
+        "hr": 6,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..339 AVG - ..565 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-wake forest-jim eschen-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Eschen",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-wake forest-craig robinson-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Craig Robinson",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-west virginia-jim mavroleon-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Mavroleon",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 5,
+        "era": 0.99,
+        "whip": 0.93,
+        "strikeouts": 44,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..99 ERA - ..930 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-western illinois-rick reuschel-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Reuschel",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.65,
+        "whip": 0.91,
+        "strikeouts": 70,
+        "innings": 68,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.65 ERA - ..910 WHIP - 70 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-western illinois-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.65,
+        "whip": 0.91,
+        "strikeouts": 70,
+        "innings": 68,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.65 ERA - ..910 WHIP - 70 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-western kentucky-don durham-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Don Durham",
+      "team": "Western Kentucky",
+      "classYear": "Jr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Conference USA",
+      "stats": {
+        "games": 9,
+        "wins": 6,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 80,
+        "innings": 55,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-western kentucky-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Western Kentucky",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Conference USA",
+      "stats": {
+        "games": 9,
+        "wins": 6,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 80,
+        "innings": 55,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-uc irvine-rocky craig-bat",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rocky Craig",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 46,
+        "avg": 0.358,
+        "ops": 0.358,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 26
+      },
+      "statLine": "..358 AVG - ..358 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-uc irvine-dave wollos-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Wollos",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 22,
+        "wins": 12,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 132.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-uc irvine-dennis nicholson-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dennis Nicholson",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 21,
+        "wins": 1,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 120.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-uc irvine-bob barlow-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Barlow",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 15,
+        "wins": 6,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 72.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1970-uc irvine-totals-pit",
+      "season": 1970,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 21,
+        "wins": 1,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 120.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    }
+  ]
+}

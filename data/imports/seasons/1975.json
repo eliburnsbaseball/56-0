@@ -1,0 +1,7414 @@
+{
+  "year": 1975,
+  "players": [
+    {
+      "id": "1975-arizona-les pearsey-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Les Pearsey",
+      "team": "Arizona",
+      "classYear": "Fr",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-tommy sain-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tommy Sain",
+      "team": "Arizona State",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 69,
+        "avg": 0.325,
+        "ops": 0.864,
+        "hr": 3,
+        "rbi": 35,
+        "sb": 18
+      },
+      "statLine": "..325 AVG - ..864 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-ken landreaux-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Landreaux",
+      "team": "Arizona State",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 72,
+        "avg": 0.326,
+        "ops": 1.032,
+        "hr": 16,
+        "rbi": 77,
+        "sb": 24
+      },
+      "statLine": "..326 AVG - 1.032 OPS - 16 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-jerry maddox-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jerry Maddox",
+      "team": "Arizona State",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 74,
+        "avg": 0.365,
+        "ops": 1.2,
+        "hr": 20,
+        "rbi": 89,
+        "sb": 7
+      },
+      "statLine": "..365 AVG - 1.200 OPS - 20 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-floyd bannister-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Floyd Bannister",
+      "team": "Arizona State",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 21,
+        "wins": 15,
+        "era": 1.66,
+        "whip": 1.01,
+        "strikeouts": 217,
+        "innings": 157.1,
+        "saves": 0,
+        "starts": 21
+      },
+      "statLine": "1.66 ERA - 1.010 WHIP - 217 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-greg cochran-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Cochran",
+      "team": "Arizona State",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 19,
+        "wins": 14,
+        "era": 1.96,
+        "whip": 1.08,
+        "strikeouts": 160,
+        "innings": 142.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "1.96 ERA - 1.080 WHIP - 160 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-rick bethke-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Bethke",
+      "team": "Arizona State",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 21,
+        "wins": 4,
+        "era": 2.28,
+        "whip": 1.62,
+        "strikeouts": 42,
+        "innings": 51.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.28 ERA - 1.620 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-arizona state-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Arizona State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 61,
+        "wins": 33,
+        "era": 1.87,
+        "whip": 1.13,
+        "strikeouts": 419,
+        "innings": 351,
+        "saves": 0,
+        "starts": 43
+      },
+      "statLine": "1.87 ERA - 1.130 WHIP - 419 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-richie howard-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richie Howard",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 34,
+        "avg": 0.307,
+        "ops": 0.791,
+        "hr": 3,
+        "rbi": 21,
+        "sb": 4
+      },
+      "statLine": "..307 AVG - ..791 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-davis may-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Davis May",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 15,
+        "wins": 6,
+        "era": 3.38,
+        "whip": 1.37,
+        "strikeouts": 72,
+        "innings": 85.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.38 ERA - 1.370 WHIP - 72 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-joe beckwith-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Beckwith",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 1.97,
+        "whip": 1.07,
+        "strikeouts": 51,
+        "innings": 82.1,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.97 ERA - 1.070 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-terry leach-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Terry Leach",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 3.84,
+        "whip": 1.33,
+        "strikeouts": 18,
+        "innings": 58.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "3.84 ERA - 1.330 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-robert hudson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Hudson",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 1,
+        "era": 3,
+        "whip": 1.08,
+        "strikeouts": 22,
+        "innings": 36,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "3.00 ERA - 1.080 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-jim handley-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Handley",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 2,
+        "era": 4.37,
+        "whip": 1.49,
+        "strikeouts": 29,
+        "innings": 35,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "4.37 ERA - 1.490 WHIP - 29 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-mark mcclanahan-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark McClanahan",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 1,
+        "era": 2.49,
+        "whip": 1.5,
+        "strikeouts": 22,
+        "innings": 25.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "2.49 ERA - 1.500 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-matt waller-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Matt Waller",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 1,
+        "era": 1.8,
+        "whip": 1.12,
+        "strikeouts": 12,
+        "innings": 25,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.80 ERA - 1.120 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-david sullivan-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Sullivan",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 1.69,
+        "whip": 1.19,
+        "strikeouts": 9,
+        "innings": 16,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "1.69 ERA - 1.190 WHIP - 9 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-david o hare-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David O'Hare",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 9,
+        "whip": 2.29,
+        "strikeouts": 5,
+        "innings": 7,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 2.290 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-s montgomery-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "S Montgomery",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 40.5,
+        "whip": 7.5,
+        "strikeouts": 0,
+        "innings": 0.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "40.50 ERA - 7.500 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-auburn-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 41,
+        "wins": 18,
+        "era": 2.98,
+        "whip": 1.25,
+        "strikeouts": 141,
+        "innings": 226.1,
+        "saves": 0,
+        "starts": 34
+      },
+      "statLine": "2.98 ERA - 1.250 WHIP - 141 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-bowling green-larry owen-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Owen",
+      "team": "Bowling Green",
+      "classYear": "So",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-brigham young-vance law-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Vance Law",
+      "team": "Brigham Young",
+      "classYear": "Fr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 31,
+        "avg": 0.308,
+        "ops": 0.79,
+        "hr": 0,
+        "rbi": 10,
+        "sb": 0
+      },
+      "statLine": "..308 AVG - ..790 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-brigham young-robert millsop-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Millsop",
+      "team": "Brigham Young",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 2.8,
+        "whip": 1.38,
+        "strikeouts": 74,
+        "innings": 96.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.80 ERA - 1.380 WHIP - 74 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-brigham young-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Brigham Young",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 2.8,
+        "whip": 1.38,
+        "strikeouts": 74,
+        "innings": 96.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.80 ERA - 1.380 WHIP - 74 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-central michigan-terrance lynch-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terrance Lynch",
+      "team": "Central Michigan",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 45,
+        "avg": 0.297,
+        "ops": 0.872,
+        "hr": 4,
+        "rbi": 41,
+        "sb": 16
+      },
+      "statLine": "..297 AVG - ..872 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-central michigan-dan rohn-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Rohn",
+      "team": "Central Michigan",
+      "classYear": "Fr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 22
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-central michigan-chris knapp-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chris Knapp",
+      "team": "Central Michigan",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 2.7,
+        "whip": 1.32,
+        "strikeouts": 71,
+        "innings": 50,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.70 ERA - 1.320 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-central michigan-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Central Michigan",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 2.7,
+        "whip": 1.32,
+        "strikeouts": 71,
+        "innings": 50,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.70 ERA - 1.320 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-kurt seibert-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kurt Seibert",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 43,
+        "avg": 0.32,
+        "ops": 0.399,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 21
+      },
+      "statLine": "..320 AVG - ..399 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-denny walling-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Denny Walling",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 38,
+        "avg": 0.421,
+        "ops": 0.807,
+        "hr": 13,
+        "rbi": 60,
+        "sb": 11
+      },
+      "statLine": "..421 AVG - ..807 OPS - 13 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-willie wingo-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Willie Wingo",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 42,
+        "avg": 0.371,
+        "ops": 0.486,
+        "hr": 2,
+        "rbi": 28,
+        "sb": 22
+      },
+      "statLine": "..371 AVG - ..486 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-david caldwell-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Caldwell",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 36,
+        "avg": 0.28,
+        "ops": 0.448,
+        "hr": 2,
+        "rbi": 23,
+        "sb": 2
+      },
+      "statLine": "..280 AVG - ..448 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-bill foley-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bill Foley",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "avg": 0.233,
+        "ops": 0.372,
+        "hr": 2,
+        "rbi": 7,
+        "sb": 0
+      },
+      "statLine": "..233 AVG - ..372 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-chuck porter-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chuck Porter",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 8,
+        "era": 2.66,
+        "whip": 1.46,
+        "strikeouts": 67,
+        "innings": 81.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.66 ERA - 1.460 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-randy quintrell-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Quintrell",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 7,
+        "era": 1.5,
+        "whip": 1.21,
+        "strikeouts": 32,
+        "innings": 72,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.50 ERA - 1.210 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-larry meekins-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Meekins",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 2.67,
+        "whip": 1.19,
+        "strikeouts": 46,
+        "innings": 64,
+        "saves": 2,
+        "starts": 6
+      },
+      "statLine": "2.67 ERA - 1.190 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-bob mahony-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Mahony",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 10,
+        "wins": 6,
+        "era": 3.16,
+        "whip": 1.39,
+        "strikeouts": 57,
+        "innings": 62.2,
+        "saves": 1,
+        "starts": 9
+      },
+      "statLine": "3.16 ERA - 1.390 WHIP - 57 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-tommy qualters-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tommy Qualters",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 1.87,
+        "whip": 0.89,
+        "strikeouts": 17,
+        "innings": 33.2,
+        "saves": 6,
+        "starts": 0
+      },
+      "statLine": "1.87 ERA - ..890 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-steve wyatt-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Wyatt",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 1.53,
+        "whip": 0.95,
+        "strikeouts": 18,
+        "innings": 29.1,
+        "saves": 3,
+        "starts": 3
+      },
+      "statLine": "1.53 ERA - ..950 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-mark malec-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Malec",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 2.65,
+        "whip": 1.47,
+        "strikeouts": 14,
+        "innings": 17,
+        "saves": 1,
+        "starts": 1
+      },
+      "statLine": "2.65 ERA - 1.470 WHIP - 14 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-john mitchell-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Mitchell",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 11.25,
+        "whip": 2.25,
+        "strikeouts": 2,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "11.25 ERA - 2.250 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-wayne mishoe-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Wayne Mishoe",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 9,
+        "whip": 2,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 2.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-clemson-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 79,
+        "wins": 33,
+        "era": 2.47,
+        "whip": 1.27,
+        "strikeouts": 253,
+        "innings": 365,
+        "saves": 13,
+        "starts": 43
+      },
+      "statLine": "2.47 ERA - 1.270 WHIP - 253 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-east carolina-ronald staggs-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ronald Staggs",
+      "team": "East Carolina",
+      "classYear": "Sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 29,
+        "avg": 0.381,
+        "ops": 1.229,
+        "hr": 7,
+        "rbi": 23,
+        "sb": 1
+      },
+      "statLine": "..381 AVG - 1.229 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-jeffrey washington-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeffrey Washington",
+      "team": "Eastern Michigan",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 54,
+        "avg": 0.316,
+        "ops": 0.937,
+        "hr": 9,
+        "rbi": 26,
+        "sb": 8
+      },
+      "statLine": "..316 AVG - ..937 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-glenn gulliver-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glenn Gulliver",
+      "team": "Eastern Michigan",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 56,
+        "avg": 0.238,
+        "ops": 0.733,
+        "hr": 0,
+        "rbi": 14,
+        "sb": 16
+      },
+      "statLine": "..238 AVG - ..733 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-thomas boutin-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Thomas Boutin",
+      "team": "Eastern Michigan",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 55,
+        "avg": 0.304,
+        "ops": 0.942,
+        "hr": 5,
+        "rbi": 17,
+        "sb": 12
+      },
+      "statLine": "..304 AVG - ..942 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-ted dasen-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ted Dasen",
+      "team": "Eastern Michigan",
+      "classYear": "So",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-bob owchinko-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Owchinko",
+      "team": "Eastern Michigan",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 17,
+        "wins": 11,
+        "era": 1.42,
+        "whip": 1.02,
+        "strikeouts": 107,
+        "innings": 101.2,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "1.42 ERA - 1.020 WHIP - 107 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-bob welch-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Welch",
+      "team": "Eastern Michigan",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 19,
+        "wins": 7,
+        "era": 1.37,
+        "whip": 1.09,
+        "strikeouts": 94,
+        "innings": 72.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "1.37 ERA - 1.090 WHIP - 94 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-eastern michigan-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Eastern Michigan",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 36,
+        "wins": 18,
+        "era": 1.4,
+        "whip": 1.05,
+        "strikeouts": 201,
+        "innings": 174,
+        "saves": 0,
+        "starts": 21
+      },
+      "statLine": "1.40 ERA - 1.050 WHIP - 201 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-roger holt-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Roger Holt",
+      "team": "Florida",
+      "classYear": "Fr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 48,
+        "avg": 0.353,
+        "ops": 0.965,
+        "hr": 3,
+        "rbi": 25,
+        "sb": 10
+      },
+      "statLine": "..353 AVG - ..965 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-david bowden-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Bowden",
+      "team": "Florida",
+      "classYear": "Sr",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 45,
+        "avg": 0.338,
+        "ops": 0.865,
+        "hr": 1,
+        "rbi": 21,
+        "sb": 1
+      },
+      "statLine": "..338 AVG - ..865 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-james joiner-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "James Joiner",
+      "team": "Florida",
+      "classYear": "Jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 42,
+        "avg": 0.256,
+        "ops": 0.889,
+        "hr": 8,
+        "rbi": 28,
+        "sb": 1
+      },
+      "statLine": "..256 AVG - ..889 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-craig pippin-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Craig Pippin",
+      "team": "Florida",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 17,
+        "wins": 2,
+        "era": 5.38,
+        "whip": 1.85,
+        "strikeouts": 62,
+        "innings": 83.2,
+        "saves": 1,
+        "starts": 11
+      },
+      "statLine": "5.38 ERA - 1.850 WHIP - 62 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-bruce baker-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Baker",
+      "team": "Florida",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "wins": 7,
+        "era": 1.51,
+        "whip": 1.21,
+        "strikeouts": 27,
+        "innings": 71.1,
+        "saves": 2,
+        "starts": 8
+      },
+      "statLine": "1.51 ERA - 1.210 WHIP - 27 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Florida",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 33,
+        "wins": 9,
+        "era": 3.6,
+        "whip": 1.55,
+        "strikeouts": 89,
+        "innings": 155,
+        "saves": 3,
+        "starts": 19
+      },
+      "statLine": "3.60 ERA - 1.550 WHIP - 89 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-juan bonilla-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Juan Bonilla",
+      "team": "Florida State",
+      "classYear": "So",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 56,
+        "avg": 0.33,
+        "ops": 0.778,
+        "hr": 2,
+        "rbi": 32,
+        "sb": 3
+      },
+      "statLine": "..330 AVG - ..778 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-jim busby-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Busby",
+      "team": "Florida State",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 58,
+        "avg": 0.271,
+        "ops": 0.778,
+        "hr": 8,
+        "rbi": 36,
+        "sb": 0
+      },
+      "statLine": "..271 AVG - ..778 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-randy davidson-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Randy Davidson",
+      "team": "Florida State",
+      "classYear": "Sr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 59,
+        "avg": 0.321,
+        "ops": 0.772,
+        "hr": 0,
+        "rbi": 25,
+        "sb": 39
+      },
+      "statLine": "..321 AVG - ..772 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-steve tebbetts-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Tebbetts",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 58,
+        "avg": 0.374,
+        "ops": 0.975,
+        "hr": 5,
+        "rbi": 42,
+        "sb": 31
+      },
+      "statLine": "..374 AVG - ..975 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-terry kennedy-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terry Kennedy",
+      "team": "Florida State",
+      "classYear": "Fr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 38,
+        "avg": 0.343,
+        "ops": 0.987,
+        "hr": 3,
+        "rbi": 17,
+        "sb": 0
+      },
+      "statLine": "..343 AVG - ..987 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-jim foxwell-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Foxwell",
+      "team": "Florida State",
+      "classYear": "null",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 43,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-dan o brien-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan O'Brien",
+      "team": "Florida State",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 15,
+        "era": 1.48,
+        "whip": 1.02,
+        "strikeouts": 127,
+        "innings": 140,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "1.48 ERA - 1.020 WHIP - 127 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-larry jones-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Jones",
+      "team": "Florida State",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 15,
+        "era": 1.94,
+        "whip": 1.16,
+        "strikeouts": 121,
+        "innings": 129.2,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "1.94 ERA - 1.160 WHIP - 121 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-florida state-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Florida State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 34,
+        "wins": 30,
+        "era": 1.7,
+        "whip": 1.09,
+        "strikeouts": 248,
+        "innings": 269.2,
+        "saves": 0,
+        "starts": 34
+      },
+      "statLine": "1.70 ERA - 1.090 WHIP - 248 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-georgia-larry littleton-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Littleton",
+      "team": "Georgia",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 37,
+        "avg": 0.331,
+        "ops": 0.737,
+        "hr": 12,
+        "rbi": 48,
+        "sb": 2
+      },
+      "statLine": "..331 AVG - ..737 OPS - 12 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-gonzaga-don lyons-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Lyons",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 50,
+        "avg": 0.391,
+        "ops": 0.5,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..391 AVG - ..500 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-gonzaga-dave whiteaker-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Whiteaker",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-gonzaga-casey parsons-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Casey Parsons",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 49,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 26
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-gonzaga-rick sweet-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rick Sweet",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-ron macdonald-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ron MacDonald",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 39,
+        "avg": 0.372,
+        "ops": 1.015,
+        "hr": 5,
+        "rbi": 17,
+        "sb": 1
+      },
+      "statLine": "..372 AVG - 1.015 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-andrew gilmore-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andrew Gilmore",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-nate thurnhoffer-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Nate Thurnhoffer",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 15,
+        "wins": 4,
+        "era": 3.89,
+        "whip": 1.35,
+        "strikeouts": 54,
+        "innings": 90.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.89 ERA - 1.350 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-robert allinder-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Allinder",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 4.07,
+        "whip": 1.31,
+        "strikeouts": 31,
+        "innings": 66.1,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "4.07 ERA - 1.310 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-brian rhodes-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Brian Rhodes",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 17,
+        "wins": 2,
+        "era": 2.58,
+        "whip": 1.15,
+        "strikeouts": 28,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "2.58 ERA - 1.150 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 4.07,
+        "whip": 1.31,
+        "strikeouts": 31,
+        "innings": 66.1,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "4.07 ERA - 1.310 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-gary holub-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Holub",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 46,
+        "avg": 0.263,
+        "ops": 0.737,
+        "hr": 0,
+        "rbi": 18,
+        "sb": 18
+      },
+      "statLine": "..263 AVG - ..737 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-jon yeagley-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jon Yeagley",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 43,
+        "avg": 0.293,
+        "ops": 0.755,
+        "hr": 2,
+        "rbi": 28,
+        "sb": 0
+      },
+      "statLine": "..293 AVG - ..755 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-steve anson-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Anson",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 46,
+        "avg": 0.357,
+        "ops": 1.088,
+        "hr": 7,
+        "rbi": 37,
+        "sb": 2
+      },
+      "statLine": "..357 AVG - 1.088 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-greg korbe-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Korbe",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 45,
+        "avg": 0.319,
+        "ops": 0.879,
+        "hr": 4,
+        "rbi": 31,
+        "sb": 2
+      },
+      "statLine": "..319 AVG - ..879 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-richard dreiling-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Dreiling",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 42,
+        "avg": 0.22,
+        "ops": 0.613,
+        "hr": 1,
+        "rbi": 10,
+        "sb": 2
+      },
+      "statLine": "..220 AVG - ..613 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-craig cooper-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Craig Cooper",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 44,
+        "avg": 0.262,
+        "ops": 0.737,
+        "hr": 4,
+        "rbi": 22,
+        "sb": 3
+      },
+      "statLine": "..262 AVG - ..737 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-james mccormick-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "James McCormick",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 38,
+        "avg": 0.235,
+        "ops": 0.639,
+        "hr": 0,
+        "rbi": 15,
+        "sb": 1
+      },
+      "statLine": "..235 AVG - ..639 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-bill youngblood-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bill Youngblood",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 31,
+        "avg": 0.254,
+        "ops": 0.702,
+        "hr": 1,
+        "rbi": 4,
+        "sb": 4
+      },
+      "statLine": "..254 AVG - ..702 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-pat stivers-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pat Stivers",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 16,
+        "avg": 0.238,
+        "ops": 0.527,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..238 AVG - ..527 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-paul klipowicz-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Klipowicz",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 19,
+        "avg": 0.286,
+        "ops": 0.762,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..286 AVG - ..762 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-gary fisher-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Fisher",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 17,
+        "avg": 0.333,
+        "ops": 1.167,
+        "hr": 2,
+        "rbi": 13,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - 1.167 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-kevin bacon-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kevin Bacon",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "avg": 0.25,
+        "ops": 0.679,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..250 AVG - ..679 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-david specht-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Specht",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 46,
+        "avg": 2.714,
+        "ops": 6.135,
+        "hr": 6,
+        "rbi": 29,
+        "sb": 13
+      },
+      "statLine": "2.714 AVG - 6.135 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-steve vick-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve vick",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "avg": 0.4,
+        "ops": 0.9,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..400 AVG - ..900 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-jeff moore-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeff Moore",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 3,
+        "avg": 0.4,
+        "ops": 0.971,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 1
+      },
+      "statLine": "..400 AVG - ..971 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-greg niemczyk-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Niemczyk",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 3,
+        "avg": 0,
+        "ops": 0.4,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..400 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-george sallas-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "George Sallas",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 1,
+        "avg": 0.333,
+        "ops": 0.666,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - ..666 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-andy replogle-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Andy Replogle",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 9,
+        "era": 3.72,
+        "whip": 1.28,
+        "strikeouts": 71,
+        "innings": 82.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "3.72 ERA - 1.280 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-scott mach-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Scott Mach",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 4,
+        "era": 2.47,
+        "whip": 1.1,
+        "strikeouts": 37,
+        "innings": 62,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.47 ERA - 1.100 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-dale allerheiligen-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dale Allerheiligen",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 14,
+        "wins": 3,
+        "era": 3.61,
+        "whip": 1.43,
+        "strikeouts": 58,
+        "innings": 57.1,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "3.61 ERA - 1.430 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-michael hampton-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Michael Hampton",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 5.01,
+        "whip": 1.71,
+        "strikeouts": 31,
+        "innings": 46.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "5.01 ERA - 1.710 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-les sutton-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Les Sutton",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 2.22,
+        "whip": 1.48,
+        "strikeouts": 21,
+        "innings": 24.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.22 ERA - 1.480 WHIP - 21 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-frank seitz-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Frank Seitz",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 6.28,
+        "whip": 1.95,
+        "strikeouts": 18,
+        "innings": 14.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.28 ERA - 1.950 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-gary wurtz-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Wurtz",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 5.79,
+        "whip": 1.93,
+        "strikeouts": 8,
+        "innings": 14,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "5.79 ERA - 1.930 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-steve harbutz-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Harbutz",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 6.23,
+        "whip": 2.15,
+        "strikeouts": 12,
+        "innings": 13,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "6.23 ERA - 2.150 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-rex christner-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rex Christner",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 1.42,
+        "whip": 0.79,
+        "strikeouts": 1,
+        "innings": 6.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.42 ERA - ..790 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-ted power-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ted Power",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 27,
+        "whip": 3.75,
+        "strikeouts": 1,
+        "innings": 1.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "27.00 ERA - 3.750 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kansas state-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 86,
+        "wins": 24,
+        "era": 3.89,
+        "whip": 1.44,
+        "strikeouts": 258,
+        "innings": 321.2,
+        "saves": 0,
+        "starts": 47
+      },
+      "statLine": "3.89 ERA - 1.440 WHIP - 258 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-kentucky-marv foley-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Marv Foley",
+      "team": "Kentucky",
+      "classYear": "Sr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 40,
+        "avg": 0.352,
+        "ops": 1.081,
+        "hr": 8,
+        "rbi": 20,
+        "sb": 5
+      },
+      "statLine": "..352 AVG - 1.081 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-lsu-tony toups-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tony Toups",
+      "team": "LSU",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-lsu-pat moock-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pat Moock",
+      "team": "LSU",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 18,
+        "wins": 10,
+        "era": 2.14,
+        "whip": 1.2,
+        "strikeouts": 60,
+        "innings": 96.2,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.14 ERA - 1.200 WHIP - 60 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-lsu-paul stefan-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Paul Stefan",
+      "team": "LSU",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 21,
+        "wins": 7,
+        "era": 2.43,
+        "whip": 1.17,
+        "strikeouts": 79,
+        "innings": 85.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.43 ERA - 1.170 WHIP - 79 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-lsu-guy hollingsworth-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Guy Hollingsworth",
+      "team": "LSU",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 1.83,
+        "whip": 1.17,
+        "strikeouts": 54,
+        "innings": 64,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.83 ERA - 1.170 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-lsu-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "LSU",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 51,
+        "wins": 23,
+        "era": 2.16,
+        "whip": 1.18,
+        "strikeouts": 193,
+        "innings": 246,
+        "saves": 0,
+        "starts": 30
+      },
+      "statLine": "2.16 ERA - 1.180 WHIP - 193 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-maryland-scott christopher-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Scott Christopher",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 23,
+        "avg": 0.308,
+        "ops": 0.839,
+        "hr": 2,
+        "rbi": 10,
+        "sb": 10
+      },
+      "statLine": "..308 AVG - ..839 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-maryland-frank kolarek-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Frank Kolarek",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 22,
+        "avg": 0.311,
+        "ops": 0.886,
+        "hr": 2,
+        "rbi": 12,
+        "sb": 0
+      },
+      "statLine": "..311 AVG - ..886 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-maryland-bob ferris-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Ferris",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 7,
+        "era": 2.31,
+        "whip": 1.13,
+        "strikeouts": 71,
+        "innings": 70,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.31 ERA - 1.130 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-maryland-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 7,
+        "era": 2.31,
+        "whip": 1.13,
+        "strikeouts": 71,
+        "innings": 70,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.31 ERA - 1.130 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-dick walterhouse-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dick Walterhouse",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 40,
+        "avg": 0.23,
+        "ops": 0.319,
+        "hr": 2,
+        "rbi": 17,
+        "sb": 8
+      },
+      "statLine": "..230 AVG - ..319 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-dan damiani-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Damiani",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 37,
+        "avg": 0.286,
+        "ops": 0.343,
+        "hr": 1,
+        "rbi": 9,
+        "sb": 3
+      },
+      "statLine": "..286 AVG - ..343 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-billy haslerig-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Billy Haslerig",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 28,
+        "avg": 0.294,
+        "ops": 0.353,
+        "hr": 1,
+        "rbi": 6,
+        "sb": 4
+      },
+      "statLine": "..294 AVG - ..353 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-mike parker-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Parker",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 22,
+        "avg": 0.273,
+        "ops": 0.364,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..273 AVG - ..364 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-david chapman-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Chapman",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 13,
+        "avg": 0.313,
+        "ops": 0.375,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 0
+      },
+      "statLine": "..313 AVG - ..375 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-chuck rogers-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chuck Rogers",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 1.58,
+        "whip": 0.95,
+        "strikeouts": 63,
+        "innings": 80,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.58 ERA - ..950 WHIP - 63 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-mark weber-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Weber",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 14,
+        "wins": 4,
+        "era": 1.47,
+        "whip": 0.97,
+        "strikeouts": 51,
+        "innings": 67.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.47 ERA - ..970 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-craig forhan-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Craig Forhan",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 6,
+        "era": 1.57,
+        "whip": 1.4,
+        "strikeouts": 30,
+        "innings": 57.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.57 ERA - 1.400 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-lary sorensen-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lary Sorensen",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.91,
+        "whip": 1.48,
+        "strikeouts": 28,
+        "innings": 46,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.91 ERA - 1.480 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-bill stennett-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Stennett",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 5,
+        "wins": 4,
+        "era": 3.13,
+        "whip": 1.61,
+        "strikeouts": 17,
+        "innings": 31.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.13 ERA - 1.610 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-craig mcginnis-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Craig McGinnis",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 6,
+        "wins": 3,
+        "era": 6,
+        "whip": 1.85,
+        "strikeouts": 22,
+        "innings": 27,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.00 ERA - 1.850 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-tom joyce-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Joyce",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 9.53,
+        "whip": 1.94,
+        "strikeouts": 5,
+        "innings": 5.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.53 ERA - 1.940 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-michigan-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Michigan",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 57,
+        "wins": 28,
+        "era": 2.57,
+        "whip": 1.27,
+        "strikeouts": 216,
+        "innings": 315,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.57 ERA - 1.270 WHIP - 216 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-minnesota-paul molitor-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Molitor",
+      "team": "Minnesota",
+      "classYear": "Fr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 31,
+        "avg": 0.343,
+        "ops": 0.961,
+        "hr": 2,
+        "rbi": 22,
+        "sb": 23
+      },
+      "statLine": "..343 AVG - ..961 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-northern illinois-chris bourjos-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Chris Bourjos",
+      "team": "Northern Illinois",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 37,
+        "avg": 0.304,
+        "ops": 0.863,
+        "hr": 6,
+        "rbi": 18,
+        "sb": 0
+      },
+      "statLine": "..304 AVG - ..863 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-northern illinois-mike avallone-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Avallone",
+      "team": "Northern Illinois",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.58,
+        "whip": 1.57,
+        "strikeouts": 39,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.58 ERA - 1.570 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-northern illinois-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Northern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.58,
+        "whip": 1.57,
+        "strikeouts": 39,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.58 ERA - 1.570 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-ohio-bob brenly-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Brenly",
+      "team": "Ohio",
+      "classYear": "Jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 37,
+        "avg": 0.364,
+        "ops": 0.975,
+        "hr": 6,
+        "rbi": 23,
+        "sb": 8
+      },
+      "statLine": "..364 AVG - ..975 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-ohio-emil drzayich-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Emil Drzayich",
+      "team": "Ohio",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 37,
+        "avg": 0.331,
+        "ops": 0.919,
+        "hr": 5,
+        "rbi": 29,
+        "sb": 0
+      },
+      "statLine": "..331 AVG - ..919 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-keith drumright-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Drumright",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 61,
+        "avg": 0.321,
+        "ops": 0.72,
+        "hr": 0,
+        "rbi": 24,
+        "sb": 27
+      },
+      "statLine": "..321 AVG - ..720 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-kelly snider-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kelly Snider",
+      "team": "Oklahoma",
+      "classYear": "SO",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 62,
+        "avg": 0.314,
+        "ops": 0.859,
+        "hr": 8,
+        "rbi": 57,
+        "sb": 7
+      },
+      "statLine": "..314 AVG - ..859 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-jacky parish-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jacky Parish",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 60,
+        "avg": 0.291,
+        "ops": 0.954,
+        "hr": 10,
+        "rbi": 58,
+        "sb": 14
+      },
+      "statLine": "..291 AVG - ..954 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-mike umfleet-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Umfleet",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 56,
+        "avg": 0.309,
+        "ops": 0.882,
+        "hr": 1,
+        "rbi": 34,
+        "sb": 23
+      },
+      "statLine": "..309 AVG - ..882 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-billy severns-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Billy Severns",
+      "team": "Oklahoma",
+      "classYear": "SR",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 52,
+        "avg": 0.341,
+        "ops": 0.984,
+        "hr": 5,
+        "rbi": 33,
+        "sb": 27
+      },
+      "statLine": "..341 AVG - ..984 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-terry bogener-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terry Bogener",
+      "team": "Oklahoma",
+      "classYear": "FR",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 51,
+        "avg": 0.336,
+        "ops": 0.854,
+        "hr": 0,
+        "rbi": 30,
+        "sb": 33
+      },
+      "statLine": "..336 AVG - ..854 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-mike cunico-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Cunico",
+      "team": "Oklahoma",
+      "classYear": "SO",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 42,
+        "avg": 0.27,
+        "ops": 0.712,
+        "hr": 0,
+        "rbi": 14,
+        "sb": 2
+      },
+      "statLine": "..270 AVG - ..712 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-greg stitzinger-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Stitzinger",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 36,
+        "avg": 0.206,
+        "ops": 0.719,
+        "hr": 3,
+        "rbi": 19,
+        "sb": 2
+      },
+      "statLine": "..206 AVG - ..719 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-jackie schuman-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jackie Schuman",
+      "team": "Oklahoma",
+      "classYear": "FR",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 25,
+        "avg": 0.282,
+        "ops": 0.774,
+        "hr": 0,
+        "rbi": 4,
+        "sb": 5
+      },
+      "statLine": "..282 AVG - ..774 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-roger lafrancois-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Roger LaFrancois",
+      "team": "Oklahoma",
+      "classYear": "FR",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 23,
+        "avg": 0.194,
+        "ops": 0.604,
+        "hr": 0,
+        "rbi": 6,
+        "sb": 2
+      },
+      "statLine": "..194 AVG - ..604 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-bob shirley-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Shirley",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 21,
+        "wins": 13,
+        "era": 1.74,
+        "whip": 0.92,
+        "strikeouts": 126,
+        "innings": 129,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.74 ERA - ..920 WHIP - 126 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-breen newcomer-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Breen Newcomer",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 15,
+        "wins": 9,
+        "era": 2.03,
+        "whip": 0.92,
+        "strikeouts": 80,
+        "innings": 97.1,
+        "saves": 1,
+        "starts": 13
+      },
+      "statLine": "2.03 ERA - ..920 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-marty kunkler-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Marty Kunkler",
+      "team": "Oklahoma",
+      "classYear": "SO",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 11,
+        "era": 1.59,
+        "whip": 1.02,
+        "strikeouts": 100,
+        "innings": 90.1,
+        "saves": 1,
+        "starts": 12
+      },
+      "statLine": "1.59 ERA - 1.020 WHIP - 100 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-ken palmer-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ken Palmer",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 1.29,
+        "whip": 0.83,
+        "strikeouts": 39,
+        "innings": 62.2,
+        "saves": 1,
+        "starts": 7
+      },
+      "statLine": "1.29 ERA - ..830 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-george frazier-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "George Frazier",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "wins": 6,
+        "era": 2.19,
+        "whip": 1.14,
+        "strikeouts": 47,
+        "innings": 49.1,
+        "saves": 3,
+        "starts": 1
+      },
+      "statLine": "2.19 ERA - 1.140 WHIP - 47 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-doug schaefer-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Doug Schaefer",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 3.12,
+        "whip": 1.21,
+        "strikeouts": 32,
+        "innings": 40.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.12 ERA - 1.210 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-mickey lashley-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mickey Lashley",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 3.31,
+        "whip": 1.7,
+        "strikeouts": 30,
+        "innings": 35.1,
+        "saves": 2,
+        "starts": 7
+      },
+      "statLine": "3.31 ERA - 1.700 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-david wendt-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Wendt",
+      "team": "Oklahoma",
+      "classYear": "FR",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 2.6,
+        "whip": 1.62,
+        "strikeouts": 24,
+        "innings": 17.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "2.60 ERA - 1.620 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-ted lair-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ted Lair",
+      "team": "Oklahoma",
+      "classYear": "JR",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 5.4,
+        "whip": 1.5,
+        "strikeouts": 2,
+        "innings": 3.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.40 ERA - 1.500 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-karl schroeder-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Karl Schroeder",
+      "team": "Oklahoma",
+      "classYear": "FR",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 21.6,
+        "whip": 3,
+        "strikeouts": 1,
+        "innings": 1.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "21.60 ERA - 3.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oklahoma-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 115,
+        "wins": 52,
+        "era": 2.08,
+        "whip": 1.06,
+        "strikeouts": 481,
+        "innings": 526.2,
+        "saves": 8,
+        "starts": 62
+      },
+      "statLine": "2.08 ERA - 1.060 WHIP - 481 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-don reynolds-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Reynolds",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 35,
+        "avg": 0.321,
+        "ops": 0.894,
+        "hr": 4,
+        "rbi": 21,
+        "sb": 11
+      },
+      "statLine": "..321 AVG - ..894 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-pat mcnally-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pat McNally",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 27,
+        "avg": 0.372,
+        "ops": 1.071,
+        "hr": 7,
+        "rbi": 29,
+        "sb": 0
+      },
+      "statLine": "..372 AVG - 1.071 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-paul kirsch-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Kirsch",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-kent couchee-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kent Couchee",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 3.72,
+        "whip": 1.43,
+        "strikeouts": 31,
+        "innings": 67.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.72 ERA - 1.430 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-brian peterson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Brian Peterson",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 13,
+        "wins": 4,
+        "era": 4.85,
+        "whip": 1.67,
+        "strikeouts": 30,
+        "innings": 55.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "4.85 ERA - 1.670 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-greg richards-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Richards",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 13,
+        "wins": 2,
+        "era": 3.83,
+        "whip": 1.78,
+        "strikeouts": 37,
+        "innings": 49.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.83 ERA - 1.780 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-oregon-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 26,
+        "wins": 6,
+        "era": 4.37,
+        "whip": 1.72,
+        "strikeouts": 67,
+        "innings": 105,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "4.37 ERA - 1.720 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-rhode island-rick mundy-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Mundy",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 7,
+        "wins": 3,
+        "era": 3.1,
+        "whip": 1.54,
+        "strikeouts": 30,
+        "innings": 49.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.10 ERA - 1.540 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-rice-mike macha-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Macha",
+      "team": "Rice",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-dave stapleton-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Stapleton",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 66,
+        "avg": 0.363,
+        "ops": 0.979,
+        "hr": 6,
+        "rbi": 69,
+        "sb": 17
+      },
+      "statLine": "..363 AVG - ..979 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-jerry stamps-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jerry Stamps",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 66,
+        "avg": 0.319,
+        "ops": 0.944,
+        "hr": 10,
+        "rbi": 63,
+        "sb": 5
+      },
+      "statLine": "..319 AVG - ..944 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-pat putnam-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pat Putnam",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 64,
+        "avg": 0.323,
+        "ops": 0.931,
+        "hr": 9,
+        "rbi": 57,
+        "sb": 7
+      },
+      "statLine": "..323 AVG - ..931 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-tony barylski-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tony Barylski",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 63,
+        "avg": 0.259,
+        "ops": 0.768,
+        "hr": 10,
+        "rbi": 45,
+        "sb": 7
+      },
+      "statLine": "..259 AVG - ..768 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-mike warren-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Warren",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 66,
+        "avg": 0.297,
+        "ops": 0.917,
+        "hr": 4,
+        "rbi": 29,
+        "sb": 36
+      },
+      "statLine": "..297 AVG - ..917 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-emeel salem-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Emeel Salem",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 66,
+        "avg": 0.212,
+        "ops": 0.658,
+        "hr": 5,
+        "rbi": 39,
+        "sb": 4
+      },
+      "statLine": "..212 AVG - ..658 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-leon druckenmiller-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Leon Druckenmiller",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 66,
+        "avg": 0.286,
+        "ops": 0.876,
+        "hr": 10,
+        "rbi": 37,
+        "sb": 8
+      },
+      "statLine": "..286 AVG - ..876 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-mike o berry-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike O'Berry",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 52,
+        "avg": 0.268,
+        "ops": 0.805,
+        "hr": 4,
+        "rbi": 29,
+        "sb": 6
+      },
+      "statLine": "..268 AVG - ..805 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-mike jacobs-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Jacobs",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 35,
+        "avg": 0.284,
+        "ops": 0.812,
+        "hr": 2,
+        "rbi": 24,
+        "sb": 16
+      },
+      "statLine": "..284 AVG - ..812 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-bruce calderone-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Calderone",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 54,
+        "avg": 0.242,
+        "ops": 0.7,
+        "hr": 3,
+        "rbi": 18,
+        "sb": 2
+      },
+      "statLine": "..242 AVG - ..700 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-mike walker-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Walker",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 42,
+        "avg": 0.247,
+        "ops": 0.907,
+        "hr": 2,
+        "rbi": 14,
+        "sb": 1
+      },
+      "statLine": "..247 AVG - ..907 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-joe muich-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Muich",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 19,
+        "wins": 14,
+        "era": 2.6,
+        "whip": 1.19,
+        "strikeouts": 93,
+        "innings": 117.2,
+        "saves": 1,
+        "starts": 16
+      },
+      "statLine": "2.60 ERA - 1.190 WHIP - 93 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-bill sturgeon-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Sturgeon",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 16,
+        "wins": 10,
+        "era": 1.2,
+        "whip": 0.91,
+        "strikeouts": 36,
+        "innings": 90,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.20 ERA - ..910 WHIP - 36 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-al rosen-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Al Rosen",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 20,
+        "wins": 7,
+        "era": 3.52,
+        "whip": 1.47,
+        "strikeouts": 42,
+        "innings": 61.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "3.52 ERA - 1.470 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-richard williams-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Williams",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 21,
+        "wins": 4,
+        "era": 3.74,
+        "whip": 1.38,
+        "strikeouts": 34,
+        "innings": 45.2,
+        "saves": 2,
+        "starts": 2
+      },
+      "statLine": "3.74 ERA - 1.380 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-gregory stone-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gregory Stone",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 15,
+        "wins": 2,
+        "era": 4.19,
+        "whip": 1.73,
+        "strikeouts": 42,
+        "innings": 38.2,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "4.19 ERA - 1.730 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-john whitaker-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Whitaker",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 3.35,
+        "whip": 1.3,
+        "strikeouts": 35,
+        "innings": 37.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "3.35 ERA - 1.300 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-mark tapia-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Tapia",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 19,
+        "wins": 1,
+        "era": 3,
+        "whip": 1.44,
+        "strikeouts": 15,
+        "innings": 27,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.00 ERA - 1.440 WHIP - 15 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-jim daugherty-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Daugherty",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 14,
+        "wins": 3,
+        "era": 2.49,
+        "whip": 1.14,
+        "strikeouts": 18,
+        "innings": 25.1,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "2.49 ERA - 1.140 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south alabama-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 136,
+        "wins": 46,
+        "era": 2.78,
+        "whip": 1.26,
+        "strikeouts": 315,
+        "innings": 443.1,
+        "saves": 5,
+        "starts": 52
+      },
+      "statLine": "2.78 ERA - 1.260 WHIP - 315 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-jeff grantz-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeff Grantz",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 58,
+        "avg": 0.237,
+        "ops": 0.615,
+        "hr": 4,
+        "rbi": 38,
+        "sb": 21
+      },
+      "statLine": "..237 AVG - ..615 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-jim pankovits-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Pankovits",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 57,
+        "avg": 0.315,
+        "ops": 0.924,
+        "hr": 7,
+        "rbi": 46,
+        "sb": 23
+      },
+      "statLine": "..315 AVG - ..924 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-garry hancock-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Garry Hancock",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 54,
+        "avg": 0.351,
+        "ops": 0.777,
+        "hr": 1,
+        "rbi": 20,
+        "sb": 19
+      },
+      "statLine": "..351 AVG - ..777 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-hank small-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Hank Small",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 53,
+        "avg": 0.39,
+        "ops": 1.205,
+        "hr": 19,
+        "rbi": 66,
+        "sb": 7
+      },
+      "statLine": "..390 AVG - 1.205 OPS - 19 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-stephen cook-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Stephen Cook",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 55,
+        "avg": 0.302,
+        "ops": 0.774,
+        "hr": 4,
+        "rbi": 30,
+        "sb": 10
+      },
+      "statLine": "..302 AVG - ..774 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-steve king-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve King",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 48,
+        "avg": 0.341,
+        "ops": 1.003,
+        "hr": 9,
+        "rbi": 34,
+        "sb": 8
+      },
+      "statLine": "..341 AVG - 1.003 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-mark van bever-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mark Van Bever",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 54,
+        "avg": 0.288,
+        "ops": 0.698,
+        "hr": 0,
+        "rbi": 14,
+        "sb": 20
+      },
+      "statLine": "..288 AVG - ..698 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-greg keatley-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Keatley",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 51,
+        "avg": 0.276,
+        "ops": 0.872,
+        "hr": 7,
+        "rbi": 38,
+        "sb": 1
+      },
+      "statLine": "..276 AVG - ..872 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-chuck mclean-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Chuck McLean",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 43,
+        "avg": 0.29,
+        "ops": 0.824,
+        "hr": 1,
+        "rbi": 7,
+        "sb": 16
+      },
+      "statLine": "..290 AVG - ..824 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-john hinkel-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Hinkel",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 20,
+        "avg": 0.167,
+        "ops": 0.541,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..167 AVG - ..541 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-earl bass-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Earl Bass",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 21,
+        "wins": 17,
+        "era": 1.4,
+        "whip": 0.82,
+        "strikeouts": 168,
+        "innings": 148,
+        "saves": 1,
+        "starts": 18
+      },
+      "statLine": "1.40 ERA - ..820 WHIP - 168 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-greg ward-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Ward",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 18,
+        "wins": 14,
+        "era": 1.89,
+        "whip": 0.93,
+        "strikeouts": 102,
+        "innings": 119.1,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "1.89 ERA - ..930 WHIP - 102 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-tim lewis-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tim Lewis",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 11,
+        "era": 1.82,
+        "whip": 1.07,
+        "strikeouts": 71,
+        "innings": 94,
+        "saves": 1,
+        "starts": 13
+      },
+      "statLine": "1.82 ERA - 1.070 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-ray lavigne-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ray Lavigne",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 2.16,
+        "whip": 0.96,
+        "strikeouts": 50,
+        "innings": 66.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.16 ERA - ..960 WHIP - 50 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-chuck mclean-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chuck McLean",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 15,
+        "wins": 0,
+        "era": 2.94,
+        "whip": 1.6,
+        "strikeouts": 37,
+        "innings": 33.2,
+        "saves": 2,
+        "starts": 1
+      },
+      "statLine": "2.94 ERA - 1.600 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-mike cromer-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Cromer",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "wins": 1,
+        "era": 4,
+        "whip": 1.41,
+        "strikeouts": 25,
+        "innings": 27,
+        "saves": 3,
+        "starts": 1
+      },
+      "statLine": "4.00 ERA - 1.410 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-scott thomas-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Scott Thomas",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.14,
+        "strikeouts": 6,
+        "innings": 7,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.140 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-ed lynch-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Lynch",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 6.23,
+        "whip": 1.85,
+        "strikeouts": 4,
+        "innings": 4.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.23 ERA - 1.850 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-tom luckstone-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Luckstone",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.5,
+        "strikeouts": 1,
+        "innings": 2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.500 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-jamie chakales-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jamie Chakales",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 27,
+        "whip": 5,
+        "strikeouts": 1,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "27.00 ERA - 5.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-south carolina-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 109,
+        "wins": 51,
+        "era": 2,
+        "whip": 1.02,
+        "strikeouts": 465,
+        "innings": 503,
+        "saves": 7,
+        "starts": 58
+      },
+      "statLine": "2.00 ERA - 1.020 WHIP - 465 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-steve shartzer-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Shartzer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 50,
+        "avg": 0.341,
+        "ops": 0.903,
+        "hr": 5,
+        "rbi": 48,
+        "sb": 20
+      },
+      "statLine": "..341 AVG - ..903 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-bert newman-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bert Newman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 47,
+        "avg": 0.32,
+        "ops": 0.738,
+        "hr": 1,
+        "rbi": 24,
+        "sb": 36
+      },
+      "statLine": "..320 AVG - ..738 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-howard mitchell-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Howard Mitchell",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 50,
+        "avg": 0.359,
+        "ops": 0.99,
+        "hr": 5,
+        "rbi": 26,
+        "sb": 19
+      },
+      "statLine": "..359 AVG - ..990 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-john hoscheidt-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Hoscheidt",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 49,
+        "avg": 0.297,
+        "ops": 0.823,
+        "hr": 1,
+        "rbi": 24,
+        "sb": 18
+      },
+      "statLine": "..297 AVG - ..823 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-frank hunsaker-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Frank Hunsaker",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 48,
+        "avg": 0.364,
+        "ops": 0.982,
+        "hr": 2,
+        "rbi": 33,
+        "sb": 0
+      },
+      "statLine": "..364 AVG - ..982 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-richard murray-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Murray",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 46,
+        "avg": 0.273,
+        "ops": 0.765,
+        "hr": 4,
+        "rbi": 28,
+        "sb": 5
+      },
+      "statLine": "..273 AVG - ..765 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-george vukovich-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "George Vukovich",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 47,
+        "avg": 0.273,
+        "ops": 0.828,
+        "hr": 4,
+        "rbi": 20,
+        "sb": 7
+      },
+      "statLine": "..273 AVG - ..828 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-phil kilmas-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Phil Kilmas",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 16,
+        "avg": 0.27,
+        "ops": 0.735,
+        "hr": 1,
+        "rbi": 5,
+        "sb": 1
+      },
+      "statLine": "..270 AVG - ..735 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-jim reeves-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Reeves",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 31,
+        "avg": 0.167,
+        "ops": 0.602,
+        "hr": 1,
+        "rbi": 3,
+        "sb": 5
+      },
+      "statLine": "..167 AVG - ..602 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-joseph hage-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joseph Hage",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 3,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-ron hodges-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Hodges",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 16,
+        "wins": 11,
+        "era": 2.22,
+        "whip": 1.21,
+        "strikeouts": 70,
+        "innings": 101.1,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "2.22 ERA - 1.210 WHIP - 70 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-jim adkins-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "JIm Adkins",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 2.49,
+        "whip": 1.14,
+        "strikeouts": 42,
+        "innings": 68.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.49 ERA - 1.140 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-robin derry-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robin Derry",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 3.74,
+        "whip": 1.59,
+        "strikeouts": 36,
+        "innings": 43.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "3.74 ERA - 1.590 WHIP - 36 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-jim kessler-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Kessler",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 4.35,
+        "whip": 1.62,
+        "strikeouts": 31,
+        "innings": 41.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "4.35 ERA - 1.620 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-tim verpaele-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tim Verpaele",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 2.9,
+        "whip": 1.36,
+        "strikeouts": 26,
+        "innings": 40.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.90 ERA - 1.360 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-dewey robinson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dewey Robinson",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 4.08,
+        "whip": 1.25,
+        "strikeouts": 24,
+        "innings": 35.1,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "4.08 ERA - 1.250 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-bill dunning-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Dunning",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 4.97,
+        "whip": 1.83,
+        "strikeouts": 22,
+        "innings": 29,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "4.97 ERA - 1.830 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-bob leja-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Leja",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 6,
+        "wins": 3,
+        "era": 2.48,
+        "whip": 1.31,
+        "strikeouts": 13,
+        "innings": 29,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.48 ERA - 1.310 WHIP - 13 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-kevin waldrop-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kevin Waldrop",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 7.5,
+        "whip": 2.5,
+        "strikeouts": 5,
+        "innings": 6,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "7.50 ERA - 2.500 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-southern illinois-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 90,
+        "wins": 36,
+        "era": 3.2,
+        "whip": 1.37,
+        "strikeouts": 269,
+        "innings": 394.1,
+        "saves": 0,
+        "starts": 49
+      },
+      "statLine": "3.20 ERA - 1.370 WHIP - 269 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-bruce robinson-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Robinson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 59,
+        "avg": 0.249,
+        "ops": 0.859,
+        "hr": 13,
+        "rbi": 49,
+        "sb": 13
+      },
+      "statLine": "..249 AVG - ..859 OPS - 13 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-bob hampton-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Hampton",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 57,
+        "avg": 0.273,
+        "ops": 0.828,
+        "hr": 11,
+        "rbi": 48,
+        "sb": 11
+      },
+      "statLine": "..273 AVG - ..828 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-steve davis-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Davis",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 59,
+        "avg": 0.316,
+        "ops": 0.861,
+        "hr": 5,
+        "rbi": 25,
+        "sb": 16
+      },
+      "statLine": "..316 AVG - ..861 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-david baker-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Baker",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 42,
+        "avg": 0.288,
+        "ops": 0.71,
+        "hr": 1,
+        "rbi": 23,
+        "sb": 20
+      },
+      "statLine": "..288 AVG - ..710 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-pepe hinojosa-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pepe Hinojosa",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 48,
+        "avg": 0.244,
+        "ops": 0.699,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 9
+      },
+      "statLine": "..244 AVG - ..699 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-david perez-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Perez",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 42,
+        "avg": 0.228,
+        "ops": 0.732,
+        "hr": 2,
+        "rbi": 14,
+        "sb": 11
+      },
+      "statLine": "..228 AVG - ..732 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-ray cardinalli-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ray Cardinalli",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "avg": 0.333,
+        "ops": 1.081,
+        "hr": 1,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..333 AVG - 1.081 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-al arthur-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Al Arthur",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 20,
+        "wins": 8,
+        "era": 2.28,
+        "whip": 0.89,
+        "strikeouts": 57,
+        "innings": 118.2,
+        "saves": 2,
+        "starts": 13
+      },
+      "statLine": "2.28 ERA - ..890 WHIP - 57 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-john yandle-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Yandle",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 5,
+        "era": 3.59,
+        "whip": 1.49,
+        "strikeouts": 89,
+        "innings": 97.2,
+        "saves": 1,
+        "starts": 15
+      },
+      "statLine": "3.59 ERA - 1.490 WHIP - 89 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-mike williamson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Williamson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 3.22,
+        "whip": 1.43,
+        "strikeouts": 37,
+        "innings": 50.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.22 ERA - 1.430 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-jim scharffenberger-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Scharffenberger",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.27,
+        "whip": 1.24,
+        "strikeouts": 20,
+        "innings": 43.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.27 ERA - 1.240 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-kent caldwell-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kent Caldwell",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 3,
+        "era": 4.76,
+        "whip": 1.76,
+        "strikeouts": 18,
+        "innings": 39.2,
+        "saves": 2,
+        "starts": 2
+      },
+      "statLine": "4.76 ERA - 1.760 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-ed matta-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Matta",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 3,
+        "era": 5.21,
+        "whip": 1.61,
+        "strikeouts": 25,
+        "innings": 38,
+        "saves": 3,
+        "starts": 1
+      },
+      "statLine": "5.21 ERA - 1.610 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-bruce davis-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Davis",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 4.35,
+        "whip": 1.9,
+        "strikeouts": 22,
+        "innings": 31,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "4.35 ERA - 1.900 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-ken grolle-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ken Grolle",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 2.05,
+        "whip": 1.4,
+        "strikeouts": 25,
+        "innings": 30.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.05 ERA - 1.400 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-bernard hittner-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bernard Hittner",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 7.83,
+        "whip": 2.43,
+        "strikeouts": 10,
+        "innings": 23,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "7.83 ERA - 2.430 WHIP - 10 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-dave johnson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Johnson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 2.81,
+        "whip": 1.31,
+        "strikeouts": 9,
+        "innings": 16,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.81 ERA - 1.310 WHIP - 9 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-jerry argust-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jerry Argust",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 2.45,
+        "whip": 1.45,
+        "strikeouts": 11,
+        "innings": 11,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.45 ERA - 1.450 WHIP - 11 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-stanford-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 67,
+        "wins": 23,
+        "era": 3.2,
+        "whip": 1.32,
+        "strikeouts": 218,
+        "innings": 320.1,
+        "saves": 3,
+        "starts": 48
+      },
+      "statLine": "3.20 ERA - 1.320 WHIP - 218 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-keith moreland-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Keith Moreland",
+      "team": "Texas",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 62,
+        "avg": 0.41,
+        "ops": 1.052,
+        "hr": 4,
+        "rbi": 69,
+        "sb": 11
+      },
+      "statLine": "..410 AVG - 1.052 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-mickey reichenbach-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mickey Reichenbach",
+      "team": "Texas",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 62,
+        "avg": 0.332,
+        "ops": 0.968,
+        "hr": 5,
+        "rbi": 63,
+        "sb": 0
+      },
+      "statLine": "..332 AVG - ..968 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-jim gideon-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Gideon",
+      "team": "Texas",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 18,
+        "wins": 17,
+        "era": 1.81,
+        "whip": 1.12,
+        "strikeouts": 109,
+        "innings": 124.1,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "1.81 ERA - 1.120 WHIP - 109 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-rich wortham-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rich Wortham",
+      "team": "Texas",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "wins": 15,
+        "era": 1.95,
+        "whip": 1.18,
+        "strikeouts": 105,
+        "innings": 120,
+        "saves": 0,
+        "starts": 19
+      },
+      "statLine": "1.95 ERA - 1.180 WHIP - 105 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-martin flores-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Martin Flores",
+      "team": "Texas",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "wins": 10,
+        "era": 1.43,
+        "whip": 1.22,
+        "strikeouts": 86,
+        "innings": 88,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.43 ERA - 1.220 WHIP - 86 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Texas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 53,
+        "wins": 42,
+        "era": 1.76,
+        "whip": 1.17,
+        "strikeouts": 300,
+        "innings": 332.1,
+        "saves": 0,
+        "starts": 50
+      },
+      "statLine": "1.76 ERA - 1.170 WHIP - 300 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-michael frazier-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Frazier",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 44,
+        "avg": 0.324,
+        "ops": 0.74,
+        "hr": 1,
+        "rbi": 13,
+        "sb": 15
+      },
+      "statLine": "..324 AVG - ..740 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-jim bratsen-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Bratsen",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 48,
+        "avg": 0.335,
+        "ops": 0.956,
+        "hr": 8,
+        "rbi": 36,
+        "sb": 0
+      },
+      "statLine": "..335 AVG - ..956 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-bobby bonner-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bobby Bonner",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-michael schrader-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Schrader",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-james gibson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "James Gibson",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "wins": 9,
+        "era": 2.44,
+        "whip": 1.44,
+        "strikeouts": 60,
+        "innings": 96,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "2.44 ERA - 1.440 WHIP - 60 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-david lockett-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Lockett",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 20,
+        "wins": 7,
+        "era": 3.71,
+        "whip": 1.43,
+        "strikeouts": 65,
+        "innings": 94.2,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.71 ERA - 1.430 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-kirk campbell-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kirk Campbell",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 17,
+        "wins": 5,
+        "era": 2.36,
+        "whip": 1.43,
+        "strikeouts": 27,
+        "innings": 53.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.36 ERA - 1.430 WHIP - 27 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-texas a m-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 39,
+        "wins": 16,
+        "era": 3.07,
+        "whip": 1.43,
+        "strikeouts": 125,
+        "innings": 190.2,
+        "saves": 0,
+        "starts": 26
+      },
+      "statLine": "3.07 ERA - 1.430 WHIP - 125 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-tulane-barry butera-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Barry Butera",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS",
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-tulane-steve mura-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Mura",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 14,
+        "wins": 10,
+        "era": 1.33,
+        "whip": 0.95,
+        "strikeouts": 106,
+        "innings": 101.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.33 ERA - ..950 WHIP - 106 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-tulane-ken cronin-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ken Cronin",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 10,
+        "wins": 6,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 71.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-tulane-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 14,
+        "wins": 10,
+        "era": 1.33,
+        "whip": 0.95,
+        "strikeouts": 106,
+        "innings": 101.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.33 ERA - ..950 WHIP - 106 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-vanderbilt-steve chandler-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Chandler",
+      "team": "Vanderbilt",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 60,
+        "avg": 0.266,
+        "ops": 0.772,
+        "hr": 4,
+        "rbi": 34,
+        "sb": 7
+      },
+      "statLine": "..266 AVG - ..772 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-vanderbilt-scott sanderson-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Scott Sanderson",
+      "team": "Vanderbilt",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 4.02,
+        "whip": 1.81,
+        "strikeouts": 38,
+        "innings": 47,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.02 ERA - 1.810 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-vanderbilt-totals-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Vanderbilt",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 4.02,
+        "whip": 1.81,
+        "strikeouts": 38,
+        "innings": 47,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "4.02 ERA - 1.810 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-wake forest-merle henkel-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Merle Henkel",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.7,
+        "whip": 1.31,
+        "strikeouts": 43,
+        "innings": 70,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.70 ERA - 1.310 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-washington-brad omlid-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Brad Omlid",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-western illinois-dennis mantick-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Mantick",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 32,
+        "avg": 0.303,
+        "ops": 0.794,
+        "hr": 0,
+        "rbi": 11,
+        "sb": 17
+      },
+      "statLine": "..303 AVG - ..794 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-western illinois-matt polinski-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Matt Polinski",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 25,
+        "avg": 0.3,
+        "ops": 0.773,
+        "hr": 1,
+        "rbi": 20,
+        "sb": 0
+      },
+      "statLine": "..300 AVG - ..773 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-western illinois-rick votel-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Votel",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 2.35,
+        "whip": 1.06,
+        "strikeouts": 52,
+        "innings": 61.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.35 ERA - 1.060 WHIP - 52 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-western illinois-don brodt-pit",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Don Brodt",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 2.75,
+        "whip": 1.37,
+        "strikeouts": 37,
+        "innings": 55.2,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.75 ERA - 1.370 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-uc irvine-carl peternell-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Carl Peternell",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-uc irvine-kenny washington-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kenny Washington",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-uc irvine-rod spence-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rod Spence",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1975-uc irvine-steve whitehead-bat",
+      "season": 1975,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Whitehead",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    }
+  ]
+}

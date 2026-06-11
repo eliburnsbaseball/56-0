@@ -1,0 +1,5811 @@
+{
+  "year": 1971,
+  "players": [
+    {
+      "id": "1971-auburn-kenneth dempsey-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kenneth Dempsey",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.307,
+        "ops": 0.564,
+        "hr": 8,
+        "rbi": 27,
+        "sb": 14
+      },
+      "statLine": "..307 AVG - ..564 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-auburn-jack baker-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jack Baker",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.31,
+        "ops": 0.563,
+        "hr": 8,
+        "rbi": 35,
+        "sb": 4
+      },
+      "statLine": "..310 AVG - ..563 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-auburn-andy merchant-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andy Merchant",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.325,
+        "ops": 0.482,
+        "hr": 4,
+        "rbi": 23,
+        "sb": 11
+      },
+      "statLine": "..325 AVG - ..482 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-auburn-lynn jones-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Lynn Jones",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.125,
+        "ops": 0.125,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..125 AVG - ..125 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-bowling green-doug bair-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Doug Bair",
+      "team": "Bowling Green",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 17,
+        "wins": 6,
+        "era": 3.41,
+        "whip": 1.41,
+        "strikeouts": 120,
+        "innings": 89.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.41 ERA - 1.410 WHIP - 120 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-bowling green-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Bowling Green",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 17,
+        "wins": 6,
+        "era": 3.41,
+        "whip": 1.41,
+        "strikeouts": 120,
+        "innings": 89.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.41 ERA - 1.410 WHIP - 120 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-brigham young-dane iorg-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dane Iorg",
+      "team": "Brigham Young",
+      "classYear": "Jr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 48,
+        "avg": 0.401,
+        "ops": 1.17,
+        "hr": 11,
+        "rbi": 50,
+        "sb": 4
+      },
+      "statLine": "..401 AVG - 1.170 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-california-gary hernandez-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Hernandez",
+      "team": "California",
+      "classYear": "So",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 46,
+        "avg": 0.387,
+        "ops": 1.076,
+        "hr": 4,
+        "rbi": 26,
+        "sb": 0
+      },
+      "statLine": "..387 AVG - 1.076 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-california-jerry vitatoe-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jerry Vitatoe",
+      "team": "California",
+      "classYear": "Sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 46,
+        "avg": 0.319,
+        "ops": 0.874,
+        "hr": 4,
+        "rbi": 28,
+        "sb": 0
+      },
+      "statLine": "..319 AVG - ..874 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-cincinnati-butch alberts-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Butch Alberts",
+      "team": "Cincinnati",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 44,
+        "avg": 0.322,
+        "ops": 0.889,
+        "hr": 3,
+        "rbi": 30,
+        "sb": 12
+      },
+      "statLine": "..322 AVG - ..889 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-cincinnati-rick defelice-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rick DeFelice",
+      "team": "Cincinnati",
+      "classYear": "Sr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 35,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-john severs-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Severs",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 41,
+        "avg": 0.301,
+        "ops": 0.418,
+        "hr": 1,
+        "rbi": 13,
+        "sb": 17
+      },
+      "statLine": "..301 AVG - ..418 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-craig white-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Craig White",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 35,
+        "avg": 0.38,
+        "ops": 0.574,
+        "hr": 4,
+        "rbi": 28,
+        "sb": 0
+      },
+      "statLine": "..380 AVG - ..574 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-richard haynes-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Haynes",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 36,
+        "avg": 0.241,
+        "ops": 0.366,
+        "hr": 2,
+        "rbi": 15,
+        "sb": 1
+      },
+      "statLine": "..241 AVG - ..366 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-rusty gerhardt-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rusty Gerhardt",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 11,
+        "era": 2.17,
+        "whip": 0.94,
+        "strikeouts": 111,
+        "innings": 108,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "2.17 ERA - ..940 WHIP - 111 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-david van volkenburg-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Van Volkenburg",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 2.61,
+        "whip": 1.29,
+        "strikeouts": 59,
+        "innings": 62,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.61 ERA - 1.290 WHIP - 59 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-lindsay graham-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lindsay Graham",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 3.12,
+        "whip": 1.2,
+        "strikeouts": 49,
+        "innings": 60.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "3.12 ERA - 1.200 WHIP - 49 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-jeffrey bradford-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jeffrey Bradford",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 3.07,
+        "whip": 1.27,
+        "strikeouts": 28,
+        "innings": 44,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "3.07 ERA - 1.270 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-jay bevis-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jay Bevis",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 3,
+        "era": 3.41,
+        "whip": 1.29,
+        "strikeouts": 24,
+        "innings": 31.2,
+        "saves": 4,
+        "starts": 0
+      },
+      "statLine": "3.41 ERA - 1.290 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-russell bryant-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Russell Bryant",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 0,
+        "era": 3.63,
+        "whip": 1.57,
+        "strikeouts": 16,
+        "innings": 22.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "3.63 ERA - 1.570 WHIP - 16 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-dennis odle-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dennis Odle",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 3.06,
+        "whip": 1.36,
+        "strikeouts": 14,
+        "innings": 17.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.06 ERA - 1.360 WHIP - 14 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-mark adams-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Adams",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 9,
+        "whip": 3.4,
+        "strikeouts": 2,
+        "innings": 5,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "9.00 ERA - 3.400 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-ken murray-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ken Murray",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 9.64,
+        "whip": 1.93,
+        "strikeouts": 4,
+        "innings": 4.2,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "9.64 ERA - 1.930 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-clemson-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 58,
+        "wins": 23,
+        "era": 2.74,
+        "whip": 1.17,
+        "strikeouts": 249,
+        "innings": 279.2,
+        "saves": 0,
+        "starts": 36
+      },
+      "statLine": "2.74 ERA - 1.170 WHIP - 249 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-florida-nick devirgilis-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Nick Devirgilis",
+      "team": "Florida",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 3,
+        "avg": 0.198,
+        "ops": 0.235,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 3
+      },
+      "statLine": "..198 AVG - ..235 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-mike harrelson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Harrelson",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 32,
+        "avg": 0.331,
+        "ops": 0.423,
+        "hr": 1,
+        "rbi": 17,
+        "sb": 13
+      },
+      "statLine": "..331 AVG - ..423 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-stan fillion-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Stan Fillion",
+      "team": "Georgia",
+      "classYear": "jr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 30,
+        "avg": 0.259,
+        "ops": 0.319,
+        "hr": 0,
+        "rbi": 12,
+        "sb": 3
+      },
+      "statLine": "..259 AVG - ..319 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-larry wages-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Wages",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 32,
+        "avg": 0.274,
+        "ops": 0.319,
+        "hr": 0,
+        "rbi": 11,
+        "sb": 9
+      },
+      "statLine": "..274 AVG - ..319 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-jim carter-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Carter",
+      "team": "Georgia",
+      "classYear": "jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 2,
+        "avg": 0.325,
+        "ops": 0.425,
+        "hr": 1,
+        "rbi": 15,
+        "sb": 0
+      },
+      "statLine": "..325 AVG - ..425 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-andy johnson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andy Johnson",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "avg": 0.317,
+        "ops": 0.492,
+        "hr": 2,
+        "rbi": 10,
+        "sb": 3
+      },
+      "statLine": "..317 AVG - ..492 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-paul gilbert-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Gilbert",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 25,
+        "avg": 0.267,
+        "ops": 0.383,
+        "hr": 2,
+        "rbi": 9,
+        "sb": 1
+      },
+      "statLine": "..267 AVG - ..383 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-john calhoun-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Calhoun",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 17,
+        "avg": 0.175,
+        "ops": 0.175,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..175 AVG - ..175 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-billy griffith-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Billy Griffith",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "avg": 0.263,
+        "ops": 0.447,
+        "hr": 1,
+        "rbi": 8,
+        "sb": 0
+      },
+      "statLine": "..263 AVG - ..447 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-charles walraven-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Charles Walraven",
+      "team": "Georgia",
+      "classYear": "jr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "avg": 0.147,
+        "ops": 0.206,
+        "hr": 0,
+        "rbi": 3,
+        "sb": 0
+      },
+      "statLine": "..147 AVG - ..206 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-cauthen westbrook-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Cauthen Westbrook",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "avg": 0.308,
+        "ops": 0.462,
+        "hr": 0,
+        "rbi": 6,
+        "sb": 0
+      },
+      "statLine": "..308 AVG - ..462 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-bill beale-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bill Beale",
+      "team": "Georgia",
+      "classYear": "so",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "avg": 0.25,
+        "ops": 0.25,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..250 AVG - ..250 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-don golden-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Golden",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "avg": 0.167,
+        "ops": 0.167,
+        "hr": 0,
+        "rbi": 1,
+        "sb": 0
+      },
+      "statLine": "..167 AVG - ..167 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-bill hatcher-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bill Hatcher",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "avg": 0.1,
+        "ops": 0.1,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..100 AVG - ..100 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-kirby campanella-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kirby Campanella",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 3,
+        "avg": 0.2,
+        "ops": 0.4,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..200 AVG - ..400 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-tony lopataka-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Tony Lopataka",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "avg": 0.167,
+        "ops": 0.333,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..167 AVG - ..333 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-gary nevinger-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Nevinger",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 3.96,
+        "whip": 1.37,
+        "strikeouts": 66,
+        "innings": 63.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.96 ERA - 1.370 WHIP - 66 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-cauthen westbrook-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Cauthen Westbrook",
+      "team": "Georgia",
+      "classYear": "sr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 5.07,
+        "whip": 1.72,
+        "strikeouts": 41,
+        "innings": 60.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.07 ERA - 1.720 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-alan salmon-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Salmon",
+      "team": "Georgia",
+      "classYear": "so",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 4.75,
+        "whip": 1.75,
+        "strikeouts": 24,
+        "innings": 36,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.75 ERA - 1.750 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-steven carp-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steven Carp",
+      "team": "Georgia",
+      "classYear": "fr",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 3.04,
+        "whip": 1.35,
+        "strikeouts": 16,
+        "innings": 26.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "3.04 ERA - 1.350 WHIP - 16 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-joe keith-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Keith",
+      "team": "Georgia",
+      "classYear": "so",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 6.1,
+        "whip": 1.74,
+        "strikeouts": 6,
+        "innings": 20.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.10 ERA - 1.740 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-mike young-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Young",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 10.64,
+        "whip": 2.36,
+        "strikeouts": 9,
+        "innings": 11,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "10.64 ERA - 2.360 WHIP - 9 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-georgia-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Georgia",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 41,
+        "wins": 12,
+        "era": 4.51,
+        "whip": 1.57,
+        "strikeouts": 153,
+        "innings": 207.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.51 ERA - 1.570 WHIP - 153 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-gonzaga-arnold murillo-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Arnold Murillo",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 53,
+        "avg": 0.329,
+        "ops": 0.928,
+        "hr": 5,
+        "rbi": 38,
+        "sb": 0
+      },
+      "statLine": "..329 AVG - ..928 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-gonzaga-david dowdy-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Dowdy",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-gonzaga-skip raschke-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Skip Raschke",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 18,
+        "wins": 10,
+        "era": 1.66,
+        "whip": 0.88,
+        "strikeouts": 81,
+        "innings": 103,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "1.66 ERA - ..880 WHIP - 81 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-gonzaga-mike mcneilly-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike McNeilly",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 15,
+        "wins": 10,
+        "era": 0.92,
+        "whip": 1.04,
+        "strikeouts": 77,
+        "innings": 78,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "..92 ERA - 1.040 WHIP - 77 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-gonzaga-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 15,
+        "wins": 10,
+        "era": 0.92,
+        "whip": 1.04,
+        "strikeouts": 77,
+        "innings": 78,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "..92 ERA - 1.040 WHIP - 77 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-holy cross-mike pazik-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Pazik",
+      "team": "Holy Cross",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 1.64,
+        "whip": 1.02,
+        "strikeouts": 76,
+        "innings": 66,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "1.64 ERA - 1.020 WHIP - 76 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-holy cross-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Holy Cross",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 1.64,
+        "whip": 1.02,
+        "strikeouts": 76,
+        "innings": 66,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "1.64 ERA - 1.020 WHIP - 76 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-illinois-kenneth ossola-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kenneth Ossola",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-illinois-bob polock-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Polock",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 35,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 16
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-illinois-gary anderson-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Anderson",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 7,
+        "wins": 5,
+        "era": 3.35,
+        "whip": 1.6,
+        "strikeouts": 20,
+        "innings": 43,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "3.35 ERA - 1.600 WHIP - 20 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-illinois-randy cordova-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Cordova",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 2,
+        "era": 1.61,
+        "whip": 1.04,
+        "strikeouts": 25,
+        "innings": 28,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.61 ERA - 1.040 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-illinois-bob cortesi-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Cortesi",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 2.33,
+        "whip": 1.48,
+        "strikeouts": 13,
+        "innings": 27,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "2.33 ERA - 1.480 WHIP - 13 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas-skip james-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Skip James",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.325,
+        "ops": 0.978,
+        "hr": 6,
+        "rbi": 26,
+        "sb": 4
+      },
+      "statLine": "..325 AVG - ..978 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas-paul womble-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Paul Womble",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.386,
+        "ops": 1.141,
+        "hr": 9,
+        "rbi": 27,
+        "sb": 0
+      },
+      "statLine": "..386 AVG - 1.141 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas-bill steigemeier-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Steigemeier",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 3.39,
+        "whip": 1.46,
+        "strikeouts": 47,
+        "innings": 61,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.39 ERA - 1.460 WHIP - 47 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas-bob wolf-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Wolf",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 3.54,
+        "whip": 1.34,
+        "strikeouts": 35,
+        "innings": 48.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.54 ERA - 1.340 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-jay parker-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jay Parker",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "avg": 0.222,
+        "ops": 0.25,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..222 AVG - ..250 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-philip oliver-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Philip Oliver",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 2.23,
+        "whip": 1.34,
+        "strikeouts": 26,
+        "innings": 68.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.23 ERA - 1.340 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-bruce bennett-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Bennett",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 10,
+        "wins": 5,
+        "era": 2.53,
+        "whip": 1.11,
+        "strikeouts": 34,
+        "innings": 53.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.53 ERA - 1.110 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-david klenda-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Klenda",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 6.2,
+        "whip": 1.64,
+        "strikeouts": 33,
+        "innings": 49.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "6.20 ERA - 1.640 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-lonnie kruger-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lonnie Kruger",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 4,
+        "era": 3.33,
+        "whip": 1.22,
+        "strikeouts": 38,
+        "innings": 46,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "3.33 ERA - 1.220 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-mark arnold-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Arnold",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 6.25,
+        "whip": 1.74,
+        "strikeouts": 25,
+        "innings": 31.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "6.25 ERA - 1.740 WHIP - 25 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-floyd rudolph-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Floyd Rudolph",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 5.14,
+        "whip": 1.86,
+        "strikeouts": 4,
+        "innings": 7,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "5.14 ERA - 1.860 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-carl bailey-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Carl Bailey",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 7.5,
+        "whip": 2.67,
+        "strikeouts": 4,
+        "innings": 6,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "7.50 ERA - 2.670 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kansas state-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "wins": 10,
+        "era": 5.17,
+        "whip": 1.51,
+        "strikeouts": 96,
+        "innings": 127,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "5.17 ERA - 1.510 WHIP - 96 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kentucky-derek bryant-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Derek Bryant",
+      "team": "Kentucky",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 33,
+        "avg": 0.408,
+        "ops": 1.204,
+        "hr": 10,
+        "rbi": 36,
+        "sb": 9
+      },
+      "statLine": "..408 AVG - 1.204 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kentucky-jim lett-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Lett",
+      "team": "Kentucky",
+      "classYear": "So",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 24,
+        "avg": 0.321,
+        "ops": 0.821,
+        "hr": 1,
+        "rbi": 10,
+        "sb": 0
+      },
+      "statLine": "..321 AVG - ..821 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kentucky-jim lett-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Lett",
+      "team": "Kentucky",
+      "classYear": "So",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 37,
+        "innings": 36.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-kentucky-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kentucky",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 37,
+        "innings": 36.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-maryland-david sauve-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Sauve",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 25,
+        "avg": 0.352,
+        "ops": 1.068,
+        "hr": 3,
+        "rbi": 14,
+        "sb": 0
+      },
+      "statLine": "..352 AVG - 1.068 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-maryland-jim norris-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Norris",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 20,
+        "avg": 0.295,
+        "ops": 0.944,
+        "hr": 3,
+        "rbi": 11,
+        "sb": 0
+      },
+      "statLine": "..295 AVG - ..944 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-maryland-rick clee-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Clee",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.97,
+        "whip": 1.12,
+        "strikeouts": 44,
+        "innings": 69.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.97 ERA - 1.120 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-maryland-mike chadick-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Chadick",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 1.44,
+        "whip": 1.03,
+        "strikeouts": 57,
+        "innings": 56.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.44 ERA - 1.030 WHIP - 57 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-minnesota-dave winfield-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Winfield",
+      "team": "Minnesota",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 1.48,
+        "whip": 1.12,
+        "strikeouts": 90,
+        "innings": 67,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.48 ERA - 1.120 WHIP - 90 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-minnesota-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Minnesota",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 1.48,
+        "whip": 1.12,
+        "strikeouts": 90,
+        "innings": 67,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.48 ERA - 1.120 WHIP - 90 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-phill still-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Phill Still",
+      "team": "Mississippi State",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 44,
+        "avg": 0.351,
+        "ops": 1.106,
+        "hr": 11,
+        "rbi": 37,
+        "sb": 0
+      },
+      "statLine": "..351 AVG - 1.106 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-dale holland-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dale Holland",
+      "team": "Mississippi State",
+      "classYear": "Fr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 40,
+        "avg": 0.315,
+        "ops": 0.725,
+        "hr": 0,
+        "rbi": 7,
+        "sb": 0
+      },
+      "statLine": "..315 AVG - ..725 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-donnie davis-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Donnie Davis",
+      "team": "Mississippi State",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 31,
+        "avg": 0.368,
+        "ops": 0.953,
+        "hr": 3,
+        "rbi": 22,
+        "sb": 0
+      },
+      "statLine": "..368 AVG - ..953 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-robert croswell-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Robert Croswell",
+      "team": "Mississippi State",
+      "classYear": "null",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 44,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 10
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-ted milton-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ted Milton",
+      "team": "Mississippi State",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 43,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-dave phares-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Phares",
+      "team": "Mississippi State",
+      "classYear": "null",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 43,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-james thomas-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "James Thomas",
+      "team": "Mississippi State",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 10,
+        "era": 2.56,
+        "whip": 1.09,
+        "strikeouts": 89,
+        "innings": 109,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.56 ERA - 1.090 WHIP - 89 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-mike proffit-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Proffit",
+      "team": "Mississippi State",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 11,
+        "era": 2.02,
+        "whip": 1.2,
+        "strikeouts": 80,
+        "innings": 93.2,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.02 ERA - 1.200 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-mississippi state-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Mississippi State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 27,
+        "wins": 21,
+        "era": 2.31,
+        "whip": 1.14,
+        "strikeouts": 169,
+        "innings": 202.2,
+        "saves": 0,
+        "starts": 26
+      },
+      "statLine": "2.31 ERA - 1.140 WHIP - 169 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-murray state-steve barrett-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Barrett",
+      "team": "Murray State",
+      "classYear": "Fr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 30,
+        "avg": 0.39,
+        "ops": 1.084,
+        "hr": 1,
+        "rbi": 17,
+        "sb": 0
+      },
+      "statLine": "..390 AVG - 1.084 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma-mike swenton-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Swenton",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 35,
+        "avg": 0.336,
+        "ops": 0.978,
+        "hr": 7,
+        "rbi": 30,
+        "sb": 0
+      },
+      "statLine": "..336 AVG - ..978 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma-joe simpson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Simpson",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 33,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma-bobby jack-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bobby Jack",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma-gary weese-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Weese",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 1.64,
+        "whip": 0.6,
+        "strikeouts": 52,
+        "innings": 71.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "1.64 ERA - ..600 WHIP - 52 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 8,
+        "era": 1.64,
+        "whip": 0.6,
+        "strikeouts": 52,
+        "innings": 71.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "1.64 ERA - ..600 WHIP - 52 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma state-cleve reed-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Cleve Reed",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.265,
+        "ops": 0.79,
+        "hr": 6,
+        "rbi": 23,
+        "sb": 5
+      },
+      "statLine": "..265 AVG - ..790 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma state-michael cross-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Cross",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS",
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.262,
+        "ops": 0.785,
+        "hr": 3,
+        "rbi": 18,
+        "sb": 0
+      },
+      "statLine": "..262 AVG - ..785 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma state-terry edwards-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terry Edwards",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 33,
+        "avg": 0.214,
+        "ops": 0.603,
+        "hr": 0,
+        "rbi": 11,
+        "sb": 1
+      },
+      "statLine": "..214 AVG - ..603 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oklahoma state-gary brandenburg-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Brandenburg",
+      "team": "Oklahoma State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "avg": 0.4,
+        "ops": 1.105,
+        "hr": 1,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..400 AVG - 1.105 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-greg brosterhous-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Brosterhous",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 29,
+        "avg": 0.337,
+        "ops": 1.023,
+        "hr": 4,
+        "rbi": 18,
+        "sb": 0
+      },
+      "statLine": "..337 AVG - 1.023 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-guy krause-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Guy Krause",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 33,
+        "avg": 0,
+        "ops": 0,
+        "hr": 7,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-dave dingman-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Dingman",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-dick whitman-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dick Whitman",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-mike bubalo-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Bubalo",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 34,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-bruce maxwell-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Maxwell",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-rick mealey-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Mealey",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 3.79,
+        "whip": 1.5,
+        "strikeouts": 44,
+        "innings": 54.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.79 ERA - 1.500 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-oregon-alan hardin-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Hardin",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 8,
+        "wins": 5,
+        "era": 2.61,
+        "whip": 1.34,
+        "strikeouts": 28,
+        "innings": 48.1,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.61 ERA - 1.340 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-rhode island-bruce clarke-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Clarke",
+      "team": "Rhode Island",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Atlantic 10",
+      "stats": {
+        "games": 4,
+        "avg": 0,
+        "ops": 0.25,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..250 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-glenn borgmann-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glenn Borgmann",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.471,
+        "ops": 1.458,
+        "hr": 15,
+        "rbi": 68,
+        "sb": 4
+      },
+      "statLine": "..471 AVG - 1.458 OPS - 15 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-al snypes-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Al Snypes",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.318,
+        "ops": 0.984,
+        "hr": 10,
+        "rbi": 43,
+        "sb": 12
+      },
+      "statLine": "..318 AVG - ..984 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-jerry devins-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jerry Devins",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.31,
+        "ops": 0.882,
+        "hr": 4,
+        "rbi": 18,
+        "sb": 3
+      },
+      "statLine": "..310 AVG - ..882 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-dennis whitehead-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Whitehead",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.31,
+        "ops": 0.842,
+        "hr": 2,
+        "rbi": 16,
+        "sb": 4
+      },
+      "statLine": "..310 AVG - ..842 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-forrest crowder-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Forrest Crowder",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.317,
+        "ops": 0.823,
+        "hr": 0,
+        "rbi": 13,
+        "sb": 2
+      },
+      "statLine": "..317 AVG - ..823 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-robert hutcheson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Robert Hutcheson",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.231,
+        "ops": 0.594,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..231 AVG - ..594 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-joseph tillman-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joseph Tillman",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.111,
+        "ops": 0.222,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..111 AVG - ..222 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-mike tice-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Tice",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 13,
+        "wins": 8,
+        "era": 1.79,
+        "whip": 1.21,
+        "strikeouts": 65,
+        "innings": 75.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "1.79 ERA - 1.210 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-larry aubel-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Aubel",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 15,
+        "wins": 5,
+        "era": 2.9,
+        "whip": 0.81,
+        "strikeouts": 59,
+        "innings": 59,
+        "saves": 3,
+        "starts": 10
+      },
+      "statLine": "2.90 ERA - ..810 WHIP - 59 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-bruce kombrinck-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Kombrinck",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 12,
+        "wins": 4,
+        "era": 4.47,
+        "whip": 1.58,
+        "strikeouts": 42,
+        "innings": 46.1,
+        "saves": 1,
+        "starts": 11
+      },
+      "statLine": "4.47 ERA - 1.580 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-blaine dollar-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Blaine Dollar",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 15,
+        "wins": 4,
+        "era": 2.23,
+        "whip": 1.14,
+        "strikeouts": 26,
+        "innings": 32.1,
+        "saves": 5,
+        "starts": 3
+      },
+      "statLine": "2.23 ERA - 1.140 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-ronnie powell-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ronnie Powell",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 17,
+        "wins": 2,
+        "era": 1.91,
+        "whip": 1.13,
+        "strikeouts": 17,
+        "innings": 28.1,
+        "saves": 4,
+        "starts": 0
+      },
+      "statLine": "1.91 ERA - 1.130 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-mark hoffman-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Hoffman",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 5,
+        "whip": 1.7,
+        "strikeouts": 28,
+        "innings": 27,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "5.00 ERA - 1.700 WHIP - 28 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-rick weekes-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Weekes",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.6,
+        "whip": 1.48,
+        "strikeouts": 9,
+        "innings": 25,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "3.60 ERA - 1.480 WHIP - 9 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-bob danaher-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Danaher",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 14,
+        "wins": 1,
+        "era": 2.59,
+        "whip": 0.9,
+        "strikeouts": 17,
+        "innings": 24.1,
+        "saves": 3,
+        "starts": 0
+      },
+      "statLine": "2.59 ERA - ..900 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-mike smith-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Smith",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 10,
+        "wins": 3,
+        "era": 4.18,
+        "whip": 1.39,
+        "strikeouts": 23,
+        "innings": 23.2,
+        "saves": 3,
+        "starts": 0
+      },
+      "statLine": "4.18 ERA - 1.390 WHIP - 23 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-fred fabbri-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Fred Fabbri",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 2.61,
+        "whip": 1.16,
+        "strikeouts": 2,
+        "innings": 10.1,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "2.61 ERA - 1.160 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-eddie hightower-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Eddie Hightower",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 0.9,
+        "whip": 0.7,
+        "strikeouts": 7,
+        "innings": 10,
+        "saves": 2,
+        "starts": 1
+      },
+      "statLine": "..90 ERA - ..700 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-bruce millen-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Millen",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 8,
+        "wins": 0,
+        "era": 4.66,
+        "whip": 1.86,
+        "strikeouts": 6,
+        "innings": 9.2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "4.66 ERA - 1.860 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-louie smith-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Louie Smith",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 3,
+        "wins": 2,
+        "era": 4.26,
+        "whip": 2.53,
+        "strikeouts": 6,
+        "innings": 6.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.26 ERA - 2.530 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-russell burns-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Russell Burns",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 3.37,
+        "whip": 2.62,
+        "strikeouts": 1,
+        "innings": 2.2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "3.37 ERA - 2.620 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-connie darnell-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Connie Darnell",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 1,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south alabama-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 139,
+        "wins": 36,
+        "era": 3,
+        "whip": 1.26,
+        "strikeouts": 308,
+        "innings": 381.1,
+        "saves": 28,
+        "starts": 47
+      },
+      "statLine": "3.00 ERA - 1.260 WHIP - 308 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-john gambrell-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Gambrell",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 27,
+        "avg": 0.301,
+        "ops": 0.37,
+        "hr": 0,
+        "rbi": 8,
+        "sb": 12
+      },
+      "statLine": "..301 AVG - ..370 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-donald churchwell-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Donald Churchwell",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "avg": 0.154,
+        "ops": 0.192,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 1
+      },
+      "statLine": "..154 AVG - ..192 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-larry erbaugh-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Erbaugh",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 2.5,
+        "whip": 1.3,
+        "strikeouts": 60,
+        "innings": 75.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.50 ERA - 1.300 WHIP - 60 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-george beam-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "George Beam",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 3.86,
+        "whip": 1.57,
+        "strikeouts": 41,
+        "innings": 49,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.86 ERA - 1.570 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-alan hilliard-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Hilliard",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 2.31,
+        "whip": 1.09,
+        "strikeouts": 49,
+        "innings": 46.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.31 ERA - 1.090 WHIP - 49 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-bo robinson-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bo Robinson",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 2.28,
+        "whip": 1.15,
+        "strikeouts": 30,
+        "innings": 43.1,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "2.28 ERA - 1.150 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-eddie bolton-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Eddie Bolton",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 3.96,
+        "whip": 1.5,
+        "strikeouts": 35,
+        "innings": 38.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "3.96 ERA - 1.500 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-phil houston-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Phil Houston",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 15,
+        "wins": 2,
+        "era": 1.25,
+        "whip": 1.02,
+        "strikeouts": 14,
+        "innings": 21.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "1.25 ERA - 1.020 WHIP - 14 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-pat lassonde-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pat Lassonde",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 4.5,
+        "whip": 1.75,
+        "strikeouts": 5,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.50 ERA - 1.750 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-b 9 00 kleinknecht-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "B.9.00 Kleinknecht",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 9,
+        "whip": 2,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 2.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-c kell-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "C. Kell",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-south carolina-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 67,
+        "wins": 19,
+        "era": 2.81,
+        "whip": 1.3,
+        "strikeouts": 234,
+        "innings": 279,
+        "saves": 0,
+        "starts": 32
+      },
+      "statLine": "2.81 ERA - 1.300 WHIP - 234 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-jim dwyer-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Dwyer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.413,
+        "ops": 1.138,
+        "hr": 3,
+        "rbi": 43,
+        "sb": 29
+      },
+      "statLine": "..413 AVG - 1.138 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-mike eden-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Eden",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.378,
+        "ops": 1.033,
+        "hr": 5,
+        "rbi": 31,
+        "sb": 28
+      },
+      "statLine": "..378 AVG - 1.033 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-dan radison-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Radison",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.28,
+        "ops": 0.758,
+        "hr": 5,
+        "rbi": 43,
+        "sb": 6
+      },
+      "statLine": "..280 AVG - ..758 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-duane kuiper-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Duane Kuiper",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.352,
+        "ops": 0.84,
+        "hr": 1,
+        "rbi": 39,
+        "sb": 13
+      },
+      "statLine": "..352 AVG - ..840 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-robert blakley-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Robert Blakley",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.295,
+        "ops": 0.835,
+        "hr": 4,
+        "rbi": 38,
+        "sb": 10
+      },
+      "statLine": "..295 AVG - ..835 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-dan thomas-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Thomas",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.351,
+        "ops": 0.898,
+        "hr": 4,
+        "rbi": 31,
+        "sb": 32
+      },
+      "statLine": "..351 AVG - ..898 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-ken kral-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Kral",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.2,
+        "ops": 0.634,
+        "hr": 1,
+        "rbi": 6,
+        "sb": 7
+      },
+      "statLine": "..200 AVG - ..634 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-larry calufetti-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Calufetti",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.447,
+        "ops": 1.227,
+        "hr": 2,
+        "rbi": 12,
+        "sb": 1
+      },
+      "statLine": "..447 AVG - 1.227 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-joe wallis-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Wallis",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 0,
+        "avg": 0.25,
+        "ops": 0.703,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..250 AVG - ..703 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-dick langdon-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dick Langdon",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 18,
+        "wins": 12,
+        "era": 2.2,
+        "whip": 1.18,
+        "strikeouts": 7,
+        "innings": 114.2,
+        "saves": 4,
+        "starts": 13
+      },
+      "statLine": "2.20 ERA - 1.180 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-steve randall-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Randall",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 18,
+        "wins": 9,
+        "era": 2.64,
+        "whip": 1.09,
+        "strikeouts": 48,
+        "innings": 88.2,
+        "saves": 2,
+        "starts": 12
+      },
+      "statLine": "2.64 ERA - 1.090 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-jim fischer-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Fischer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 4.12,
+        "whip": 1.51,
+        "strikeouts": 38,
+        "innings": 67.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "4.12 ERA - 1.510 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-dave martin-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Martin",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 18,
+        "wins": 7,
+        "era": 2.4,
+        "whip": 1.46,
+        "strikeouts": 51,
+        "innings": 63.2,
+        "saves": 3,
+        "starts": 6
+      },
+      "statLine": "2.40 ERA - 1.460 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-mike broeking-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Broeking",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 15,
+        "wins": 3,
+        "era": 2.41,
+        "whip": 1.12,
+        "strikeouts": 36,
+        "innings": 41,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "2.41 ERA - 1.120 WHIP - 36 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-scott waltemate-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Scott Waltemate",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 6,
+        "wins": 3,
+        "era": 4.26,
+        "whip": 1.7,
+        "strikeouts": 18,
+        "innings": 25.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "4.26 ERA - 1.700 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-dan horn-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Horn",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 6,
+        "wins": 1,
+        "era": 3.1,
+        "whip": 1.92,
+        "strikeouts": 15,
+        "innings": 20.1,
+        "saves": 1,
+        "starts": 3
+      },
+      "statLine": "3.10 ERA - 1.920 WHIP - 15 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-willie jones-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Willie Jones",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 4,
+        "wins": 1,
+        "era": 10.5,
+        "whip": 3,
+        "strikeouts": 4,
+        "innings": 6,
+        "saves": 1,
+        "starts": 1
+      },
+      "statLine": "10.50 ERA - 3.000 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-jim bokelman-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Bokelman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 37.8,
+        "whip": 6,
+        "strikeouts": 0,
+        "innings": 1.2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "37.80 ERA - 6.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-southern illinois-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 101,
+        "wins": 43,
+        "era": 3.06,
+        "whip": 1.36,
+        "strikeouts": 217,
+        "innings": 429,
+        "saves": 14,
+        "starts": 52
+      },
+      "statLine": "3.06 ERA - 1.360 WHIP - 217 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-rod boone-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rod Boone",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 58,
+        "avg": 0.363,
+        "ops": 1.054,
+        "hr": 11,
+        "rbi": 46,
+        "sb": 8
+      },
+      "statLine": "..363 AVG - 1.054 OPS - 11 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-david edson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Edson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 58,
+        "avg": 0.263,
+        "ops": 0.79,
+        "hr": 5,
+        "rbi": 23,
+        "sb": 12
+      },
+      "statLine": "..263 AVG - ..790 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-michael nelson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Nelson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 53,
+        "avg": 0.246,
+        "ops": 0.778,
+        "hr": 5,
+        "rbi": 26,
+        "sb": 3
+      },
+      "statLine": "..246 AVG - ..778 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bob reece-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Reece",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 46,
+        "avg": 0.247,
+        "ops": 0.605,
+        "hr": 0,
+        "rbi": 13,
+        "sb": 1
+      },
+      "statLine": "..247 AVG - ..605 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-mark lucich-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mark Lucich",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 44,
+        "avg": 0.32,
+        "ops": 0.889,
+        "hr": 5,
+        "rbi": 35,
+        "sb": 31
+      },
+      "statLine": "..320 AVG - ..889 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-patrick rusco-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Patrick Rusco",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 24,
+        "avg": 0.268,
+        "ops": 0.711,
+        "hr": 0,
+        "rbi": 9,
+        "sb": 1
+      },
+      "statLine": "..268 AVG - ..711 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-glen johnson-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glen Johnson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 31,
+        "avg": 0.314,
+        "ops": 0.831,
+        "hr": 1,
+        "rbi": 17,
+        "sb": 5
+      },
+      "statLine": "..314 AVG - ..831 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bob kammeyer-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Kammeyer",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 9,
+        "era": 2.71,
+        "whip": 1.24,
+        "strikeouts": 68,
+        "innings": 123,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "2.71 ERA - 1.240 WHIP - 68 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-dan shaw-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Shaw",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 19,
+        "wins": 12,
+        "era": 1.97,
+        "whip": 1.15,
+        "strikeouts": 58,
+        "innings": 114.1,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "1.97 ERA - 1.150 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bruce schoen-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Schoen",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 1.91,
+        "whip": 1.02,
+        "strikeouts": 67,
+        "innings": 70.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.91 ERA - 1.020 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-jim coate-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Coate",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 2,
+        "era": 2.67,
+        "whip": 1.27,
+        "strikeouts": 40,
+        "innings": 57.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.67 ERA - 1.270 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bob dipietro-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob DiPietro",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 2.36,
+        "whip": 1.35,
+        "strikeouts": 38,
+        "innings": 49.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.36 ERA - 1.350 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-rod boone-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rod Boone",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 5.21,
+        "whip": 1.71,
+        "strikeouts": 21,
+        "innings": 38,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "5.21 ERA - 1.710 WHIP - 21 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bob marshall-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Marshall",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 4,
+        "era": 3.37,
+        "whip": 1.24,
+        "strikeouts": 17,
+        "innings": 34.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.37 ERA - 1.240 WHIP - 17 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-bob scott-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Scott",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 4.2,
+        "whip": 1.93,
+        "strikeouts": 8,
+        "innings": 15,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "4.20 ERA - 1.930 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-tom changnon-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Changnon",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 4.91,
+        "whip": 1.27,
+        "strikeouts": 5,
+        "innings": 11,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "4.91 ERA - 1.270 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-stanford-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 60,
+        "wins": 27,
+        "era": 2.76,
+        "whip": 1.28,
+        "strikeouts": 190,
+        "innings": 336,
+        "saves": 0,
+        "starts": 44
+      },
+      "statLine": "2.76 ERA - 1.280 WHIP - 190 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-texas a m-rj englert-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "RJ Englert",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 39,
+        "avg": 0.367,
+        "ops": 0.884,
+        "hr": 0,
+        "rbi": 21,
+        "sb": 0
+      },
+      "statLine": "..367 AVG - ..884 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-texas a m-dave elmendorf-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Elmendorf",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 25,
+        "avg": 0.402,
+        "ops": 1.161,
+        "hr": 3,
+        "rbi": 25,
+        "sb": 0
+      },
+      "statLine": "..402 AVG - 1.161 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-texas a m-jim hacker-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Hacker",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-texas a m-paul czerwinski-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Paul Czerwinski",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 15,
+        "wins": 7,
+        "era": 1.25,
+        "whip": 1.18,
+        "strikeouts": 42,
+        "innings": 64.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "1.25 ERA - 1.180 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-texas a m-charles kelley-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Charles Kelley",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 22,
+        "wins": 7,
+        "era": 1.85,
+        "whip": 0.99,
+        "strikeouts": 55,
+        "innings": 63.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "1.85 ERA - ..990 WHIP - 55 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-tulane-cary livingston-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Cary Livingston",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 26,
+        "avg": 0.39,
+        "ops": 0.97,
+        "hr": 2,
+        "rbi": 14,
+        "sb": 0
+      },
+      "statLine": "..390 AVG - ..970 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-tulane-curtis zimmerman-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Curtis Zimmerman",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 26,
+        "avg": 0.269,
+        "ops": 0.773,
+        "hr": 3,
+        "rbi": 13,
+        "sb": 0
+      },
+      "statLine": "..269 AVG - ..773 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-tulane-bobby thomas-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bobby Thomas",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.16,
+        "whip": 1.13,
+        "strikeouts": 54,
+        "innings": 79,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.16 ERA - 1.130 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-tulane-christopher winter-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Christopher Winter",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 8,
+        "wins": 5,
+        "era": 1.13,
+        "whip": 1.16,
+        "strikeouts": 37,
+        "innings": 64,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "1.13 ERA - 1.160 WHIP - 37 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-ron diggle-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ron Diggle",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 54,
+        "avg": 0.324,
+        "ops": 1.014,
+        "hr": 8,
+        "rbi": 53,
+        "sb": 0
+      },
+      "statLine": "..324 AVG - 1.014 OPS - 8 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-mike gerakos-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Gerakos",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 50,
+        "avg": 0.346,
+        "ops": 0.794,
+        "hr": 0,
+        "rbi": 26,
+        "sb": 0
+      },
+      "statLine": "..346 AVG - ..794 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-gary robson-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Robson",
+      "team": "UCLA",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 16,
+        "wins": 6,
+        "era": 2.36,
+        "whip": 1.21,
+        "strikeouts": 92,
+        "innings": 84,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.36 ERA - 1.210 WHIP - 92 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-rick pope-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Pope",
+      "team": "UCLA",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 2.33,
+        "whip": 1.22,
+        "strikeouts": 97,
+        "innings": 81,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.33 ERA - 1.220 WHIP - 97 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-gregory zail-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gregory Zail",
+      "team": "UCLA",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.25,
+        "whip": 1.32,
+        "strikeouts": 57,
+        "innings": 60,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.25 ERA - 1.320 WHIP - 57 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-barry woodruff-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Barry Woodruff",
+      "team": "UCLA",
+      "classYear": "null",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-ucla-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UCLA",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 55,
+        "wins": 25,
+        "era": 2.32,
+        "whip": 1.24,
+        "strikeouts": 246,
+        "innings": 225,
+        "saves": 0,
+        "starts": 33
+      },
+      "statLine": "2.32 ERA - 1.240 WHIP - 246 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-virginia-mike cubbage-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Cubbage",
+      "team": "Virginia",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 29,
+        "avg": 0.294,
+        "ops": 0.88,
+        "hr": 2,
+        "rbi": 27,
+        "sb": 0
+      },
+      "statLine": "..294 AVG - ..880 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-wake forest-jim eschen-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Eschen",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 26,
+        "avg": 0.255,
+        "ops": 0.759,
+        "hr": 1,
+        "rbi": 13,
+        "sb": 0
+      },
+      "statLine": "..255 AVG - ..759 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-wake forest-roger sherrill-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Roger Sherrill",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 3.82,
+        "whip": 1.52,
+        "strikeouts": 27,
+        "innings": 61.1,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.82 ERA - 1.520 WHIP - 27 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-washington-bob nelson-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Nelson",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 12,
+        "wins": 1,
+        "era": 3.96,
+        "whip": 1.42,
+        "strikeouts": 33,
+        "innings": 50,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.96 ERA - 1.420 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-west virginia-joseph honce-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joseph Honce",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 26,
+        "avg": 0.363,
+        "ops": 0.927,
+        "hr": 1,
+        "rbi": 16,
+        "sb": 0
+      },
+      "statLine": "..363 AVG - ..927 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-west virginia-john hale-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Hale",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 24,
+        "avg": 0.329,
+        "ops": 0.885,
+        "hr": 1,
+        "rbi": 12,
+        "sb": 0
+      },
+      "statLine": "..329 AVG - ..885 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-west virginia-richard wagener-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Wagener",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 8,
+        "era": 1.2,
+        "whip": 1.07,
+        "strikeouts": 84,
+        "innings": 60,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "1.20 ERA - 1.070 WHIP - 84 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-west virginia-randy lease-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Lease",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 5,
+        "era": 1.55,
+        "whip": 1.23,
+        "strikeouts": 56,
+        "innings": 46.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.55 ERA - 1.230 WHIP - 56 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-west virginia-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 8,
+        "era": 1.2,
+        "whip": 1.07,
+        "strikeouts": 84,
+        "innings": 60,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "1.20 ERA - 1.070 WHIP - 84 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-western illinois-frank stout-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Frank Stout",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 17,
+        "wins": 6,
+        "era": 3.78,
+        "whip": 1.3,
+        "strikeouts": 72,
+        "innings": 81,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "3.78 ERA - 1.300 WHIP - 72 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-western illinois-ed gvazdinskas-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Gvazdinskas",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 17,
+        "wins": 3,
+        "era": 1.86,
+        "whip": 1.29,
+        "strikeouts": 53,
+        "innings": 63,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.86 ERA - 1.290 WHIP - 53 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-western illinois-ron holmer-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Holmer",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 3.11,
+        "whip": 1.24,
+        "strikeouts": 51,
+        "innings": 55,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.11 ERA - 1.240 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-rocky craig-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rocky Craig",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 41,
+        "avg": 0.369,
+        "ops": 0.999,
+        "hr": 1,
+        "rbi": 20,
+        "sb": 0
+      },
+      "statLine": "..369 AVG - ..999 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-jeff malinoff-bat",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeff Malinoff",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-dennis nicholson-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dennis Nicholson",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 18,
+        "wins": 8,
+        "era": 2.69,
+        "whip": 1.35,
+        "strikeouts": 46,
+        "innings": 117,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "2.69 ERA - 1.350 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-bob barlow-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Barlow",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 16,
+        "wins": 8,
+        "era": 3.72,
+        "whip": 1.45,
+        "strikeouts": 65,
+        "innings": 87,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "3.72 ERA - 1.450 WHIP - 65 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-tom o conner-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom O'Conner",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 24,
+        "wins": 5,
+        "era": 2.38,
+        "whip": 1.06,
+        "strikeouts": 39,
+        "innings": 53,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "2.38 ERA - 1.060 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1971-uc irvine-totals-pit",
+      "season": 1971,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 18,
+        "wins": 8,
+        "era": 2.69,
+        "whip": 1.35,
+        "strikeouts": 46,
+        "innings": 117,
+        "saves": 0,
+        "starts": 16
+      },
+      "statLine": "2.69 ERA - 1.350 WHIP - 46 SO",
+      "source": "thebaseballcube"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --background: #e7decb;
+  --surface: #f6f0e2;
+  --surface-2: #ede4d3;
+  --border: #c8b79a;
+  --border-soft: rgba(93, 78, 53, 0.18);
+  --text: #1c2127;
+  --muted: #6c6f72;
+  --muted-soft: #4e5561;
+  --accent-gold: #c89c3c;
+  --stat-blue: #355b88;
+  --danger: #a84e35;
+  --radius-sm: 6px;
+  --radius-pill: 999px;
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --display: 'Bebas Neue', sans-serif;
+  --sans: 'IBM Plex Sans', sans-serif;
+  font-family: var(--sans);
+  line-height: 1.45;
+  font-weight: 400;
+  color: var(--text);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.28), transparent 180px),
+    linear-gradient(180deg, #d6c9b0, #e7decb 240px, #ddd2bb 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scrollbar-color: rgba(60, 72, 88, 0.35) #ddd2bb;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: transparent;
+  color: var(--text);
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #ddd2bb;
+}
+
+body::-webkit-scrollbar-thumb {
+  border: 2px solid #ddd2bb;
+  background: rgba(60, 72, 88, 0.28);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  color: #1c2127;
+}
+
+h1,
+h2 {
+  font-family: var(--display);
+  line-height: 0.95;
+  letter-spacing: 0.02em;
+}
+
+h2 {
+  font-size: clamp(1.9rem, 3.2vw, 2.9rem);
+}
+
+h3 {
+  font-size: 1.08rem;
+}
+
+a {
+  color: inherit;
+}
+
+#root {
+  width: 100%;
+}

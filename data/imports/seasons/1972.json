@@ -1,0 +1,5800 @@
+{
+  "year": 1972,
+  "players": [
+    {
+      "id": "1972-arizona state-kent jacobson-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kent Jacobson",
+      "team": "Arizona State",
+      "classYear": "null",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-auburn-andy merchant-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andy Merchant",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.376,
+        "ops": 0.584,
+        "hr": 4,
+        "rbi": 16,
+        "sb": 6
+      },
+      "statLine": "..376 AVG - ..584 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-auburn-lynn jones-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Lynn Jones",
+      "team": "Auburn",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0.333,
+        "ops": 0.333,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 2
+      },
+      "statLine": "..333 AVG - ..333 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-bowling green-jim meerpoht-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Meerpoht",
+      "team": "Bowling Green",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 3.05,
+        "whip": 1.44,
+        "strikeouts": 43,
+        "innings": 62,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.05 ERA - 1.440 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-bowling green-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Bowling Green",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MAC",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 3.05,
+        "whip": 1.44,
+        "strikeouts": 43,
+        "innings": 62,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.05 ERA - 1.440 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-california-gary hernandez-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Hernandez",
+      "team": "California",
+      "classYear": "Jr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 52,
+        "avg": 0.276,
+        "ops": 0.786,
+        "hr": 3,
+        "rbi": 22,
+        "sb": 5
+      },
+      "statLine": "..276 AVG - ..786 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-california-don thomas-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Thomas",
+      "team": "California",
+      "classYear": "So",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 54,
+        "avg": 0.283,
+        "ops": 0.774,
+        "hr": 3,
+        "rbi": 27,
+        "sb": 5
+      },
+      "statLine": "..283 AVG - ..774 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-cincinnati-butch alberts-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Butch Alberts",
+      "team": "Cincinnati",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 40,
+        "avg": 0.331,
+        "ops": 1.011,
+        "hr": 7,
+        "rbi": 40,
+        "sb": 8
+      },
+      "statLine": "..331 AVG - 1.011 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-cincinnati-denny nagel-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Denny Nagel",
+      "team": "Cincinnati",
+      "classYear": "Sr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 13,
+        "wins": 6,
+        "era": 2.68,
+        "whip": 1.2,
+        "strikeouts": 45,
+        "innings": 77.1,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.68 ERA - 1.200 WHIP - 45 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-cincinnati-tim burman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tim Burman",
+      "team": "Cincinnati",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 2.78,
+        "whip": 1.31,
+        "strikeouts": 53,
+        "innings": 55,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.78 ERA - 1.310 WHIP - 53 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-cincinnati-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Cincinnati",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 22,
+        "wins": 11,
+        "era": 2.72,
+        "whip": 1.25,
+        "strikeouts": 98,
+        "innings": 132.1,
+        "saves": 0,
+        "starts": 18
+      },
+      "statLine": "2.72 ERA - 1.250 WHIP - 98 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-richard haynes-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Richard Haynes",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 33,
+        "avg": 0.312,
+        "ops": 0.505,
+        "hr": 5,
+        "rbi": 20,
+        "sb": 1
+      },
+      "statLine": "..312 AVG - ..505 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-rusty gerhardt-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rusty Gerhardt",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 2.22,
+        "whip": 1.14,
+        "strikeouts": 61,
+        "innings": 85,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.22 ERA - 1.140 WHIP - 61 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-lindsay graham-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lindsay Graham",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.76,
+        "whip": 1.24,
+        "strikeouts": 32,
+        "innings": 65.1,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.76 ERA - 1.240 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-jay bevis-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jay Bevis",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 17,
+        "wins": 2,
+        "era": 2.59,
+        "whip": 1.15,
+        "strikeouts": 16,
+        "innings": 41.2,
+        "saves": 5,
+        "starts": 1
+      },
+      "statLine": "2.59 ERA - 1.150 WHIP - 16 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-jeffrey bradford-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jeffrey Bradford",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 3.13,
+        "whip": 1.39,
+        "strikeouts": 32,
+        "innings": 37.1,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "3.13 ERA - 1.390 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-mark adams-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Adams",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 3.45,
+        "whip": 1.53,
+        "strikeouts": 29,
+        "innings": 28.2,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "3.45 ERA - 1.530 WHIP - 29 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-jimmy baker-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jimmy Baker",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "wins": 0,
+        "era": 11.57,
+        "whip": 2.71,
+        "strikeouts": 5,
+        "innings": 7,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "11.57 ERA - 2.710 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-david van volkenburg-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Van Volkenburg",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.2,
+        "strikeouts": 8,
+        "innings": 6.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.200 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-vince cositore-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Vince Cositore",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 6.75,
+        "whip": 1.75,
+        "strikeouts": 1,
+        "innings": 4,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "6.75 ERA - 1.750 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-clemson-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Clemson",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 45,
+        "wins": 17,
+        "era": 2.9,
+        "whip": 1.31,
+        "strikeouts": 167,
+        "innings": 230,
+        "saves": 0,
+        "starts": 32
+      },
+      "statLine": "2.90 ERA - 1.310 WHIP - 167 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-john poff-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Poff",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 28,
+        "avg": 0.25,
+        "ops": 0.667,
+        "hr": 2,
+        "rbi": 15,
+        "sb": 1
+      },
+      "statLine": "..250 AVG - ..667 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-alan schwartz-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Schwartz",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 2.09,
+        "whip": 0.96,
+        "strikeouts": 41,
+        "innings": 56,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.09 ERA - ..960 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-gordy jackson-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gordy Jackson",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 6,
+        "wins": 2,
+        "era": 3.89,
+        "whip": 1.54,
+        "strikeouts": 22,
+        "innings": 37,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "3.89 ERA - 1.540 WHIP - 22 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-craig buschman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Craig Buschman",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 2,
+        "era": 2.97,
+        "whip": 1.38,
+        "strikeouts": 24,
+        "innings": 33.1,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.97 ERA - 1.380 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-ron righter-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Righter",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 5.12,
+        "whip": 2.17,
+        "strikeouts": 8,
+        "innings": 19.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "5.12 ERA - 2.170 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-ed pieczynski-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Pieczynski",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 4.11,
+        "whip": 1.24,
+        "strikeouts": 8,
+        "innings": 15.1,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "4.11 ERA - 1.240 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-bill hanenberg-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Hanenberg",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 6.43,
+        "whip": 2.07,
+        "strikeouts": 8,
+        "innings": 14,
+        "saves": 1,
+        "starts": 3
+      },
+      "statLine": "6.43 ERA - 2.070 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-stuart meadows-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Stuart Meadows",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 5.4,
+        "whip": 1.8,
+        "strikeouts": 5,
+        "innings": 13.1,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "5.40 ERA - 1.800 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-mickey lozanoff-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mickey Lozanoff",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 2.31,
+        "whip": 1.71,
+        "strikeouts": 8,
+        "innings": 11.2,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "2.31 ERA - 1.710 WHIP - 8 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-dale lathrop-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dale Lathrop",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 5.19,
+        "whip": 2.54,
+        "strikeouts": 5,
+        "innings": 8.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "5.19 ERA - 2.540 WHIP - 5 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-sid jones-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Sid Jones",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 14.29,
+        "whip": 2.65,
+        "strikeouts": 1,
+        "innings": 5.2,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "14.29 ERA - 2.650 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-cameron macmanus-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Cameron MacManus",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 9.64,
+        "whip": 3.86,
+        "strikeouts": 1,
+        "innings": 4.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.64 ERA - 3.860 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-lee gerin-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lee Gerin",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 3,
+        "wins": 0,
+        "era": 47.25,
+        "whip": 7.5,
+        "strikeouts": 0,
+        "innings": 1.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "47.25 ERA - 7.500 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-budd flesh-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Budd Flesh",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 36,
+        "whip": 6,
+        "strikeouts": 1,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "36.00 ERA - 6.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-duke-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Duke",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 65,
+        "wins": 12,
+        "era": 4.43,
+        "whip": 1.64,
+        "strikeouts": 132,
+        "innings": 221.1,
+        "saves": 3,
+        "starts": 28
+      },
+      "statLine": "4.43 ERA - 1.640 WHIP - 132 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-east carolina-michael aldridge-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Aldridge",
+      "team": "East Carolina",
+      "classYear": "Sr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 26,
+        "avg": 0.256,
+        "ops": 0.715,
+        "hr": 2,
+        "rbi": 13,
+        "sb": 6
+      },
+      "statLine": "..256 AVG - ..715 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-east carolina-ronald staggs-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ronald Staggs",
+      "team": "East Carolina",
+      "classYear": "Fr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 22,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 15,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-east carolina-tommy toms-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tommy Toms",
+      "team": "East Carolina",
+      "classYear": "So",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 1.42,
+        "whip": 1.11,
+        "strikeouts": 41,
+        "innings": 76,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "1.42 ERA - 1.110 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-east carolina-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "East Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 1.42,
+        "whip": 1.11,
+        "strikeouts": 41,
+        "innings": 76,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "1.42 ERA - 1.110 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-florida-david bowden-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Bowden",
+      "team": "Florida",
+      "classYear": "Fr",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 33,
+        "avg": 0.286,
+        "ops": 0.403,
+        "hr": 2,
+        "rbi": 15,
+        "sb": 4
+      },
+      "statLine": "..286 AVG - ..403 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-florida-nick devirgilis-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Nick Devirgilis",
+      "team": "Florida",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 35,
+        "avg": 0.26,
+        "ops": 0.271,
+        "hr": 0,
+        "rbi": 19,
+        "sb": 2
+      },
+      "statLine": "..260 AVG - ..271 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-mike mcneilly-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike McNeilly",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 35,
+        "avg": 0.411,
+        "ops": 1.049,
+        "hr": 2,
+        "rbi": 18,
+        "sb": 3
+      },
+      "statLine": "..411 AVG - 1.049 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-greg branum-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Branum",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-david dowdy-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Dowdy",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-mike mcneilly-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike McNeilly",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 17,
+        "wins": 9,
+        "era": 1.74,
+        "whip": 1.03,
+        "strikeouts": 81,
+        "innings": 93,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "1.74 ERA - 1.030 WHIP - 81 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-steve hertz-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Hertz",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 14,
+        "wins": 7,
+        "era": 2.11,
+        "whip": 1.03,
+        "strikeouts": 94,
+        "innings": 76.2,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.11 ERA - 1.030 WHIP - 94 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-wade carpenter-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Wade Carpenter",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 2.3,
+        "whip": 1.16,
+        "strikeouts": 51,
+        "innings": 62.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.30 ERA - 1.160 WHIP - 51 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-gonzaga-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Gonzaga",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "WCC",
+      "stats": {
+        "games": 31,
+        "wins": 16,
+        "era": 1.91,
+        "whip": 1.03,
+        "strikeouts": 175,
+        "innings": 169.2,
+        "saves": 0,
+        "starts": 23
+      },
+      "statLine": "1.91 ERA - 1.030 WHIP - 175 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-illinois-kenneth ossola-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Kenneth Ossola",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-illinois-bob polock-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Polock",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 33,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 10
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-illinois-garry anderson-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Garry Anderson",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 3.43,
+        "whip": 1.33,
+        "strikeouts": 52,
+        "innings": 63,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "3.43 ERA - 1.330 WHIP - 52 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-illinois-chuck sommer-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Chuck Sommer",
+      "team": "Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 1.4,
+        "whip": 1.02,
+        "strikeouts": 33,
+        "innings": 45,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.40 ERA - 1.020 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-illinois state-dave bergman-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Bergman",
+      "team": "Illinois State",
+      "classYear": "Fr",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 33,
+        "avg": 0.344,
+        "ops": 0.938,
+        "hr": 3,
+        "rbi": 23,
+        "sb": 5
+      },
+      "statLine": "..344 AVG - ..938 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-iowa-thomas hurn-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Thomas Hurn",
+      "team": "Iowa",
+      "classYear": "So",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF",
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 42,
+        "avg": 0.31,
+        "ops": 0.961,
+        "hr": 6,
+        "rbi": 28,
+        "sb": 5
+      },
+      "statLine": "..310 AVG - ..961 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas-steve corder-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Corder",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 2.05,
+        "whip": 1.11,
+        "strikeouts": 41,
+        "innings": 57,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.05 ERA - 1.110 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas-bob wolf-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Wolf",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 6,
+        "era": 2.37,
+        "whip": 0.95,
+        "strikeouts": 44,
+        "innings": 57,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "2.37 ERA - ..950 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas-bob cox-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Cox",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 4,
+        "era": 2.88,
+        "whip": 1.12,
+        "strikeouts": 30,
+        "innings": 50,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.88 ERA - 1.120 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas-bill steigemeier-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bill Steigemeier",
+      "team": "Kansas",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 44,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 44 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-jay parker-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jay Parker",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 22,
+        "avg": 0.23,
+        "ops": 0.426,
+        "hr": 4,
+        "rbi": 7,
+        "sb": 0
+      },
+      "statLine": "..230 AVG - ..426 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-robert lesslie-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robert Lesslie",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 10,
+        "wins": 6,
+        "era": 3.3,
+        "whip": 1.45,
+        "strikeouts": 70,
+        "innings": 60,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "3.30 ERA - 1.450 WHIP - 70 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-stuart lindell-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Stuart Lindell",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 16,
+        "wins": 4,
+        "era": 1.69,
+        "whip": 1.06,
+        "strikeouts": 33,
+        "innings": 48,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "1.69 ERA - 1.060 WHIP - 33 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-david klenda-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "David Klenda",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 9,
+        "wins": 2,
+        "era": 2.63,
+        "whip": 1.09,
+        "strikeouts": 31,
+        "innings": 37.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "2.63 ERA - 1.090 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-james kick-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "James Kick",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 12,
+        "wins": 2,
+        "era": 5.06,
+        "whip": 1.53,
+        "strikeouts": 34,
+        "innings": 37.1,
+        "saves": 2,
+        "starts": 5
+      },
+      "statLine": "5.06 ERA - 1.530 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-bruce bennett-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Bennett",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 1.93,
+        "whip": 1.62,
+        "strikeouts": 27,
+        "innings": 32.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "1.93 ERA - 1.620 WHIP - 27 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-mark arnold-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mark Arnold",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 5,
+        "wins": 1,
+        "era": 5.16,
+        "whip": 1.68,
+        "strikeouts": 11,
+        "innings": 22.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "5.16 ERA - 1.680 WHIP - 11 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-lonnie kruger-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Lonnie Kruger",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 7.94,
+        "whip": 1.94,
+        "strikeouts": 4,
+        "innings": 5.2,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "7.94 ERA - 1.940 WHIP - 4 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-carl bailey-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Carl Bailey",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 7.71,
+        "whip": 1.93,
+        "strikeouts": 2,
+        "innings": 4.2,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "7.71 ERA - 1.930 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-philip oliver-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Philip Oliver",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 162,
+        "whip": 24,
+        "strikeouts": 0,
+        "innings": 0.1,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "162.00 ERA - 24.000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kansas state-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kansas State",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 28,
+        "wins": 5,
+        "era": 4.35,
+        "whip": 1.42,
+        "strikeouts": 80,
+        "innings": 103.1,
+        "saves": 2,
+        "starts": 17
+      },
+      "statLine": "4.35 ERA - 1.420 WHIP - 80 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kentucky-derek bryant-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Derek Bryant",
+      "team": "Kentucky",
+      "classYear": "Jr",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 27,
+        "avg": 0.262,
+        "ops": 0.823,
+        "hr": 4,
+        "rbi": 16,
+        "sb": 1
+      },
+      "statLine": "..262 AVG - ..823 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kentucky-marv foley-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Marv Foley",
+      "team": "Kentucky",
+      "classYear": "Fr",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 24,
+        "avg": 0.315,
+        "ops": 1.081,
+        "hr": 5,
+        "rbi": 16,
+        "sb": 0
+      },
+      "statLine": "..315 AVG - 1.081 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kentucky-jim lett-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Lett",
+      "team": "Kentucky",
+      "classYear": "Jr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 27,
+        "avg": 0,
+        "ops": 0,
+        "hr": 6,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kentucky-john bowling-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Bowling",
+      "team": "Kentucky",
+      "classYear": "So",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 41,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-kentucky-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Kentucky",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 11,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 41,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 41 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-maryland-michael baier-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Baier",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 27,
+        "avg": 0.312,
+        "ops": 0.704,
+        "hr": 0,
+        "rbi": 9,
+        "sb": 1
+      },
+      "statLine": "..312 AVG - ..704 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-maryland-bob crossman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Crossman",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 8,
+        "era": 1.9,
+        "whip": 1.01,
+        "strikeouts": 104,
+        "innings": 71,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "1.90 ERA - 1.010 WHIP - 104 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-maryland-richard fillings-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Fillings",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.28,
+        "whip": 1.36,
+        "strikeouts": 40,
+        "innings": 49.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.28 ERA - 1.360 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-maryland-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Maryland",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.28,
+        "whip": 1.36,
+        "strikeouts": 40,
+        "innings": 49.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.28 ERA - 1.360 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-witt beckman-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Witt Beckman",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 48,
+        "avg": 0.359,
+        "ops": 1.027,
+        "hr": 7,
+        "rbi": 36,
+        "sb": 7
+      },
+      "statLine": "..359 AVG - 1.027 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-ron gifford-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ron Gifford",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-ricky patrylo-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ricky Patrylo",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 18,
+        "wins": 11,
+        "era": 2.27,
+        "whip": 0.98,
+        "strikeouts": 67,
+        "innings": 111,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "2.27 ERA - ..980 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-terry brown-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Terry Brown",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 14,
+        "wins": 5,
+        "era": 2.76,
+        "whip": 1.27,
+        "strikeouts": 78,
+        "innings": 91.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "2.76 ERA - 1.270 WHIP - 78 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-gary sarno-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Sarno",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.03,
+        "whip": 1.13,
+        "strikeouts": 36,
+        "innings": 57.2,
+        "saves": 1,
+        "starts": 7
+      },
+      "statLine": "2.03 ERA - 1.130 WHIP - 36 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-bobby bartlett-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bobby Bartlett",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 20,
+        "wins": 2,
+        "era": 2.57,
+        "whip": 1.18,
+        "strikeouts": 42,
+        "innings": 49,
+        "saves": 4,
+        "starts": 2
+      },
+      "statLine": "2.57 ERA - 1.180 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-mike larkin-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Larkin",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 1,
+        "era": 1.55,
+        "whip": 1.76,
+        "strikeouts": 26,
+        "innings": 29,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.55 ERA - 1.760 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-jim muelhausen-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Muelhausen",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 5.02,
+        "whip": 1.78,
+        "strikeouts": 32,
+        "innings": 28.2,
+        "saves": 0,
+        "starts": 5
+      },
+      "statLine": "5.02 ERA - 1.780 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-ralph maza-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ralph Maza",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 4,
+        "era": 2.73,
+        "whip": 1.25,
+        "strikeouts": 12,
+        "innings": 26.1,
+        "saves": 4,
+        "starts": 0
+      },
+      "statLine": "2.73 ERA - 1.250 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-ron gifford-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Gifford",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 5,
+        "wins": 0,
+        "era": 3.55,
+        "whip": 1.82,
+        "strikeouts": 6,
+        "innings": 12.2,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "3.55 ERA - 1.820 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-joe margiotta-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Margiotta",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 1.33,
+        "strikeouts": 2,
+        "innings": 3,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.330 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-joe incardona-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Joe Incardona",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 0,
+        "whip": 1,
+        "strikeouts": 1,
+        "innings": 3,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 1.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-dave herman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Herman",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 9,
+        "whip": 3,
+        "strikeouts": 1,
+        "innings": 3,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "9.00 ERA - 3.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-miami-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Miami",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 104,
+        "wins": 31,
+        "era": 2.6,
+        "whip": 1.26,
+        "strikeouts": 303,
+        "innings": 414.2,
+        "saves": 11,
+        "starts": 48
+      },
+      "statLine": "2.60 ERA - 1.260 WHIP - 303 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-minnesota-dave winfield-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Winfield",
+      "team": "Minnesota",
+      "classYear": "Jr",
+      "primaryPosition": "RF",
+      "eligiblePositions": [
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-mississippi state-dale holland-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dale Holland",
+      "team": "Mississippi State",
+      "classYear": "So",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-murray state-steve barrett-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Steve Barrett",
+      "team": "Murray State",
+      "classYear": "So",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 38,
+        "avg": 0.388,
+        "ops": 1.184,
+        "hr": 9,
+        "rbi": 35,
+        "sb": 2
+      },
+      "statLine": "..388 AVG - 1.184 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-bobby jack-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bobby Jack",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 41,
+        "avg": 0.346,
+        "ops": 1.06,
+        "hr": 10,
+        "rbi": 26,
+        "sb": 2
+      },
+      "statLine": "..346 AVG - 1.060 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-chuck redmon-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Chuck Redmon",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-glenn bannister-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glenn Bannister",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-billy severns-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Billy Severns",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-joe simpson-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Simpson",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-jackson todd-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jackson Todd",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 16,
+        "wins": 12,
+        "era": 1.19,
+        "whip": 0.9,
+        "strikeouts": 111,
+        "innings": 105.2,
+        "saves": 0,
+        "starts": 14
+      },
+      "statLine": "1.19 ERA - ..900 WHIP - 111 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-gary weese-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Weese",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 8,
+        "era": 1.56,
+        "whip": 1.27,
+        "strikeouts": 35,
+        "innings": 92.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "1.56 ERA - 1.270 WHIP - 35 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-kim cook-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kim Cook",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 1.19,
+        "whip": 1.21,
+        "strikeouts": 40,
+        "innings": 45.1,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "1.19 ERA - 1.210 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oklahoma-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oklahoma",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 29,
+        "wins": 20,
+        "era": 1.36,
+        "whip": 1.07,
+        "strikeouts": 146,
+        "innings": 198,
+        "saves": 0,
+        "starts": 26
+      },
+      "statLine": "1.36 ERA - 1.070 WHIP - 146 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-guy krause-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Guy Krause",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 36,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-don reynolds-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Don Reynolds",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-harvey winn-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Harvey Winn",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-greg brosterhous-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Greg Brosterhous",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 36,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-pat mcnally-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Pat McNally",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-alan hardin-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Hardin",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 13,
+        "wins": 7,
+        "era": 2.61,
+        "whip": 1.4,
+        "strikeouts": 67,
+        "innings": 79.1,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.61 ERA - 1.400 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-steve greenough-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Greenough",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 1.62,
+        "whip": 1.32,
+        "strikeouts": 59,
+        "innings": 50,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.62 ERA - 1.320 WHIP - 59 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-bob claydon-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Claydon",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 7,
+        "wins": 4,
+        "era": 2.11,
+        "whip": 1.3,
+        "strikeouts": 12,
+        "innings": 47,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.11 ERA - 1.300 WHIP - 12 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-oregon-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Oregon",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 10,
+        "wins": 4,
+        "era": 1.62,
+        "whip": 1.32,
+        "strikeouts": 59,
+        "innings": 50,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.62 ERA - 1.320 WHIP - 59 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-ernie rosseau-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ernie Rosseau",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.35,
+        "ops": 0.431,
+        "hr": 1,
+        "rbi": 33,
+        "sb": 26
+      },
+      "statLine": "..350 AVG - ..431 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-gary conley-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Gary Conley",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.342,
+        "ops": 0.519,
+        "hr": 4,
+        "rbi": 34,
+        "sb": 5
+      },
+      "statLine": "..342 AVG - ..519 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-dennis whitehead-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dennis Whitehead",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.315,
+        "ops": 0.406,
+        "hr": 1,
+        "rbi": 25,
+        "sb": 1
+      },
+      "statLine": "..315 AVG - ..406 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-al ryan-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Al Ryan",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.305,
+        "ops": 0.362,
+        "hr": 1,
+        "rbi": 11,
+        "sb": 30
+      },
+      "statLine": "..305 AVG - ..362 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-forrest crowder-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Forrest Crowder",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.275,
+        "ops": 0.483,
+        "hr": 6,
+        "rbi": 29,
+        "sb": 2
+      },
+      "statLine": "..275 AVG - ..483 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-bruce calderone-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bruce Calderone",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.194,
+        "ops": 0.278,
+        "hr": 1,
+        "rbi": 2,
+        "sb": 0
+      },
+      "statLine": "..194 AVG - ..278 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south alabama-mike warren-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Warren",
+      "team": "South Alabama",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Sun Belt",
+      "stats": {
+        "games": 0,
+        "avg": 0.208,
+        "ops": 0.417,
+        "hr": 1,
+        "rbi": 2,
+        "sb": 4
+      },
+      "statLine": "..208 AVG - ..417 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-eddie ford-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Eddie Ford",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 41,
+        "avg": 0.275,
+        "ops": 0.359,
+        "hr": 1,
+        "rbi": 17,
+        "sb": 14
+      },
+      "statLine": "..275 AVG - ..359 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-hank small-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Hank Small",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 39,
+        "avg": 0.379,
+        "ops": 0.557,
+        "hr": 4,
+        "rbi": 21,
+        "sb": 0
+      },
+      "statLine": "..379 AVG - ..557 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-john gambrell-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Gambrell",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 40,
+        "avg": 0.321,
+        "ops": 0.435,
+        "hr": 1,
+        "rbi": 7,
+        "sb": 21
+      },
+      "statLine": "..321 AVG - ..435 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-larry erbaugh-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Larry Erbaugh",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 14,
+        "wins": 6,
+        "era": 1.46,
+        "whip": 0.9,
+        "strikeouts": 73,
+        "innings": 92.1,
+        "saves": 1,
+        "starts": 10
+      },
+      "statLine": "1.46 ERA - ..900 WHIP - 73 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-earl bass-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Earl Bass",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 1.51,
+        "whip": 0.94,
+        "strikeouts": 82,
+        "innings": 65.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "1.51 ERA - ..940 WHIP - 82 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-alan hilliard-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Alan Hilliard",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 8,
+        "wins": 2,
+        "era": 1.6,
+        "whip": 1.19,
+        "strikeouts": 58,
+        "innings": 56.1,
+        "saves": 2,
+        "starts": 7
+      },
+      "statLine": "1.60 ERA - 1.190 WHIP - 58 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-george beam-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "George Beam",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 2.14,
+        "whip": 1.21,
+        "strikeouts": 53,
+        "innings": 54.2,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.14 ERA - 1.210 WHIP - 53 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-greg ward-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Greg Ward",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 2.7,
+        "whip": 0.85,
+        "strikeouts": 31,
+        "innings": 43.1,
+        "saves": 1,
+        "starts": 5
+      },
+      "statLine": "2.70 ERA - ..850 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-bobby robinson-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bobby Robinson",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 9,
+        "wins": 1,
+        "era": 1.35,
+        "whip": 1.12,
+        "strikeouts": 9,
+        "innings": 26.2,
+        "saves": 1,
+        "starts": 2
+      },
+      "statLine": "1.35 ERA - 1.120 WHIP - 9 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-phil houston-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Phil Houston",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 10,
+        "wins": 2,
+        "era": 5.79,
+        "whip": 1.71,
+        "strikeouts": 6,
+        "innings": 9.1,
+        "saves": 2,
+        "starts": 0
+      },
+      "statLine": "5.79 ERA - 1.710 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-pat lassonde-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Pat Lassonde",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 15.43,
+        "whip": 4.29,
+        "strikeouts": 0,
+        "innings": 2.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "15.43 ERA - 4.290 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-rick barkley-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rick Barkley",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 20.25,
+        "whip": 2.25,
+        "strikeouts": 1,
+        "innings": 1.1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "20.25 ERA - 2.250 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-d spence-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "D Spence",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 2,
+        "strikeouts": 1,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - 2.000 WHIP - 1 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-tom luckstone-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Luckstone",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 0,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-south carolina-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "South Carolina",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 74,
+        "wins": 25,
+        "era": 2.02,
+        "whip": 1.07,
+        "strikeouts": 313,
+        "innings": 352,
+        "saves": 7,
+        "starts": 41
+      },
+      "statLine": "2.02 ERA - 1.070 WHIP - 313 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-dan thomas-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Thomas",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 41,
+        "avg": 0.369,
+        "ops": 1.004,
+        "hr": 5,
+        "rbi": 21,
+        "sb": 23
+      },
+      "statLine": "..369 AVG - 1.004 OPS - 5 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-dan radison-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dan Radison",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 41,
+        "avg": 0.362,
+        "ops": 0.954,
+        "hr": 6,
+        "rbi": 56,
+        "sb": 5
+      },
+      "statLine": "..362 AVG - ..954 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-mike eden-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Eden",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 39,
+        "avg": 0.412,
+        "ops": 1.038,
+        "hr": 2,
+        "rbi": 19,
+        "sb": 11
+      },
+      "statLine": "..412 AVG - 1.038 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-joe wallis-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Wallis",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 41,
+        "avg": 0.446,
+        "ops": 1.259,
+        "hr": 4,
+        "rbi": 42,
+        "sb": 10
+      },
+      "statLine": "..446 AVG - 1.259 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-larry calufetti-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Larry Calufetti",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 39,
+        "avg": 0.242,
+        "ops": 0.693,
+        "hr": 2,
+        "rbi": 24,
+        "sb": 1
+      },
+      "statLine": "..242 AVG - ..693 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-howard mitchell-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Howard Mitchell",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 36,
+        "avg": 0.333,
+        "ops": 0.896,
+        "hr": 3,
+        "rbi": 25,
+        "sb": 5
+      },
+      "statLine": "..333 AVG - ..896 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-stanley mann-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Stanley Mann",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 30,
+        "avg": 0.219,
+        "ops": 0.554,
+        "hr": 0,
+        "rbi": 11,
+        "sb": 4
+      },
+      "statLine": "..219 AVG - ..554 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-ken kral-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ken Kral",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 36,
+        "avg": 0.301,
+        "ops": 0.89,
+        "hr": 3,
+        "rbi": 16,
+        "sb": 2
+      },
+      "statLine": "..301 AVG - ..890 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-jim fischer-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Fischer",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 1.41,
+        "whip": 0.85,
+        "strikeouts": 43,
+        "innings": 63.2,
+        "saves": 1,
+        "starts": 8
+      },
+      "statLine": "1.41 ERA - ..850 WHIP - 43 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-scott waltemate-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Scott Waltemate",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 10,
+        "wins": 5,
+        "era": 1.47,
+        "whip": 1.01,
+        "strikeouts": 62,
+        "innings": 61.1,
+        "saves": 2,
+        "starts": 8
+      },
+      "statLine": "1.47 ERA - 1.010 WHIP - 62 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-richard ware-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Richard Ware",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 0.89,
+        "whip": 0.89,
+        "strikeouts": 40,
+        "innings": 50.1,
+        "saves": 1,
+        "starts": 8
+      },
+      "statLine": "..89 ERA - ..890 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-steve randall-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Randall",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 13,
+        "wins": 5,
+        "era": 1.69,
+        "whip": 1.15,
+        "strikeouts": 39,
+        "innings": 42.2,
+        "saves": 2,
+        "starts": 5
+      },
+      "statLine": "1.69 ERA - 1.150 WHIP - 39 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-mike broeking-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Mike Broeking",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 15,
+        "wins": 4,
+        "era": 1.22,
+        "whip": 1.05,
+        "strikeouts": 32,
+        "innings": 37,
+        "saves": 4,
+        "starts": 5
+      },
+      "statLine": "1.22 ERA - 1.050 WHIP - 32 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-jim bokelman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jim Bokelman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 6,
+        "wins": 3,
+        "era": 0.47,
+        "whip": 1,
+        "strikeouts": 18,
+        "innings": 19,
+        "saves": 1,
+        "starts": 2
+      },
+      "statLine": "..47 ERA - 1.000 WHIP - 18 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-dan horn-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Horn",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 7,
+        "wins": 0,
+        "era": 1.59,
+        "whip": 1.65,
+        "strikeouts": 6,
+        "innings": 17,
+        "saves": 3,
+        "starts": 2
+      },
+      "statLine": "1.59 ERA - 1.650 WHIP - 6 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-robin derry-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Robin Derry",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 11,
+        "wins": 2,
+        "era": 6.35,
+        "whip": 5.47,
+        "strikeouts": 30,
+        "innings": 5.2,
+        "saves": 2,
+        "starts": 3
+      },
+      "statLine": "6.35 ERA - 5.470 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-dan hinzman-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Hinzman",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 2,
+        "wins": 0,
+        "era": 2.25,
+        "whip": 0.75,
+        "strikeouts": 7,
+        "innings": 4,
+        "saves": 1,
+        "starts": 0
+      },
+      "statLine": "2.25 ERA - ..750 WHIP - 7 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-kevin o boyle-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kevin O'Boyle",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 18,
+        "whip": 4,
+        "strikeouts": 2,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "18.00 ERA - 4.000 WHIP - 2 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-southern illinois-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Southern Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "MVC",
+      "stats": {
+        "games": 89,
+        "wins": 32,
+        "era": 1.46,
+        "whip": 1.11,
+        "strikeouts": 279,
+        "innings": 301.2,
+        "saves": 17,
+        "starts": 41
+      },
+      "statLine": "1.46 ERA - 1.110 WHIP - 279 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-rod boone-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rod Boone",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 55,
+        "avg": 0.317,
+        "ops": 0.946,
+        "hr": 10,
+        "rbi": 43,
+        "sb": 8
+      },
+      "statLine": "..317 AVG - ..946 OPS - 10 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-david edson-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "David Edson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 54,
+        "avg": 0.259,
+        "ops": 0.719,
+        "hr": 1,
+        "rbi": 26,
+        "sb": 10
+      },
+      "statLine": "..259 AVG - ..719 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-bob reece-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Reece",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 51,
+        "avg": 0.319,
+        "ops": 0.773,
+        "hr": 2,
+        "rbi": 36,
+        "sb": 5
+      },
+      "statLine": "..319 AVG - ..773 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-mark lucich-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mark Lucich",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 55,
+        "avg": 0.283,
+        "ops": 0.765,
+        "hr": 3,
+        "rbi": 31,
+        "sb": 6
+      },
+      "statLine": "..283 AVG - ..765 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-michael nelson-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Nelson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 46,
+        "avg": 0.353,
+        "ops": 1.173,
+        "hr": 7,
+        "rbi": 34,
+        "sb": 6
+      },
+      "statLine": "..353 AVG - 1.173 OPS - 7 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-glen johnson-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Glen Johnson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C",
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 41,
+        "avg": 0.257,
+        "ops": 0.711,
+        "hr": 3,
+        "rbi": 14,
+        "sb": 3
+      },
+      "statLine": "..257 AVG - ..711 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-bob hampton-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Bob Hampton",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 21,
+        "avg": 0.319,
+        "ops": 0.737,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..319 AVG - ..737 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-andy bielanski-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Andy Bielanski",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 37,
+        "avg": 0.19,
+        "ops": 0.544,
+        "hr": 0,
+        "rbi": 2,
+        "sb": 1
+      },
+      "statLine": "..190 AVG - ..544 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-ed orrizzi-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Ed Orrizzi",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 4,
+        "avg": 0.2,
+        "ops": 0.733,
+        "hr": 0,
+        "rbi": 5,
+        "sb": 0
+      },
+      "statLine": "..200 AVG - ..733 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-dan shaw-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Shaw",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "wins": 7,
+        "era": 2.47,
+        "whip": 1.2,
+        "strikeouts": 54,
+        "innings": 102,
+        "saves": 0,
+        "starts": 12
+      },
+      "statLine": "2.47 ERA - 1.200 WHIP - 54 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-bob dipietro-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob DiPietro",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 16,
+        "wins": 8,
+        "era": 2.58,
+        "whip": 1.15,
+        "strikeouts": 82,
+        "innings": 101.1,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "2.58 ERA - 1.150 WHIP - 82 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-nicholas peterson-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Nicholas Peterson",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "wins": 6,
+        "era": 2.7,
+        "whip": 1.38,
+        "strikeouts": 69,
+        "innings": 90,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "2.70 ERA - 1.380 WHIP - 69 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-bob kammeyer-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Kammeyer",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 9,
+        "wins": 5,
+        "era": 1.58,
+        "whip": 1.25,
+        "strikeouts": 40,
+        "innings": 57,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "1.58 ERA - 1.250 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-mike higgins-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "MIke Higgins",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 13,
+        "wins": 3,
+        "era": 2.54,
+        "whip": 1.39,
+        "strikeouts": 38,
+        "innings": 46,
+        "saves": 0,
+        "starts": 3
+      },
+      "statLine": "2.54 ERA - 1.390 WHIP - 38 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-tom changnon-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tom Changnon",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 15,
+        "wins": 4,
+        "era": 0.97,
+        "whip": 1.24,
+        "strikeouts": 24,
+        "innings": 37,
+        "saves": 0,
+        "starts": 2
+      },
+      "statLine": "..97 ERA - 1.240 WHIP - 24 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-dave frost-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dave Frost",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 4,
+        "era": 3.53,
+        "whip": 1.26,
+        "strikeouts": 30,
+        "innings": 35.2,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "3.53 ERA - 1.260 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-randy whittell-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Randy Whittell",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 6,
+        "whip": 2.33,
+        "strikeouts": 3,
+        "innings": 3,
+        "saves": 0,
+        "starts": 1
+      },
+      "statLine": "6.00 ERA - 2.330 WHIP - 3 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-andy bielanski-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Andy Bielanski",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "RP",
+      "eligiblePositions": [
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 1,
+        "wins": 0,
+        "era": 0,
+        "whip": 0,
+        "strikeouts": 0,
+        "innings": 1,
+        "saves": 0,
+        "starts": 0
+      },
+      "statLine": "..00 ERA - ..000 WHIP - 0 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-stanford-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Stanford",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 78,
+        "wins": 34,
+        "era": 2.38,
+        "whip": 1.24,
+        "strikeouts": 299,
+        "innings": 424,
+        "saves": 0,
+        "starts": 51
+      },
+      "statLine": "2.38 ERA - 1.240 WHIP - 299 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-mike markl-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Mike Markl",
+      "team": "Texas",
+      "classYear": "Sr",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 49,
+        "avg": 0.362,
+        "ops": 0.96,
+        "hr": 3,
+        "rbi": 30,
+        "sb": 35
+      },
+      "statLine": "..362 AVG - ..960 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-dave chalk-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Dave Chalk",
+      "team": "Texas",
+      "classYear": "Sr",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B",
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 49,
+        "avg": 0.359,
+        "ops": 1.052,
+        "hr": 6,
+        "rbi": 36,
+        "sb": 0
+      },
+      "statLine": "..359 AVG - 1.052 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-john langerhans-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "John Langerhans",
+      "team": "Texas",
+      "classYear": "null",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 49,
+        "avg": 0,
+        "ops": 0,
+        "hr": 9,
+        "rbi": 42,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 9 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-ron roznovsky-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Roznovsky",
+      "team": "Texas",
+      "classYear": "Jr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 19,
+        "wins": 11,
+        "era": 1.47,
+        "whip": 1.1,
+        "strikeouts": 107,
+        "innings": 110.1,
+        "saves": 0,
+        "starts": 13
+      },
+      "statLine": "1.47 ERA - 1.100 WHIP - 107 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-martin flores-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Martin Flores",
+      "team": "Texas",
+      "classYear": "Fr",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 1.71,
+        "whip": 1.22,
+        "strikeouts": 71,
+        "innings": 73.2,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "1.71 ERA - 1.220 WHIP - 71 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Texas",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 31,
+        "wins": 18,
+        "era": 1.57,
+        "whip": 1.15,
+        "strikeouts": 178,
+        "innings": 184,
+        "saves": 0,
+        "starts": 24
+      },
+      "statLine": "1.57 ERA - 1.150 WHIP - 178 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas a m-rj englert-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "RJ Englert",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 38,
+        "avg": 0.42,
+        "ops": 1.02,
+        "hr": 2,
+        "rbi": 29,
+        "sb": 6
+      },
+      "statLine": "..420 AVG - 1.020 OPS - 2 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas a m-jim hacker-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jim Hacker",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 38,
+        "avg": 0.342,
+        "ops": 1.038,
+        "hr": 1,
+        "rbi": 20,
+        "sb": 2
+      },
+      "statLine": "..342 AVG - 1.038 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas a m-michael schrader-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Schrader",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SS",
+      "eligiblePositions": [
+        "SS"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas a m-michael frazier-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Frazier",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-texas a m-bruce katt-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bruce Katt",
+      "team": "Texas A&M",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "SEC",
+      "stats": {
+        "games": 12,
+        "wins": 5,
+        "era": 1.5,
+        "whip": 1.17,
+        "strikeouts": 49,
+        "innings": 66,
+        "saves": 0,
+        "starts": 10
+      },
+      "statLine": "1.50 ERA - 1.170 WHIP - 49 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-cary livingston-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Cary Livingston",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 29,
+        "avg": 0.376,
+        "ops": 0.997,
+        "hr": 3,
+        "rbi": 21,
+        "sb": 3
+      },
+      "statLine": "..376 AVG - ..997 OPS - 3 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-curtis zimmerman-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Curtis Zimmerman",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 29,
+        "avg": 0,
+        "ops": 0,
+        "hr": 4,
+        "rbi": 23,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 4 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-edward bernard-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Edward Bernard",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.56,
+        "whip": 0.97,
+        "strikeouts": 77,
+        "innings": 66.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.56 ERA - ..970 WHIP - 77 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-tony beaulieu-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Tony Beaulieu",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 10,
+        "wins": 7,
+        "era": 1.46,
+        "whip": 1.02,
+        "strikeouts": 42,
+        "innings": 61.2,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "1.46 ERA - 1.020 WHIP - 42 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-kenneth cronin-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kenneth Cronin",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.47,
+        "whip": 1.12,
+        "strikeouts": 48,
+        "innings": 54.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.47 ERA - 1.120 WHIP - 48 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-john ryan-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "John Ryan",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 12,
+        "wins": 6,
+        "era": 1.77,
+        "whip": 1.29,
+        "strikeouts": 30,
+        "innings": 45.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "1.77 ERA - 1.290 WHIP - 30 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-tulane-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Tulane",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "AAC",
+      "stats": {
+        "games": 11,
+        "wins": 5,
+        "era": 2.57,
+        "whip": 0.98,
+        "strikeouts": 77,
+        "innings": 66.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "2.57 ERA - ..980 WHIP - 77 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-wake forest-steve corey-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Steve Corey",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 8,
+        "wins": 1,
+        "era": 3.32,
+        "whip": 1.64,
+        "strikeouts": 34,
+        "innings": 43.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.32 ERA - 1.640 WHIP - 34 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-wake forest-bud smith-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bud Smith",
+      "team": "Wake Forest",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "ACC",
+      "stats": {
+        "games": 7,
+        "wins": 4,
+        "era": 2.27,
+        "whip": 1.16,
+        "strikeouts": 26,
+        "innings": 39.2,
+        "saves": 0,
+        "starts": 6
+      },
+      "statLine": "2.27 ERA - 1.160 WHIP - 26 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-washington-rod allred-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Rod Allred",
+      "team": "Washington",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big Ten",
+      "stats": {
+        "games": 9,
+        "wins": 3,
+        "era": 3.7,
+        "whip": 1.62,
+        "strikeouts": 67,
+        "innings": 48.2,
+        "saves": 0,
+        "starts": 9
+      },
+      "statLine": "3.70 ERA - 1.620 WHIP - 67 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-west virginia-kim west-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Kim West",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 8,
+        "wins": 3,
+        "era": 2.38,
+        "whip": 1.01,
+        "strikeouts": 64,
+        "innings": 56.2,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "2.38 ERA - 1.010 WHIP - 64 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-west virginia-dan dolphin-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Dan Dolphin",
+      "team": "West Virginia",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "power5",
+      "conference": "Big 12",
+      "stats": {
+        "games": 7,
+        "wins": 4,
+        "era": 0.82,
+        "whip": 0.98,
+        "strikeouts": 40,
+        "innings": 44,
+        "saves": 0,
+        "starts": 4
+      },
+      "statLine": "..82 ERA - ..980 WHIP - 40 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-western illinois-michael bennett-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Michael Bennett",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 17,
+        "avg": 0.415,
+        "ops": 1.142,
+        "hr": 1,
+        "rbi": 11,
+        "sb": 0
+      },
+      "statLine": "..415 AVG - 1.142 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-western illinois-ron holmer-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ron Holmer",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 11,
+        "wins": 4,
+        "era": 3.49,
+        "whip": 1.18,
+        "strikeouts": 31,
+        "innings": 49,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "3.49 ERA - 1.180 WHIP - 31 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-western illinois-ed gvazdinskas-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Ed Gvazdinskas",
+      "team": "Western Illinois",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Big South-OVC",
+      "stats": {
+        "games": 9,
+        "wins": 4,
+        "era": 3.17,
+        "whip": 1.14,
+        "strikeouts": 29,
+        "innings": 48.1,
+        "saves": 0,
+        "starts": 7
+      },
+      "statLine": "3.17 ERA - 1.140 WHIP - 29 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-jeff malinoff-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Jeff Malinoff",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "1B",
+      "eligiblePositions": [
+        "1B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 53,
+        "avg": 0.343,
+        "ops": 1.031,
+        "hr": 6,
+        "rbi": 65,
+        "sb": 0
+      },
+      "statLine": "..343 AVG - 1.031 OPS - 6 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-rod spence-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Rod Spence",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-carl peternell-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Carl Peternell",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-terry stupy-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Terry Stupy",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "C",
+      "eligiblePositions": [
+        "C"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-gary wheelock-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Gary Wheelock",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 21,
+        "wins": 1,
+        "era": 2.73,
+        "whip": 1.34,
+        "strikeouts": 83,
+        "innings": 122,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "2.73 ERA - 1.340 WHIP - 83 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-bob barlow-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Bob Barlow",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 16,
+        "wins": 9,
+        "era": 2.39,
+        "whip": 1.31,
+        "strikeouts": 73,
+        "innings": 109.1,
+        "saves": 0,
+        "starts": 15
+      },
+      "statLine": "2.39 ERA - 1.310 WHIP - 73 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-jerry maras-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Jerry Maras",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 11,
+        "wins": 3,
+        "era": 3.33,
+        "whip": 1.4,
+        "strikeouts": 63,
+        "innings": 67.2,
+        "saves": 0,
+        "starts": 8
+      },
+      "statLine": "3.33 ERA - 1.400 WHIP - 63 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-uc irvine-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "UC Irvine",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "BigWest",
+      "stats": {
+        "games": 21,
+        "wins": 1,
+        "era": 2.73,
+        "whip": 1.34,
+        "strikeouts": 83,
+        "innings": 122,
+        "saves": 0,
+        "starts": 17
+      },
+      "statLine": "2.73 ERA - 1.340 WHIP - 83 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-arthur fischetti-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Arthur Fischetti",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "2B",
+      "eligiblePositions": [
+        "2B",
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 26,
+        "avg": 0.369,
+        "ops": 0.963,
+        "hr": 1,
+        "rbi": 19,
+        "sb": 17
+      },
+      "statLine": "..369 AVG - ..963 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-joe barkauskas-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Joe Barkauskas",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 25,
+        "avg": 0.264,
+        "ops": 0.776,
+        "hr": 1,
+        "rbi": 15,
+        "sb": 1
+      },
+      "statLine": "..264 AVG - ..776 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-brian canfield-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Brian Canfield",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "3B",
+      "eligiblePositions": [
+        "3B"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 24,
+        "avg": 0.26,
+        "ops": 0.749,
+        "hr": 1,
+        "rbi": 11,
+        "sb": 1
+      },
+      "statLine": "..260 AVG - ..749 OPS - 1 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-frank weisse-bat",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "hitter",
+      "name": "Frank Weisse",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "LF",
+      "eligiblePositions": [
+        "LF",
+        "CF",
+        "RF"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 0,
+        "avg": 0,
+        "ops": 0,
+        "hr": 0,
+        "rbi": 0,
+        "sb": 0
+      },
+      "statLine": "..000 AVG - ..000 OPS - 0 HR",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-james van der beek-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "James Van Der Beek",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 2.45,
+        "whip": 1.15,
+        "strikeouts": 107,
+        "innings": 88,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.45 ERA - 1.150 WHIP - 107 SO",
+      "source": "thebaseballcube"
+    },
+    {
+      "id": "1972-lafayette-totals-pit",
+      "season": 1972,
+      "era": "pre-2000s",
+      "category": "pitcher",
+      "name": "Totals:",
+      "team": "Lafayette",
+      "classYear": "",
+      "primaryPosition": "SP",
+      "eligiblePositions": [
+        "SP",
+        "RP"
+      ],
+      "teamTier": "midMajor",
+      "conference": "Patriot",
+      "stats": {
+        "games": 12,
+        "wins": 7,
+        "era": 2.45,
+        "whip": 1.15,
+        "strikeouts": 107,
+        "innings": 88,
+        "saves": 0,
+        "starts": 11
+      },
+      "statLine": "2.45 ERA - 1.150 WHIP - 107 SO",
+      "source": "thebaseballcube"
+    }
+  ]
+}

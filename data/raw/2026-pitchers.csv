@@ -1,0 +1,695 @@
+Player,Team,Class,W,L,ERA,APP,GS,CG,SHO,SV,IP,H,R,ER,BB,K,HBP,BA
+Jackson Flora,UC Santa Barbara,JR,12,0,1.06,16,16,2,2,0,102,55,14,12,32,133,8,0.155
+Mason Edwards,Southern California,JR,8,0,1.85,16,16,0,0,0,92.2,50,22,19,43,164,5,0.153
+Dylan Volantis,Texas,SO,9,1,1.94,15,14,0,0,0,83.1,55,19,18,23,116,6,0.181
+Dax Whitney,Oregon State,SO,6,1,2,11,11,0,0,0,63,42,16,14,18,104,2,0.185
+Caden Glauber,North Carolina,FR,10,0,2.06,24,2,0,0,4,74.1,46,20,17,37,88,5,0.18
+Maxx Yehl,West Virginia,JR,8,2,2.12,16,16,1,0,0,85,66,27,20,24,101,17,0.218
+Eric Segura,Oregon State,JR,6,2,2.22,15,15,0,0,0,73,56,23,18,27,82,12,0.219
+Seth Benes,Lindenwood,JR,4,5,2.34,15,15,1,0,0,92.1,68,29,24,30,78,5,0.206
+Matt Archibald,Navy,JR,7,3,2.35,11,11,1,0,0,65,39,22,17,32,98,8,0.171
+Isaiah Magdaleno,Hawaii,JR,7,5,2.36,15,15,2,2,0,95.1,57,28,25,31,116,11,0.171
+Michael Addari,Illinois State,JR,4,4,2.41,14,11,0,0,0,67.1,58,31,18,22,73,11,0.243
+Brady Bendik,Navy,JR,6,4,2.42,13,13,2,1,0,81.2,73,31,22,27,91,8,0.234
+Sam Simmons,UTSA,SR,7,4,2.43,27,0,0,0,5,66.2,59,24,18,20,52,4,0.229
+Sheamus Ryan,North Dakota State,FR,1,2,2.44,13,2,1,0,3,48,54,14,13,11,28,4,0.289
+Ben Alekson,Fairfield,JR,7,4,2.47,15,15,1,0,0,87.1,76,30,24,29,63,7,0.231
+Landon Hood,Gonzaga,FR,3,1,2.48,16,4,0,0,5,54.1,32,16,15,21,78,6,0.162
+Wylan Moss,UCLA,SO,5,1,2.49,17,6,1,0,1,65,44,21,18,24,76,7,0.194
+David Rossow,Campbell,SR,10,2,2.51,16,13,2,1,0,82.1,63,31,23,22,104,10,0.206
+Jason DeCaro,North Carolina,JR,10,2,2.54,16,16,1,1,0,78,71,28,22,37,76,7,0.25
+Max Bayles,Santa Clara,JR,5,4,2.54,15,15,0,0,0,71,48,22,20,44,104,1,0.19
+Andrew Evans,Southern Illinois,SR,8,1,2.58,16,16,1,1,0,88.1,75,27,25,29,99,4,0.227
+John Damozonio,Saint Mary&#8217;s,SR,7,2,2.59,14,14,0,0,0,83.1,72,31,24,21,87,15,0.232
+Hunter Alexander,Central Arkansas,SR,7,2,2.59,27,0,0,0,11,62.2,46,22,18,28,76,2,0.201
+Josh Newell,Lindenwood,SR,6,5,2.65,15,15,2,0,0,102,104,41,30,13,63,2,0.265
+Mikiah Negrete,Cal State Fullerton,SR,9,4,2.7,15,15,3,1,0,100,83,33,30,17,94,10,0.224
+Garret Plata,Pacific,JR,4,2,2.72,14,14,0,0,0,76,60,24,23,43,72,7,0.217
+Felix Morin,Canisius,SR,5,5,2.77,16,15,0,0,1,87.2,81,50,27,30,71,5,0.242
+Cody Brasch,Louisiana,JR,6,3,2.77,22,8,0,0,6,74.2,53,24,23,21,82,6,0.197
+Jackson Sanders,Auburn,SO,5,1,2.77,16,7,0,0,4,68.1,51,24,21,24,93,6,0.206
+Tyler Grenn,Navy,SR,3,4,2.78,18,7,0,0,2,58.1,55,29,18,16,47,4,0.244
+Chris Olivier,Lamar,SR,7,4,2.78,16,16,1,1,0,94,61,32,29,38,108,8,0.18
+Cooper Allen,UNC Wilmington,JR,9,4,2.79,15,15,2,1,0,87,65,30,27,23,96,8,0.21
+Aidan Flinn,Illinois,FR,1,3,2.79,15,13,0,0,0,61.1,38,21,19,13,58,14,0.178
+Cayden Suchy,Connecticut,SO,5,3,2.82,15,15,1,0,0,89.1,77,33,28,23,105,4,0.231
+Chris Levonas,Wake Forest,SO,10,3,2.82,15,15,0,0,0,73.1,44,25,23,33,116,7,0.171
+Will Labonte,Portland,FR,3,2,2.82,14,13,0,0,0,73.1,64,24,23,28,58,4,0.24
+Alec Bouchard,Wofford,JR,9,3,2.83,15,15,1,0,0,86,72,31,27,27,104,4,0.224
+Ryland Urbanczyk,Rice,JR,4,4,2.84,15,15,0,0,0,66.2,50,24,21,36,41,10,0.214
+Elias Holbert,VCU,SR,4,1,2.86,18,9,0,0,0,66,51,26,21,37,75,13,0.213
+Tate Evans,Yale,SR,7,2,2.87,22,8,0,0,2,84.2,77,30,27,15,80,13,0.241
+Gavin Eddy,California,SO,6,3,2.87,14,14,0,0,0,84.2,72,33,27,21,94,7,0.229
+Chansen Cole,West Virginia,SO,9,1,2.87,18,16,1,0,0,87.2,67,32,28,30,95,8,0.209
+Charlie Hale,Connecticut,JR,7,0,2.89,19,7,0,0,2,62.1,56,23,20,19,60,9,0.241
+Ross Yoshida,Cornell,FR,3,1,2.89,16,0,0,0,1,43.2,31,16,14,13,42,5,0.199
+Wes Mendes,Florida State,JR,9,3,2.9,16,16,2,1,0,93,70,35,30,25,125,9,0.207
+Nathan Leininger,Toledo,SR,9,1,2.91,15,15,1,0,0,96,74,33,31,37,90,10,0.211
+Cullen Condon,Wofford,SO,7,2,2.92,13,13,0,0,0,64.2,50,31,21,26,58,10,0.212
+Grant Govel,Southern California,SO,10,2,2.93,18,17,1,0,0,98.1,72,34,32,15,96,3,0.2
+Walker McDuffie,North Carolina,SO,7,2,2.94,34,0,0,0,6,64.1,44,21,21,37,82,8,0.196
+Dakota Stone,North Florida,JR,6,3,2.96,14,12,0,0,0,76,60,31,25,35,98,9,0.216
+Nick Lewis,Washington State,SO,10,2,2.97,16,15,2,0,0,100,92,41,33,27,66,5,0.246
+Connor Kelley,UTSA,JR,5,2,2.98,20,5,0,0,2,66.1,51,26,22,23,73,7,0.214
+Micah Worley,Stony Brook,SR,6,4,2.98,13,13,0,0,0,66.1,53,32,22,28,87,6,0.218
+Tomas Valincius,Mississippi State,SO,11,2,2.99,16,16,0,0,0,93.1,77,39,31,19,130,6,0.221
+Denver Hamilton,Central Arkansas,JR,9,0,3,14,13,1,0,0,78,86,27,26,16,54,8,0.288
+Tyler Weimer,Arkansas State,SO,5,2,3,19,3,0,0,2,54,45,19,18,11,51,1,0.222
+Steven Cash,Jacksonville State,SR,9,2,3.01,17,17,1,1,0,89.2,64,32,30,32,103,11,0.199
+Ryan Karst,Indiana State,SR,3,1,3.05,16,10,0,0,0,65,47,27,22,23,53,16,0.202
+Colby Allen,Southern Miss,SR,7,2,3.05,24,5,0,0,2,73.2,75,30,25,18,90,2,0.26
+Max Vaisvila,Northern Illinois,SR,8,0,3.05,16,15,3,2,0,85.2,70,33,29,20,87,9,0.227
+Hekili Robello,Hawaii,JR,9,4,3.07,15,14,0,0,0,85,75,36,29,19,77,9,0.237
+Camden Sunstrom,Southern Miss,SO,6,4,3.1,20,10,0,0,1,78.1,76,33,27,16,80,6,0.253
+Casey Euper,Pepperdine,SO,5,4,3.11,15,12,0,0,0,75.1,67,32,26,29,67,10,0.236
+Ian Korn,West Virginia,GR,5,1,3.12,21,3,0,0,2,69.1,63,26,24,10,61,5,0.243
+Brannon Westmoreland,Little Rock,JR,6,2,3.12,17,16,1,1,0,98,96,37,34,22,81,1,0.251
+Michael Malki,California Baptist,SO,11,0,3.12,18,15,1,0,0,75,67,29,26,37,111,6,0.236
+Evan Dempsey,Florida Gulf Coast,JR,7,2,3.15,15,15,2,2,0,88.2,68,32,31,26,126,11,0.209
+Edwin Sanchez,Bethune-Cookman,SR,11,2,3.17,15,15,0,0,0,76.2,61,30,27,33,72,6,0.219
+Ryan Piech,Xavier,JR,8,3,3.18,14,14,0,0,0,76.1,56,28,27,31,98,5,0.201
+Braden Gebhardt,Youngstown State,SR,5,4,3.19,15,15,0,0,0,87.1,77,42,31,29,104,8,0.23
+Alex Petrovic,Auburn,SO,10,2,3.19,16,16,1,1,0,87.1,67,33,31,22,87,6,0.209
+Ben Cherico,Saint Louis,SR,4,7,3.21,14,14,2,2,0,84,66,45,30,31,76,13,0.214
+Hunter Possehl,Florida Gulf Coast,SO,4,1,3.21,15,14,0,0,0,67.1,62,33,24,26,65,10,0.242
+Aidan King,Florida,SO,8,2,3.21,16,16,0,0,0,87,71,39,31,19,92,7,0.218
+Andrew Buffkin,The Citadel,JR,6,3,3.23,22,8,1,1,1,75.1,78,31,27,28,59,8,0.284
+Thomas Shurtleff,Pennsylvania,SR,6,2,3.25,11,4,0,0,0,61,56,23,22,15,52,7,0.249
+Liam O'Leary,St. John&#8217;s,JR,8,4,3.25,16,16,3,1,0,105.1,95,41,38,28,74,9,0.24
+Patrick Steitz,VCU,SR,7,4,3.26,17,16,0,0,0,96.2,83,37,35,26,86,5,0.231
+Isaac Morton,Minnesota,JR,4,2,3.26,13,13,0,0,0,60.2,46,28,22,25,63,12,0.211
+Easton Teel,Oral Roberts,SO,4,3,3.26,14,14,0,0,0,77.1,72,30,28,23,68,9,0.247
+Daniel Powell,Kennesaw State,JR,6,3,3.27,26,0,0,0,7,55,42,22,20,24,64,4,0.223
+Conor Myles,UTSA,GR,10,1,3.28,15,13,0,0,0,74,68,31,27,23,65,5,0.239
+Gage Peterson,Appalachian State,JR,8,1,3.28,15,15,0,0,0,85,60,40,31,39,107,11,0.196
+Nate Kugler,Dartmouth,SO,2,4,3.28,13,7,0,0,0,46.2,42,23,17,17,29,8,0.247
+Rob Evans,Miami,SR,10,3,3.29,16,15,0,0,0,86.2,67,36,32,31,98,6,0.21
+Jack Radel,Notre Dame,JR,8,4,3.29,15,15,2,1,0,87.2,68,36,32,22,116,2,0.206
+Carlos Martinez,Hofstra,SR,6,3,3.3,13,13,1,0,0,76.1,63,31,28,27,96,5,0.228
+Jake Marciano,Auburn,SO,5,6,3.32,17,17,0,0,0,86.2,76,37,32,17,108,10,0.234
+Darin Horn,Coastal Carolina,SR,8,2,3.34,31,0,0,0,7,67.1,61,34,25,25,93,8,0.241
+Trey Williford,UNC Wilmington,FR,6,2,3.34,17,8,1,0,1,67.1,51,29,25,28,89,5,0.211
+Joey Giordano,Richmond,SO,11,0,3.35,13,13,0,0,0,75.1,64,34,28,26,63,7,0.226
+Jackson Blakely,Georgia Tech,SO,8,1,3.36,15,13,0,0,0,64.1,61,27,24,20,69,12,0.246
+Trevor Nikolis,North Florida,SO,4,3,3.36,16,11,1,0,0,56.1,38,23,21,27,41,5,0.197
+Ryan Peterson,Sam Houston,JR,6,5,3.38,15,15,1,1,0,88,77,38,33,23,105,13,0.236
+Bryce Riggs,Eastern Illinois,JR,8,2,3.38,16,15,2,1,1,93.1,63,37,35,39,76,4,0.189
+Ciaran Caughey,Kent State,SR,8,2,3.39,15,15,0,0,0,77,60,35,29,23,77,15,0.212
+Michael Sharman,Clemson,SR,6,2,3.39,15,15,1,0,0,77,73,34,29,11,77,4,0.243
+Eric Nachtsheim,McNeese,SR,8,4,3.39,20,9,1,0,3,93,81,39,35,21,129,5,0.227
+Declan Dahl,Louisiana Tech,JR,7,4,3.43,15,15,0,0,0,81.1,73,37,31,23,101,5,0.236
+Carson Turnquist,Cal Poly,JR,9,2,3.46,15,13,0,0,0,75.1,53,30,29,38,90,16,0.191
+Andrew Johnson,Southern California,SO,8,2,3.46,21,11,0,0,0,80.2,74,36,31,27,79,5,0.238
+Will Sanford,Oregon,SO,9,2,3.46,16,16,0,0,0,80.2,51,34,31,41,119,13,0.175
+Chase Topolski,Richmond,SR,4,3,3.51,15,10,0,0,2,66.2,51,28,26,32,66,11,0.213
+Dylan Marionneaux,Northwestern State,JR,4,2,3.51,14,14,2,0,0,84.2,74,37,33,18,81,5,0.233
+Andreas Alvarez,Auburn,SO,10,3,3.52,15,15,1,0,0,79.1,71,41,31,30,103,5,0.237
+Zach Todd,Pacific,JR,5,2,3.53,15,14,0,0,0,81.2,62,33,32,42,85,12,0.215
+Ben Blair,Liberty,JR,7,5,3.53,16,16,0,0,0,94.1,80,41,37,17,113,11,0.224
+Matthew Cuccias,Wichita State,JR,4,3,3.53,16,15,0,0,1,74,56,40,29,33,76,9,0.201
+Luc Rising,Northeastern,SR,5,5,3.54,16,13,0,0,0,81.1,64,38,32,24,84,12,0.213
+Matthew Mariano,Albany,SR,5,2,3.56,15,0,0,0,1,65.2,57,30,26,23,41,7,0.239
+Bryan Peck,California Baptist,GR,7,2,3.56,16,15,0,0,1,73.1,67,32,29,21,66,5,0.243
+James Litman,Florida Atlantic,SO,8,3,3.56,15,15,1,0,0,83.1,83,34,33,38,80,4,0.256
+Tegan Kuhns,Tennessee,SO,5,5,3.56,15,14,1,1,0,81,80,35,32,16,106,6,0.253
+Hunter Dietz,Arkansas,SO,7,4,3.57,16,16,1,0,0,85.2,71,40,34,31,131,7,0.221
+Myles Upchurch,Alabama,FR,8,3,3.57,15,15,0,0,0,70.2,50,29,28,40,77,11,0.198
+PJ Craig,Rider,SR,9,3,3.59,16,15,2,0,0,102.2,90,44,41,42,90,8,0.239
+Ty Brachbill,High Point,JR,11,2,3.59,15,15,3,1,0,90.1,84,42,36,24,81,4,0.245
+Nathan Taylor,Cincinnati,JR,7,3,3.6,16,16,0,0,0,90,80,47,36,27,115,6,0.235
+Miles Gosztola,Oregon,JR,3,3,3.61,17,10,0,0,0,62.1,52,25,25,25,69,7,0.228
+Mason Pennington,Southeast Missouri State,SR,7,3,3.61,16,15,0,0,1,77.1,71,37,31,21,71,11,0.242
+Luke Lang,Iona,FR,5,3,3.61,12,8,0,0,0,52.1,50,22,21,26,54,4,0.254
+Christian Aiello,Rider,SR,8,3,3.64,21,3,0,0,1,54.1,45,23,22,22,71,6,0.22
+Bradley Zayac,Liberty,SO,9,1,3.64,16,15,0,0,0,84,81,38,34,21,69,7,0.259
+Zack James,TCU,SO,6,0,3.64,15,8,0,0,0,59.1,60,24,24,19,48,6,0.264
+Beau Bryans,Jacksonville State,SR,7,1,3.66,15,15,0,0,0,66.1,54,32,27,44,78,13,0.226
+Sean Davis,Iona,SR,5,3,3.67,17,0,0,0,2,49,46,22,20,17,36,5,0.246
+Carson Jasa,Nebraska,SO,10,2,3.7,16,16,2,0,0,87.2,67,39,36,47,117,13,0.213
+Logan Rumberg,George Mason,SR,7,3,3.71,17,15,0,0,1,85,67,45,35,39,97,10,0.216
+Aidan Donovan,Michigan State,SO,6,3,3.71,15,15,0,0,0,87.1,86,40,36,21,62,4,0.256
+Lance Davis,TCU,FR,5,3,3.71,14,14,2,1,0,80,70,36,33,17,51,10,0.236
+Harrison Engle,Fairfield,FR,7,2,3.71,19,10,0,0,1,63,48,31,26,43,59,3,0.207
+Pierce Herrenbruck,Ohio State,JR,7,3,3.72,15,15,1,0,0,82.1,82,44,34,24,58,15,0.252
+Spencer Stearns,SIU Edwardsville,JR,8,3,3.74,15,15,0,0,0,84.1,80,40,35,21,52,13,0.255
+Caylon Dygert,UT Arlington,JR,6,6,3.74,14,14,0,0,0,84.1,84,41,35,32,62,3,0.256
+Ethan Kleinschmit,Oregon State,JR,9,2,3.74,15,15,0,0,0,77,63,37,32,27,97,12,0.222
+Hunter Sipe,VMI,SR,4,4,3.76,29,1,0,0,2,79,73,46,33,17,64,8,0.245
+Oliver de la Torre,California,JR,5,5,3.76,14,14,1,0,0,81.1,70,43,34,23,72,6,0.233
+Dylan Farley,Arkansas State,GR,7,3,3.76,14,14,0,0,0,55,46,26,23,28,30,14,0.231
+Dylan Reid,Brown,SR,4,4,3.77,12,10,0,0,1,59.2,49,28,25,28,47,2,0.232
+Ricky Ojeda,UC Irvine,JR,3,3,3.77,18,7,0,0,3,62,50,30,26,20,62,12,0.228
+James Peterson,Alabama State,SO,7,1,3.77,30,6,0,0,4,88.1,102,56,37,31,56,11,0.289
+Lucas Hartman,Virginia,GR,10,2,3.78,37,0,0,0,1,64.1,60,36,27,24,70,5,0.247
+Ethan Lay,Sacramento State,SR,5,3,3.78,16,16,1,1,0,88,93,48,37,16,93,4,0.263
+Cam Staton,Saint Mary&#8217;s,JR,4,3,3.78,20,7,0,0,3,66.2,63,37,28,33,66,5,0.244
+Michael Senay,South Florida,FR,6,3,3.78,14,13,0,0,0,81,70,39,34,17,55,6,0.233
+Hayden Frey,Toledo,FR,6,4,3.79,15,11,1,0,1,78.1,67,33,33,27,65,13,0.234
+Brendan Holland,Jacksonville,GR,4,5,3.8,15,15,0,0,0,73.1,69,33,31,27,79,4,0.248
+Kaden Segel,Portland,GR,5,2,3.8,19,4,0,0,3,64,72,30,27,12,46,3,0.286
+Rohan Lettow,San Diego State,JR,6,1,3.81,15,15,0,0,0,78,74,39,33,26,93,6,0.251
+Ean DiPasquale,Southern Indiana,SO,4,3,3.82,17,13,1,1,1,63.2,51,34,27,27,39,11,0.219
+Taylor Rabe,Ole Miss,SO,5,3,3.84,15,9,0,0,2,63.1,55,27,27,10,90,6,0.229
+Jace Gillmore,Santa Clara,JR,4,4,3.84,14,14,0,0,0,65.2,55,33,28,22,59,4,0.223
+Zachary Robinson,UMBC,JR,7,3,3.84,14,14,2,2,0,77.1,88,42,33,21,48,10,0.286
+Aiden Sims,Texas A&#038;M,SO,8,1,3.84,13,13,1,1,0,68,54,33,29,19,73,8,0.213
+Caden Aoki,Georgia,GR,9,1,3.86,18,7,0,0,3,72.1,70,33,31,26,95,3,0.251
+Connor Lockwood,Valparaiso,SR,4,8,3.86,14,14,5,1,0,93.1,115,56,40,9,59,5,0.298
+Ruger Riojas,Texas,SR,5,2,3.86,15,15,1,1,0,70,60,30,30,15,106,3,0.226
+Collin Valentine,Pepperdine,JR,3,6,3.86,15,14,0,0,0,67.2,76,35,29,25,30,8,0.292
+Bryson Moore,Florida State,JR,6,2,3.86,14,14,0,0,0,67.2,58,32,29,25,65,5,0.23
+Cole Carlon,Arizona State,JR,5,2,3.87,16,16,0,0,0,83.2,69,37,36,31,133,4,0.221
+Joey Volchko,Georgia,JR,10,2,3.87,16,16,0,0,0,81.1,71,38,35,43,98,8,0.238
+Shane Brinham,Michigan,FR,6,4,3.88,18,10,2,2,1,65,60,30,28,34,61,4,0.245
+Gavin Perry,Western Kentucky,GR,8,2,3.89,15,15,1,1,0,85.2,87,39,37,19,83,2,0.264
+Gavin Blachowicz,Nebraska,SO,4,4,3.89,16,15,1,0,0,69.1,65,39,30,27,81,9,0.251
+Jaxon Lloyd,Longwood,GR,6,3,3.9,15,13,0,0,0,83,79,39,36,30,79,8,0.256
+Joseph Webb,East Carolina,SR,5,5,3.9,30,4,0,0,3,67,45,37,29,33,84,10,0.191
+Liam Watt,Dallas Baptist,SR,8,2,3.9,22,10,1,0,1,85.1,78,37,37,15,63,5,0.242
+Alex Walsh,Jacksonville,SR,7,3,3.91,15,15,0,0,0,73.2,71,34,32,33,74,9,0.253
+Will Bartkoski,Georgia State,SR,5,2,3.92,23,4,1,0,4,59.2,38,26,26,35,53,24,0.185
+Drew Nelson,Brown,FR,6,3,3.93,12,12,0,0,0,71,75,37,31,25,40,6,0.277
+Cade Townsend,Ole Miss,SO,5,3,3.94,14,14,0,0,0,64,55,33,28,22,88,4,0.223
+Tony Neubeck,Indiana,GR,7,4,3.95,14,14,0,0,0,70.2,68,32,31,27,75,6,0.255
+Robbie O'Connor,Northeastern,JR,10,2,3.95,16,16,1,1,0,84.1,67,41,37,21,59,28,0.22
+Gavin Oswald,North Alabama,GR,8,3,3.96,23,0,0,0,1,61.1,56,27,27,26,54,5,0.25
+Colby Barker,Merrimack,JR,10,3,3.97,15,9,1,0,0,76.2,70,32,34,40,59,6,0.242
+Kellan Montgomery,UC Santa Barbara,SR,8,4,4,16,16,0,0,0,81,73,42,36,25,69,9,0.245
+Andrelys Payamps,Iona,GR,1,5,4,10,10,0,0,0,54,53,35,24,27,69,6,0.259
+Michael Harpster,East Tennessee State,JR,6,2,4,14,14,0,0,0,72,67,37,32,36,78,11,0.25
+Griffin Naess,Cal Poly,JR,8,4,4,16,16,0,0,0,87.2,82,42,39,32,96,8,0.243
+Josh Prieto,Texas Southern,SR,2,2,4,15,1,0,0,1,48.2,42,28,22,27,38,5,0.235
+Hudson Rowan,Louisiana Tech,JR,6,4,4.01,17,15,0,0,0,74,53,40,33,43,65,11,0.204
+Alex Lyon,College of Charleston,SR,3,1,4.02,23,0,0,0,2,65,64,32,29,12,30,9,0.259
+Stormy Rhodes,Oklahoma State,SO,4,2,4.02,21,5,0,0,2,65,67,37,29,20,62,8,0.268
+Grayden Harris,Southern Miss,SO,8,1,4.02,17,17,0,0,0,87.1,92,44,39,19,107,10,0.272
+Finnegan Wall,UC Irvine,SR,3,5,4.03,14,12,0,0,0,58,67,31,26,19,47,6,0.293
+Andrew Berg,Army,SR,6,3,4.03,13,13,2,0,0,82.2,84,49,37,28,58,6,0.261
+Ty Horn,Nebraska,JR,3,3,4.03,22,12,0,0,1,82.2,76,39,37,26,87,7,0.241
+Zane Adams,Alabama,JR,7,4,4.04,15,15,0,0,0,82.1,84,42,37,27,90,3,0.264
+Maddux Frese,Iowa,JR,4,2,4.06,15,9,0,0,1,68.2,68,36,31,23,43,2,0.258
+Kai Leckszas,Georgetown,SR,5,3,4.07,14,12,0,0,0,66.1,62,33,30,26,49,12,0.251
+Clayton Burke,Miami (OH),GR,9,2,4.07,15,14,2,0,0,84,78,46,38,20,76,16,0.245
+Ryan Lynch,North Carolina,SO,5,4,4.07,16,15,1,0,0,84,88,42,38,33,75,16,0.272
+Dylan Smith,San Jose State,SR,3,4,4.08,12,12,1,0,0,68.1,71,31,31,18,50,11,0.267
+Ethan Norby,East Carolina,JR,7,3,4.08,18,14,0,0,1,90.1,91,48,41,28,131,21,0.258
+Jackson Hinchliffe,Richmond,JR,4,6,4.08,16,16,0,0,0,70.2,67,41,32,12,37,16,0.249
+Jaxon Jelkin,Kentucky,JR,8,3,4.1,17,15,2,0,1,96.2,90,53,44,21,106,8,0.243
+Spencer Seid,Georgetown,GR,6,6,4.1,14,13,0,0,0,79,66,44,36,28,79,8,0.226
+Tanner Wiggins,Rice,SO,4,2,4.1,17,11,1,1,2,83.1,101,41,38,16,54,9,0.301
+Isaac Herrera,Prairie View,SR,3,0,4.1,15,3,1,0,1,52.2,59,31,24,23,42,2,0.278
+Chris Diaz,Florida Gulf Coast,JR,5,2,4.11,15,15,1,1,0,72.1,57,37,33,26,74,7,0.216
+Serigne Sarre,Mount St. Mary&#8217;s,SO,4,4,4.11,14,13,0,0,0,70,68,37,32,33,90,8,0.247
+Ben Rabatin,Kent State,SO,8,3,4.12,15,15,0,0,0,74.1,65,38,34,33,63,10,0.232
+Ethan Sanders,Rice,FR,5,6,4.12,16,14,0,0,1,83,91,42,38,23,64,2,0.279
+Griffen Paige,Wright State,JR,3,7,4.14,14,14,0,0,0,76,53,39,35,35,77,8,0.199
+Gabe Gaeckle,Arkansas,JR,6,3,4.14,20,12,0,0,0,71.2,80,39,33,35,87,4,0.278
+Harbersting Abreu,Bethune-Cookman,JR,6,4,4.14,15,15,0,0,0,71.2,86,42,33,27,65,4,0.299
+David Lally Jr.,Michigan,SR,2,4,4.15,16,9,1,0,1,69.1,60,37,32,30,65,12,0.231
+Tate McKee,Georgia Tech,JR,9,2,4.15,17,16,0,0,0,78,71,41,36,39,99,5,0.241
+Tommy Scavone,Pepperdine,GR,4,3,4.16,14,13,0,0,0,71.1,63,34,33,19,60,13,0.243
+Camden Wicker,UCF,JR,5,3,4.16,16,16,1,1,0,75.2,59,37,35,32,62,8,0.211
+Carson Cormier,Illinois State,SO,4,2,4.17,16,10,0,0,0,69,83,34,32,12,74,5,0.305
+Callen Powers,Massachusetts,JR,4,5,4.18,13,13,0,0,0,84,76,39,39,32,75,8,0.238
+Nathan Aceves,UC Santa Barbara,SO,4,3,4.18,15,13,0,0,0,64.2,54,34,30,27,69,11,0.226
+Branton Little,Wofford,SR,3,3,4.19,22,2,0,0,2,58,70,38,27,10,59,4,0.293
+Eli Pillsbury,Jacksonville State,SR,6,3,4.19,16,16,0,0,0,77.1,68,42,36,29,89,9,0.236
+Tadan Bell,East Tennessee State,JR,5,2,4.2,12,12,0,0,0,60,68,31,28,21,55,4,0.286
+Max Hansmann,Evansville,SR,4,3,4.2,15,15,0,0,0,85.2,89,47,40,31,83,10,0.268
+Ryan Castillo,New Mexico,JR,8,3,4.2,14,14,1,0,0,81.1,77,40,38,30,83,5,0.252
+Cole Leaman,Lehigh,SR,1,6,4.21,12,12,0,0,0,47,41,33,22,34,54,7,0.232
+Vincent Borghese,Rutgers,SR,4,5,4.21,15,10,0,0,1,62,65,32,29,27,62,3,0.264
+Kevin Robinson,Northwestern State,JR,0,4,4.21,17,8,0,0,0,57.2,73,36,27,3,48,7,0.296
+Jack Pineau,Creighton,JR,7,3,4.21,16,16,0,0,0,83.1,73,42,39,26,82,19,0.235
+Wade Walton,High Point,SO,4,3,4.21,15,15,0,0,0,77,74,50,36,40,77,5,0.25
+William Schmidt,LSU,SO,5,4,4.22,13,13,0,0,0,64,54,34,30,31,85,7,0.224
+Charlie West,Connecticut,JR,6,6,4.23,15,15,0,0,0,87.1,86,48,41,37,111,11,0.253
+Chet Lax,Wright State,JR,9,1,4.23,17,13,0,0,0,78.2,86,40,37,20,69,4,0.276
+Tim Teixeira,SIU Edwardsville,SO,7,5,4.23,15,15,1,0,0,87.1,75,47,41,29,72,8,0.23
+Mason Cook,Kansas,SO,5,1,4.23,17,12,0,0,0,66,57,35,31,26,65,12,0.233
+Gabriel Barrett,San Francisco,SR,3,5,4.27,17,14,0,0,1,78,93,43,37,18,71,9,0.293
+Bobby Mahoney,Cal State Fullerton,FR,2,3,4.28,15,10,0,0,0,61,50,34,29,29,40,17,0.23
+Michael Barnett,UCLA,SR,6,0,4.31,16,16,0,0,0,71,64,36,34,29,58,8,0.244
+David Horn Jr.,Middle Tennessee,SR,3,4,4.31,14,13,0,0,0,71,76,43,34,34,79,10,0.273
+Garrett Lambert,Mercer,FR,5,1,4.31,15,15,0,0,0,71,58,39,34,28,90,14,0.217
+Jaden Wywoda,Holy Cross,SR,6,5,4.32,16,15,5,2,1,98,85,50,47,26,81,13,0.23
+Kide Adetuyi,Florida Atlantic,SO,2,3,4.32,17,13,0,0,0,73,62,38,35,32,85,2,0.228
+Ricky Kidd,Western Michigan,GR,8,1,4.32,15,15,0,0,0,83.1,80,43,40,30,43,10,0.259
+Brendon Miller,Fairfield,SO,4,1,4.32,19,9,0,0,0,58.1,58,36,28,36,66,13,0.254
+Kyle Salvati,Central Connecticut,SR,2,2,4.33,12,12,2,0,0,70.2,61,37,34,33,72,7,0.233
+Brady LeJeune-DeAcutis,UMBC,GR,2,4,4.34,17,9,0,0,0,58,62,38,28,27,34,11,0.276
+Andrew Rubayo,Quinnipiac,SR,5,2,4.34,13,13,0,0,0,74.2,82,42,36,16,77,6,0.276
+Nathan Love,Oral Roberts,SR,4,2,4.34,14,14,0,0,0,66.1,67,34,32,21,44,4,0.264
+Brendan Conner,UAB,SO,4,3,4.35,24,3,0,0,2,60,58,33,29,29,39,2,0.246
+Luke Harrison,Texas,GR,6,3,4.36,17,15,0,0,1,76.1,68,44,37,29,87,11,0.235
+Nic Schutte,Murray State,SR,8,6,4.36,15,15,2,0,0,84.2,79,45,41,38,81,21,0.246
+Cody Templeton,Stephen F. Austin,SR,6,1,4.36,14,14,0,0,0,74.1,84,41,36,30,72,7,0.287
+Will Holmes,The Citadel,GR,7,4,4.37,17,17,0,0,0,92.2,64,50,45,53,120,12,0.201
+Harry Cain,Kennesaw State,SR,3,3,4.37,20,6,0,0,4,57.2,48,31,28,15,59,4,0.219
+J.J. Gatti,Old Dominion,JR,1,5,4.37,15,13,0,0,0,57.2,47,33,28,28,55,10,0.217
+Adam Stanton,Charlotte,GR,4,1,4.38,23,0,0,0,2,61.2,65,33,30,20,47,8,0.265
+Mason Lei,Illinois-Chicago,JR,8,5,4.38,16,16,2,0,0,95,107,56,46,19,86,8,0.279
+Kevin Reavey,Army,SO,3,6,4.38,12,11,1,0,1,61.2,51,33,30,45,43,8,0.236
+Luke Niemeyer,Lindenwood,FR,2,4,4.38,14,13,0,0,0,61.2,73,40,30,20,30,11,0.305
+Daniel Gonzalez,South Alabama,JR,4,4,4.39,15,15,1,0,0,69.2,65,38,34,39,67,8,0.25
+Ethan Minaker,CSU Bakersfield,JR,1,4,4.39,15,8,0,0,0,55.1,48,43,27,24,38,13,0.238
+Amp Phillips,South Carolina,JR,3,8,4.39,14,14,0,0,0,67.2,60,39,33,36,71,2,0.235
+Kaden Hilburger,Bryant,SR,3,2,4.4,12,12,1,0,0,59.1,54,31,29,15,38,3,0.239
+Nathan Mertens,Southeast Missouri State,SR,7,2,4.4,17,5,1,0,3,61.1,63,32,30,4,55,5,0.265
+Josh McDevitt,Missouri,JR,3,5,4.42,15,15,0,0,0,79.1,61,46,39,39,102,10,0.211
+Jack Nelson,Arkansas State,GR,2,2,4.42,15,11,0,0,0,55.1,43,28,27,25,63,7,0.209
+Hayden Bailey,Central Michigan,SR,3,4,4.42,16,15,1,1,0,73.1,62,41,36,37,55,15,0.231
+Justin Mayes,Texas Southern,SR,5,3,4.42,11,11,1,0,0,57.1,59,33,28,26,86,12,0.266
+Mark Scamardella,New Jersey Tech,GR,3,3,4.43,13,11,0,0,0,63,61,33,31,24,65,10,0.256
+Steven Svenson,Seton Hall,SO,3,6,4.43,13,13,0,0,0,65,66,45,32,18,48,12,0.267
+Evan Kleinhans,Columbia,SR,3,2,4.44,23,3,0,0,2,48.2,55,26,24,13,40,10,0.288
+Andrew Malec,Mercyhurst,JR,3,1,4.44,12,11,0,0,0,56,47,30,28,44,47,4,0.219
+A.J. Colarusso,Boston College,SR,5,4,4.45,16,16,1,0,0,83,91,52,41,24,77,7,0.276
+Mitchell Heer,South Alabama,GR,5,3,4.46,15,15,0,0,0,82.2,86,46,41,29,74,13,0.269
+Marty Coyne,Pennsylvania,JR,5,5,4.46,12,6,0,0,0,70.2,64,38,35,15,66,15,0.245
+Gio Colasante,Harvard,SR,3,5,4.47,11,11,0,0,0,54.1,46,41,27,24,38,17,0.223
+Joey Ruller,Queens (NC),JR,5,8,4.47,14,14,1,0,0,90.2,89,50,45,25,79,9,0.263
+Max Winders,Butler,SO,4,4,4.48,15,10,1,0,1,70.1,71,39,35,12,61,3,0.258
+Ethan Stade,Bowling Green,SR,3,4,4.5,14,10,0,0,1,64,53,40,32,20,103,14,0.22
+Trey Beard,Florida State,JR,6,1,4.5,14,12,0,0,1,68,61,41,34,24,97,8,0.236
+Kurt Barr,Michigan,SR,5,6,4.52,16,15,1,0,0,79.2,68,41,40,45,105,6,0.231
+Oliver Pudvar,Connecticut,JR,7,4,4.54,16,14,2,2,0,75.1,86,42,38,22,50,6,0.289
+Dylan Smith,Cal State Fullerton,SO,4,7,4.54,15,14,0,0,0,79.1,90,46,40,15,45,12,0.288
+Peter Dubie,Brown,SR,3,4,4.55,12,12,0,0,0,65.1,58,38,33,34,65,9,0.241
+Cole Fehrman,Saint Joseph&#8217;s,SR,5,3,4.56,15,15,1,0,0,77,71,44,39,30,99,17,0.247
+Troy Shepard,Southern Illinois,SR,3,4,4.56,15,14,0,0,0,81.1,64,38,41,37,78,18,0.215
+Kole Klecker,Arizona State,SR,7,2,4.57,14,13,0,0,0,69,65,38,35,24,78,3,0.245
+Jason Krieger,Maine,JR,4,6,4.57,15,15,1,0,0,88.2,97,49,45,34,55,12,0.289
+Connor Marshburn,UNC Wilmington,JR,4,6,4.57,15,15,0,0,0,80.2,80,49,41,29,81,14,0.258
+Colin Trizuto,Wagner,SR,6,3,4.57,15,15,3,0,0,88.2,98,56,45,28,51,13,0.284
+Noel Valdez,UC Davis,SR,1,6,4.58,14,14,0,0,0,70.2,96,40,36,25,60,1,0.337
+Luke Jones,Coastal Carolina,SO,4,2,4.58,16,15,0,0,0,78.2,73,40,40,28,67,16,0.246
+Liam Peterson,Florida,JR,3,6,4.59,16,16,1,0,0,84.1,84,47,43,36,111,1,0.258
+Michael Fliss,Toledo,FR,5,1,4.59,19,10,0,0,2,64.2,64,38,33,33,83,12,0.262
+Zach Erdman,Purdue,SR,4,1,4.6,15,15,0,0,0,72.1,95,46,37,16,61,4,0.319
+Collin Clarke,Oregon,JR,6,3,4.6,17,13,1,0,0,76.1,72,44,39,19,75,15,0.246
+Ty Brooks,Indiana State,SO,5,4,4.6,16,16,0,0,0,76.1,68,42,39,34,55,7,0.239
+Eddie Sargent,UMBC,SR,5,3,4.62,14,14,1,1,0,72,78,40,37,37,44,6,0.284
+Nick DiRito,Appalachian State,JR,5,2,4.63,16,12,1,0,2,81.2,86,43,42,27,91,9,0.272
+Caleb Granger,Florida A&#038;M,GR,7,4,4.63,17,17,0,0,0,99.2,122,53,51,27,89,6,0.301
+Brock Buckley,Butler,SR,4,9,4.63,17,13,1,0,1,79.2,92,48,41,21,75,11,0.293
+Luke Meyers,Washington State,SR,4,5,4.63,18,14,0,0,0,81.2,94,53,42,22,65,8,0.29
+Antonio Doganiero,Pittsburgh,SO,6,5,4.63,15,13,0,0,0,58.1,63,43,30,21,53,2,0.268
+Noah Andrunas,Saint Louis,JR,4,4,4.64,13,13,0,0,0,64,70,40,33,11,32,5,0.278
+Brett Renfrow,Virginia Tech,JR,5,4,4.64,15,15,0,0,0,73.2,72,39,38,25,88,6,0.254
+Cam Bagwell,Wake Forest,SO,3,1,4.64,16,14,1,1,0,66,71,42,34,21,55,8,0.269
+Evan Blanco,Tennessee,SR,7,4,4.65,16,16,0,0,0,89,80,50,46,29,101,7,0.235
+Justin Kim,Princeton,SR,4,5,4.65,13,11,1,1,0,60,59,34,31,26,55,5,0.248
+Jimmy Gilleran,Stonehill,SR,5,0,4.65,13,13,0,0,0,62,58,42,32,32,52,5,0.25
+David James,St. Bonaventure,SR,2,7,4.66,14,14,2,1,0,75.1,76,51,39,32,72,7,0.262
+Owen Stewart,George Mason,SR,5,4,4.66,23,4,0,0,5,58,55,31,30,32,69,10,0.252
+Sam Fairhurst,Lehigh,JR,3,4,4.66,12,8,1,0,0,56,55,32,29,27,54,9,0.264
+Andrew Carroll,Southeast Missouri State,JR,6,4,4.66,16,14,3,1,0,75.1,90,44,39,16,45,6,0.304
+Mason Steele,UAB,JR,6,4,4.66,14,14,1,0,0,75.1,61,45,39,26,68,4,0.219
+Gavin Kuzniewski,Ohio State,FR,6,3,4.66,15,15,1,1,0,83,70,50,43,40,69,15,0.226
+Ty Madison,South Dakota State,SR,4,5,4.67,22,6,0,0,2,71.1,73,38,37,11,53,5,0.266
+Smith Bailey,Arizona,SO,3,4,4.67,12,12,0,0,0,61.2,62,35,32,23,65,4,0.263
+Everett Garber,Bucknell,SO,4,3,4.67,12,9,1,0,0,52,50,33,27,29,53,9,0.256
+Kendall Hoffman,Houston,SO,3,6,4.67,15,14,0,0,0,79,84,52,41,19,55,12,0.268
+Raymond Ladd,Radford,SO,3,1,4.68,15,15,0,0,0,59.2,62,41,31,20,57,8,0.263
+Henry Zatkowski,Virginia,SO,8,2,4.68,18,12,0,0,0,84.2,76,52,44,25,96,10,0.237
+Andrew Herrmann,Louisiana,GR,7,5,4.69,20,18,4,1,0,109.1,92,63,57,36,116,20,0.229
+Karsten Sweum,Gonzaga,SO,8,2,4.69,15,15,1,1,0,78.2,69,45,41,36,110,7,0.23
+Tanner Graham,Evansville,FR,2,6,4.69,16,10,0,0,3,63.1,69,36,33,25,51,14,0.271
+Tyler Fay,Alabama,JR,10,4,4.7,16,16,1,1,0,95.2,83,51,50,21,112,14,0.232
+Jake Drumm,George Mason,SO,4,3,4.71,17,11,0,0,1,70.2,82,40,37,15,68,4,0.292
+Alec Couture,Monmouth,GR,6,3,4.72,15,14,1,0,0,80,95,55,42,21,63,5,0.298
+Tyler Mudd,Boston College,GR,5,4,4.72,17,14,0,0,1,66.2,74,38,35,21,47,6,0.276
+Luke Earnhardt,Winthrop,JR,5,3,4.72,14,14,0,0,0,66.2,59,42,35,37,79,9,0.238
+Zane Brown,Belmont,JR,4,3,4.72,19,5,0,0,1,55,52,33,29,17,39,6,0.244
+Talmadge Davis,Jackson State,SO,2,2,4.72,21,10,2,0,0,53.1,36,39,28,31,72,24,0.193
+Cooper Cavanaugh,Davidson,JR,4,3,4.73,13,13,0,0,0,59,42,32,31,40,72,8,0.199
+Noah Kenney,Washington,JR,4,7,4.74,15,14,0,0,0,81.2,74,48,43,37,90,8,0.238
+Matthew O'Brien,UC Riverside,SR,3,7,4.75,14,14,1,0,0,77.2,86,51,41,32,40,8,0.28
+James Hays,Stetson,JR,3,5,4.75,15,13,0,0,0,72,78,43,38,23,77,8,0.272
+Matthew Kouser,Northwestern,SO,2,5,4.75,15,12,0,0,0,66.1,68,48,35,38,44,7,0.271
+Jackson Thomas,Washington,GR,3,4,4.76,14,11,0,0,0,58.2,64,37,31,18,51,8,0.274
+Justin Feld,Gonzaga,SR,8,2,4.77,16,11,0,0,1,66,62,37,35,31,62,10,0.249
+Joseph Lee,Samford,SR,4,2,4.77,16,15,1,1,0,71.2,60,42,38,27,72,9,0.227
+Max McCrary,Mount St. Mary&#8217;s,SR,5,3,4.78,27,0,0,0,1,52.2,42,28,28,19,54,8,0.222
+Ashton Chronister,Xavier,JR,3,3,4.79,17,13,0,0,0,67.2,75,38,36,18,41,4,0.286
+Kenney Fabian,Arkansas-Pine Bluff,SR,5,6,4.79,17,15,2,0,0,88.1,85,62,47,29,57,19,0.253
+Chase Frey,Grand Canyon,JR,2,7,4.79,13,12,1,1,0,67.2,60,40,36,17,69,12,0.227
+Sam Carlisle,Western Michigan,JR,4,5,4.8,15,14,0,0,0,60,60,34,32,32,67,6,0.258
+Nathan Ries,UC San Diego,SO,3,3,4.81,18,6,1,1,0,58,62,33,31,20,45,3,0.274
+Brady Hoar,Bucknell,FR,7,3,4.81,14,14,0,0,0,73,65,44,39,26,49,8,0.243
+Dylan Banner,Albany,SR,2,6,4.83,14,14,3,0,0,85.2,100,59,46,21,69,8,0.276
+Jacob Price,Eastern Kentucky,JR,6,3,4.83,15,14,0,0,0,85.2,88,53,46,23,67,6,0.263
+Andrew Cutler,George Washington,JR,5,1,4.83,11,11,0,0,0,59.2,58,33,32,17,54,8,0.254
+Ty Roman,Louisiana,JR,4,4,4.83,22,17,0,0,1,85.2,82,48,46,37,89,17,0.254
+Owen Marsolek,St. Thomas,FR,6,3,4.83,13,13,1,0,0,76.1,74,43,41,30,82,12,0.251
+Blake Lobell,Southeastern Louisiana,SR,4,2,4.84,14,14,3,1,0,74.1,79,45,40,25,57,6,0.272
+Nick Hunkele,Merrimack,SO,2,4,4.85,15,11,0,0,1,66.1,63,29,36,23,59,11,0.248
+Logan Knight,Cincinnati,SR,4,4,4.85,16,14,0,0,0,68.2,70,41,37,18,63,2,0.255
+AJ Ciscar,Miami,SO,5,4,4.85,16,15,0,0,0,81.2,98,58,44,12,76,15,0.291
+Tyler Lutz,James Madison,FR,4,5,4.85,16,11,0,0,0,65,77,34,35,14,45,6,0.297
+Tyrell Williams,Presbyterian,JR,2,3,4.86,17,12,0,0,0,70.1,74,48,38,30,51,6,0.27
+Kyle Batt,Rider,SO,4,5,4.86,16,15,0,0,0,74,86,47,40,37,35,15,0.303
+Lincoln Sheffield,Kansas State,SR,8,4,4.87,16,15,2,0,0,88.2,101,56,48,20,79,7,0.285
+Aric Ehmke,Milwaukee,SR,6,6,4.88,15,14,0,0,0,75.2,82,53,41,23,49,14,0.283
+Vaun Larisa,Maine,SR,4,4,4.88,14,12,0,0,0,66.1,69,42,36,30,41,3,0.264
+Dawson Richard,Nicholls,JR,3,2,4.88,13,9,0,0,0,48,45,34,26,29,41,7,0.251
+Aidan Paul,High Point,JR,5,3,4.88,15,15,1,0,0,72,71,46,39,30,51,6,0.256
+Carter Monke,Michigan State,GR,4,5,4.89,15,15,0,0,0,73.2,88,44,40,15,51,8,0.296
+Brendan Callanan,Iona,JR,2,4,4.9,14,14,0,0,0,64.1,73,42,35,34,36,6,0.297
+Jacob Gutierrez,CSU Bakersfield,SR,5,3,4.91,20,0,0,0,4,58.2,63,35,32,19,55,9,0.281
+Mathis Nayral,Kansas,JR,4,3,4.92,17,17,0,0,0,67.2,68,44,37,28,70,6,0.256
+Alfred Mucciarone,UMass Lowell,JR,3,5,4.93,14,14,2,1,0,76.2,90,47,42,19,47,9,0.294
+Trevor Hansen,UC Irvine,JR,7,4,4.94,14,14,0,0,0,78.1,76,53,43,28,96,9,0.252
+Nate Bennett,Niagara,SO,4,1,4.94,12,8,0,0,2,51,55,33,28,19,59,4,0.275
+Colby Putnam,Gardner-Webb,FR,5,2,4.94,17,1,0,0,0,58.1,58,38,32,24,40,9,0.262
+Connor Fennell,Vanderbilt,JR,4,2,4.96,15,15,0,0,0,85.1,84,49,47,20,102,8,0.258
+Joseph Steventon,Wagner,SO,6,5,4.96,15,12,1,0,0,78,76,49,43,28,55,18,0.252
+Evan Chaffee,St. John&#8217;s,JR,7,4,4.96,16,16,0,0,0,81.2,88,49,45,32,83,10,0.276
+Luke Teschke,Illinois State,FR,4,3,4.96,16,14,0,0,0,61.2,47,39,34,40,50,4,0.21
+Bryce Blevins,Marshall,SR,8,5,4.97,15,15,2,0,0,105,121,62,58,19,86,6,0.288
+Nuno Parache,Nicholls,SR,1,5,4.97,10,10,0,0,0,50.2,49,35,28,18,44,4,0.24
+Cody Airington,Austin Peay,JR,4,3,4.97,14,14,0,0,0,63.1,62,37,35,23,47,11,0.258
+Jaron Bleeker,Iowa,SO,7,5,4.97,17,5,0,0,0,63.1,73,40,35,18,55,10,0.29
+Nate Isler,Dartmouth,JR,1,6,4.98,11,11,0,0,0,65,68,39,36,25,80,5,0.265
+Jacob Hustedde,Murray State,JR,3,4,4.98,15,15,0,0,0,65,59,39,36,26,58,9,0.238
+Maddox Meyer,Omaha,SO,5,5,4.98,14,13,0,0,0,68.2,88,48,38,9,58,2,0.306
+Ross Felder,Missouri State,FR,3,2,4.98,22,5,0,0,0,56,72,36,31,8,54,3,0.308
+Gauge Lockhart,San Francisco,GR,4,3,4.99,16,15,0,0,0,70.1,58,42,39,37,51,12,0.228
+Ryan Douglas,Stonehill,GR,5,4,4.99,13,13,1,0,0,70.1,84,47,39,17,43,1,0.3
+Blake Gaskey,Northern Illinois,SR,7,2,4.99,28,2,0,0,3,70.1,79,42,39,20,46,10,0.293
+Brigden Parker,Little Rock,SR,4,3,4.99,16,16,0,0,0,74,71,44,41,33,60,6,0.259
+Tyler Ray,Utah Tech,SR,5,5,4.99,16,12,0,0,0,70.1,64,44,39,26,57,1,0.24
+Lazaro Collera,Miami,SO,4,3,4.99,21,13,0,0,0,70.1,66,43,39,31,70,9,0.245
+Adam Merritt,Massachusetts,SO,3,3,4.99,13,9,0,0,0,57.2,45,36,32,30,53,8,0.216
+Dakoda West,Utah Tech,SR,5,4,5.01,14,14,0,0,0,73.2,91,46,41,26,66,8,0.303
+Michael Caruso,Georgia State,JR,7,6,5.01,20,7,0,0,1,69.1,58,36,39,27,67,7,0.223
+Cason Sharp,Tennessee-Martin,JR,4,5,5.02,15,10,2,0,0,66.1,87,48,37,22,37,9,0.311
+Evan Lichtenauer,Ohio,FR,2,4,5.02,16,10,0,0,0,61,72,40,34,12,17,5,0.286
+Ethan Blakeney,Norfolk State,JR,5,5,5.03,14,10,0,0,0,68,64,44,38,35,73,10,0.254
+Luc Fladda,Arizona,SR,3,2,5.04,15,13,0,0,0,75,85,45,42,8,63,2,0.285
+Luke Howe,Long Beach State,FR,5,4,5.04,14,14,0,0,0,85.2,99,51,48,21,67,8,0.292
+Adam Brodnax,UL Monroe,FR,2,4,5.04,13,11,0,0,0,61.2,76,38,35,19,60,12,0.293
+LJ Mercurius,Oklahoma,JR,6,7,5.05,17,12,1,0,2,67.2,64,43,38,24,89,10,0.245
+Benjamin Stubbs,Troy,SR,5,3,5.06,17,16,0,0,0,85.1,90,52,48,37,78,5,0.268
+Gavin Lyons,Texas A&#038;M,SO,9,0,5.06,29,3,0,0,0,69.1,77,42,39,19,56,8,0.276
+Adam Guazzo,Valparaiso,JR,2,7,5.07,20,15,0,0,0,60.1,63,36,34,20,43,9,0.275
+Trey Ates,Army,SR,5,1,5.07,13,11,1,0,0,60.1,42,39,34,35,42,18,0.195
+Riley Marcotte,New Orleans,JR,2,6,5.08,14,9,0,0,0,62,70,42,35,31,42,7,0.292
+Ryan King,CSU Bakersfield,SO,4,6,5.09,13,13,0,0,0,63.2,69,42,36,36,56,8,0.283
+Jake Lenahan,Holy Cross,SO,3,7,5.1,19,5,0,0,2,65.1,62,44,37,25,67,5,0.246
+Nate Vargo,Mercyhurst,SO,3,3,5.11,15,10,2,1,0,68.2,77,44,39,24,46,5,0.274
+Brandon Stone,South Carolina,JR,5,5,5.11,17,10,0,0,0,68.2,86,45,39,19,59,7,0.308
+Duke Stone,Mississippi State,SO,7,3,5.11,17,15,0,0,0,74,83,46,42,26,102,9,0.282
+David Case,Memphis,GR,6,8,5.12,15,15,0,0,0,82.2,85,60,47,36,68,5,0.268
+Lex Kenny,West Georgia,SR,4,6,5.12,15,11,0,0,0,77.1,85,49,44,24,59,7,0.276
+Kenyon Collins,Marshall,SO,2,6,5.12,15,14,0,0,0,72,74,51,41,30,72,13,0.271
+Gavin Theis,Milwaukee,GR,1,3,5.13,14,14,0,0,0,73.2,77,50,42,31,58,11,0.263
+Wade Cooper,Texas State,FR,7,3,5.13,23,6,1,0,5,66.2,65,44,38,25,73,7,0.256
+Jorhan LaBoy,Alabama State,JR,9,6,5.14,18,17,0,0,0,89.1,107,59,51,25,67,12,0.298
+Harrison Thayer,UT Rio Grande Valley,SO,6,4,5.16,15,8,0,0,0,61,57,36,35,25,47,3,0.247
+Harrison Dubois,Western Illinois,GR,2,3,5.17,25,2,0,0,0,54,63,36,31,20,46,8,0.296
+Zac Sohosky,Miami (OH),SR,8,1,5.17,16,15,0,0,0,78.1,89,60,45,30,73,4,0.281
+Hunter Elliott,Ole Miss,SR,5,3,5.21,15,15,0,0,0,76,73,47,44,38,100,14,0.253
+Trey Newmann,Portland,JR,2,6,5.21,17,12,0,0,2,67.1,80,46,39,18,74,6,0.29
+Cole Selvig,Minnesota,JR,5,4,5.21,14,14,0,0,0,67.1,70,42,39,23,58,6,0.275
+Sawyer Pruitt,Louisiana,FR,7,5,5.21,25,10,0,0,1,74.1,76,45,43,33,83,7,0.264
+Conner Griffin,Binghamton,JR,3,4,5.22,15,15,0,0,0,60.1,46,37,35,44,65,10,0.215
+Huxley Holcombe,Cornell,JR,1,7,5.22,11,11,0,0,0,50,46,35,29,26,45,10,0.247
+Mateo Gray,UCF,SO,5,2,5.22,17,9,0,0,1,58.2,69,38,34,17,48,12,0.299
+Nolan Sliver,Kennesaw State,SR,0,2,5.23,16,13,0,0,0,62,77,37,36,26,50,8,0.306
+Steele Murdock,UC San Diego,SO,4,3,5.23,15,15,1,0,0,74,70,53,43,45,104,13,0.238
+Edwin Alicea,South Florida,JR,6,5,5.23,19,10,0,0,1,72.1,71,50,42,28,60,16,0.253
+Carter Harrington,College of Charleston,FR,3,5,5.23,15,14,0,0,0,63.2,78,53,37,27,49,11,0.304
+Tyler Conklin,Eastern Illinois,GR,9,3,5.24,16,15,1,0,0,91,90,61,53,47,46,3,0.258
+Jaxon Lucas,Liberty,JR,3,2,5.24,20,15,0,0,0,67,72,40,39,27,48,4,0.278
+DJ Merriweather,Austin Peay,JR,4,2,5.25,14,8,0,0,0,60,56,39,35,39,67,4,0.248
+Brendan Garza,Ball State,SO,4,6,5.25,15,15,2,2,0,84,96,57,49,32,74,10,0.29
+Max Hilsenroth,New Haven,FR,1,5,5.25,13,10,1,0,0,60,71,44,35,26,45,11,0.3
+Connor Blue,Cincinnati,FR,4,2,5.25,17,11,0,0,0,61.2,63,42,36,23,45,8,0.267
+Brian Strange,Elon,GR,3,3,5.26,14,14,0,0,0,75.1,78,59,44,31,74,7,0.265
+Brayden Gilley,Winthrop,JR,7,6,5.27,15,15,0,0,0,80.1,92,52,47,24,64,11,0.288
+Duke McCarron,Saint Joseph&#8217;s,JR,4,3,5.27,15,15,0,0,0,70,67,48,41,38,67,17,0.258
+Thomas Santana,Columbia,SR,5,5,5.28,12,12,0,0,0,59.2,62,41,35,29,51,16,0.27
+Chris Torres,USC Upstate,JR,5,4,5.28,18,16,0,0,0,76.2,86,60,45,32,71,7,0.284
+Tanner Foertsch,Omaha,SO,3,5,5.29,14,13,0,0,0,64.2,78,42,38,24,55,4,0.298
+Ethan Calder,Baylor,SR,5,5,5.31,15,14,0,0,0,76.1,93,53,45,18,63,5,0.302
+Oliver Ellison,Gardner-Webb,JR,5,7,5.31,13,13,2,1,0,79.2,109,55,47,27,63,7,0.333
+Cooper Corkrean,New Mexico,JR,6,2,5.31,21,2,0,0,4,59.1,61,39,35,24,59,6,0.271
+Ryan Weller,Southern Indiana,JR,4,5,5.32,15,15,0,0,0,71,73,51,42,40,55,13,0.264
+Easton Tumis,Kent State,SO,6,3,5.33,15,15,0,0,0,74.1,77,49,44,19,54,21,0.265
+Sawyer Jensen,Dayton,SO,8,2,5.33,14,14,1,0,0,74.1,75,50,44,23,61,17,0.262
+Owen MacDonnell,La Salle,GR,3,5,5.34,14,9,0,0,0,64,65,50,38,38,63,18,0.271
+Andrew Heffernan,Bowling Green,JR,2,6,5.34,13,9,0,0,0,55.2,66,37,33,12,35,8,0.297
+Danny Cihocki,Northern Illinois,JR,7,3,5.34,17,15,0,0,0,92.2,90,55,55,34,80,7,0.254
+Ethan Lund,Oklahoma State,SO,5,3,5.34,17,16,1,0,0,84.1,66,52,50,53,137,2,0.212
+Brett Lanman,Abilene Christian,JR,1,6,5.35,15,15,0,0,0,70.2,68,45,42,31,76,5,0.248
+Cole Roberts,Georgia State,SR,2,3,5.37,14,14,1,0,0,68.2,62,44,41,23,59,10,0.24
+Gage Wheaton,Niagara,JR,2,5,5.37,15,15,0,0,0,63.2,67,44,38,48,47,5,0.273
+Drew Harlow,Marshall,GR,4,5,5.38,14,14,0,0,0,80.1,88,55,48,33,72,10,0.282
+Gabriel Hernandez,Cal State Northridge,SO,4,4,5.38,15,14,0,0,0,73.2,89,48,44,15,46,7,0.301
+Chase Hanawalt,Fordham,SO,3,6,5.38,14,14,1,0,0,80.1,75,50,48,23,81,5,0.248
+Jacob Sitton,Tennessee-Martin,SR,5,6,5.4,15,14,2,0,0,81.2,84,57,49,44,68,6,0.263
+Parker Hampton,Norfolk State,JR,4,3,5.4,14,13,1,1,0,70,87,47,42,26,46,2,0.306
+Beau Elson,Fordham,SO,6,4,5.4,13,13,0,0,0,68.1,80,49,41,19,60,5,0.288
+Brayton Thomas,Indiana,SO,1,5,5.4,14,14,0,0,0,55,45,33,33,36,55,21,0.22
+Travis Farrell,Seattle,SR,2,8,5.42,13,12,1,0,0,73,93,49,44,20,65,5,0.315
+Elijah Griffith,Akron,JR,3,4,5.42,14,14,0,0,0,74.2,77,56,45,24,50,13,0.265
+Luke Parise,Saint Joseph&#8217;s,JR,6,2,5.43,15,14,0,0,1,64.2,72,43,39,21,58,15,0.277
+Jesus Tovar,Texas State,JR,9,4,5.43,18,13,0,0,1,71.1,66,46,43,35,69,17,0.259
+Carter Cox,Northern Illinois,SO,6,5,5.44,18,16,0,0,1,82.2,92,57,50,31,89,18,0.277
+Weston Moss,Texas A&#038;M,JR,5,2,5.46,15,14,0,0,0,64.1,65,41,39,21,69,5,0.264
+Austin Klug,Purdue,SR,5,3,5.46,18,12,0,0,0,56,60,39,34,27,36,4,0.268
+Jonah Walker,North Dakota State,SR,3,5,5.47,12,12,0,0,0,52.2,55,36,32,30,40,6,0.266
+Mason Blasche,Samford,SO,3,7,5.47,15,15,0,0,0,74,89,53,45,20,62,6,0.294
+Brandon Bak,Illinois-Chicago,SR,5,4,5.48,16,16,1,1,0,88.2,104,57,54,27,71,3,0.293
+Zack Konstantinovsky,Rutgers,SO,4,5,5.48,15,15,0,0,0,70.2,80,46,43,21,83,5,0.293
+Nicholas Robb,Grand Canyon,JR,6,2,5.5,16,3,0,0,1,52.1,56,32,32,17,45,3,0.276
+Logan Hastings,Maryland,SO,5,4,5.52,17,6,1,0,3,62,56,45,38,30,71,11,0.239
+Jack Ohman,Yale,SO,5,3,5.53,13,12,0,0,1,66.2,67,43,41,30,90,8,0.255
+Myles Dismute,Southern,JR,7,3,5.53,18,8,0,0,2,68.1,87,52,42,33,66,4,0.306
+Kendall Lyons,Illinois-Chicago,SR,3,1,5.55,18,12,0,0,0,58.1,65,42,36,32,40,12,0.289
+Chris Domke,Ohio State,SO,6,6,5.55,14,13,2,0,0,73,76,49,45,21,59,7,0.269
+Titus Von Kapff,Charleston Southern,JR,7,4,5.55,14,14,2,1,0,82.2,90,55,51,40,56,12,0.281
+James Guyette,Kansas State,JR,6,4,5.56,16,15,1,0,0,79.1,90,62,49,35,105,20,0.282
+James Fordham,Western Carolina,JR,5,4,5.57,18,10,0,0,0,63,62,41,39,34,48,6,0.27
+Ryan McLaughlin,Delaware,JR,2,5,5.58,17,8,0,0,2,59.2,71,46,37,22,42,13,0.297
+Ryan Parker,Sacred Heart,GR,4,4,5.6,14,14,1,0,0,80.1,94,62,50,38,52,10,0.288
+Jaxson Pease,Tennessee Tech,SR,5,7,5.6,16,10,0,0,1,72.1,101,49,45,17,49,2,0.334
+Josh Willitts,New Jersey Tech,GR,1,8,5.61,14,13,0,0,0,69,80,50,43,34,55,8,0.296
+Reece Wagner,Northern Colorado,JR,5,3,5.61,16,15,0,0,0,78.2,72,53,49,58,69,18,0.247
+Matt Gallant,Charleston Southern,SO,6,0,5.62,13,13,0,0,0,57.2,75,42,36,14,40,4,0.315
+John Carmichael,Eastern Michigan,JR,3,6,5.62,15,14,0,0,1,72,89,51,45,20,65,10,0.303
+Cooper Golden,McNeese,SR,2,5,5.62,15,15,0,0,0,72,85,47,45,30,61,14,0.3
+Nicholas Finarelli,Long Island,JR,9,3,5.62,15,15,1,0,0,89.2,92,58,56,40,93,14,0.265
+Daniel Cohen,Yale,SR,5,3,5.64,14,12,2,1,0,59,66,42,37,22,31,2,0.286
+Owen Winebarger,Elon,SO,4,4,5.64,14,11,0,0,0,67,76,47,42,17,40,3,0.296
+Declan Wywoda,George Washington,SO,2,4,5.64,15,14,0,0,0,67,77,46,42,20,38,6,0.293
+Tommy Egan,Troy,SR,5,5,5.65,18,16,1,0,1,79.2,86,58,50,30,91,15,0.275
+Brent Stukes,USC Upstate,JR,8,3,5.65,16,16,0,0,0,78,86,52,49,39,56,12,0.279
+Drew Lafferty,Pittsburgh,JR,5,4,5.66,16,15,0,0,0,70,91,49,44,23,44,14,0.319
+Josh Torres,UC Riverside,JR,1,5,5.66,14,9,1,0,0,62,74,48,39,34,35,11,0.297
+Ryland Morin,Arkansas-Pine Bluff,JR,4,4,5.66,17,16,1,1,0,68.1,69,49,43,22,50,23,0.266
+Alexander Llinas,Lipscomb,SR,6,5,5.67,16,16,0,0,0,81,81,53,51,34,64,12,0.263
+Garrett Workman,Florida A&#038;M,SO,6,5,5.68,14,14,0,0,0,63.2,73,48,40,24,54,12,0.282
+Brady Pendley,Georgia Southern,SR,6,5,5.69,20,1,0,0,1,61.2,79,44,39,24,62,7,0.317
+Brady Hoover,Longwood,FR,5,5,5.71,17,11,0,0,1,64.2,77,49,41,14,42,10,0.295
+Andrew Abler,Harvard,JR,2,5,5.72,11,10,0,0,0,56.2,66,39,36,17,37,6,0.287
+Brady Hamilton,Wichita State,JR,4,8,5.72,18,11,0,0,0,74,97,56,47,27,67,7,0.323
+Luca Alagheband,Harvard,SO,1,4,5.72,12,10,0,0,1,45.2,39,35,29,19,43,16,0.225
+Diego Cardenas,George Mason,GR,5,5,5.73,17,10,0,0,3,66,67,48,42,26,43,7,0.258
+Bobby Spencer,Southern,SR,8,3,5.74,14,14,0,0,0,78.1,87,51,50,36,75,,
+Zack Wallace,Baylor,SO,5,5,5.74,17,12,0,0,0,64.1,78,43,41,15,45,5,0.304
+Jason Gerfers,Long Beach State,FR,4,8,5.75,15,14,2,0,0,76.2,74,58,49,42,74,19,0.257
+Max Kaplan,USC Upstate,SO,5,5,5.78,20,12,1,0,2,71.2,76,50,46,20,64,14,0.28
+Dawson Montesa,West Virginia,JR,5,5,5.78,18,14,0,0,1,71.2,64,49,46,40,85,8,0.236
+Tristan Helmick,Lafayette,JR,3,6,5.78,11,11,0,0,0,62.1,73,45,40,19,62,15,0.291
+Russ Smith,Dallas Baptist,SO,5,4,5.78,20,7,0,0,2,62.1,61,42,40,35,61,10,0.263
+Kale Hammer,Seattle,SO,2,4,5.79,13,13,0,0,0,70,78,50,45,20,61,4,0.279
+EJ Miramontes,Northern Kentucky,GR,4,5,5.79,14,14,1,0,0,60.2,58,46,39,25,49,5,0.249
+John Delgado,Dayton,JR,2,5,5.79,16,12,1,1,1,60.2,56,44,39,34,72,6,0.246
+Ethan Eberle,Louisville,SO,3,4,5.79,15,13,0,0,0,65.1,87,48,42,30,72,12,0.312
+John Chambers,Ball State,SR,6,5,5.8,16,7,0,0,0,71.1,76,52,46,29,69,7,0.272
+Jose Luccioni,Texas Southern,SO,3,0,5.81,13,10,0,0,1,47,63,31,30,28,35,9,0.33
+Trey Power,Alabama State,SO,6,3,5.82,22,9,0,0,4,60.1,62,40,39,29,40,10,0.264
+Jason Schaaf,Missouri State,SR,4,3,5.84,19,14,1,1,0,69.1,99,55,45,21,67,3,0.326
+Aidan Coleman,Abilene Christian,JR,7,3,5.84,15,15,0,0,0,77,88,59,50,18,50,7,0.286
+Jack Messmore,Youngstown State,SR,2,6,5.85,14,14,0,0,0,72.1,81,50,47,30,46,4,0.285
+Dominic Voegele,Kansas,JR,6,3,5.85,16,16,1,0,0,92.1,94,61,60,34,117,6,0.257
+Mario Pesca,Oklahoma State,SR,7,5,5.86,19,10,1,0,2,70.2,78,47,46,31,80,13,0.28
+Cooper Katskee,Nebraska,JR,6,2,5.86,18,10,0,0,2,63,58,48,41,24,65,5,0.241
+Tate Jones,New Jersey Tech,SO,3,2,5.86,16,8,0,0,1,50.2,67,42,33,11,33,9,0.315
+Sam Schlecht,South Dakota State,SR,4,5,5.88,15,15,0,0,0,75,89,56,49,21,73,10,0.293
+Chandler Alderman,Middle Tennessee,JR,2,5,5.89,15,15,0,0,0,65.2,81,57,43,25,43,10,0.306
+Chase Carson,Charlotte,GR,2,4,5.9,28,1,0,0,1,61,76,47,40,23,51,5,0.298
+Brayden Olson,St. Thomas,JR,1,7,5.91,15,14,0,0,0,74.2,89,60,49,39,71,14,0.291
+Justin Roitman,Wagner,SR,7,1,5.92,14,12,0,0,0,54.1,64,34,36,48,61,6,0.283
+Ryan Mealy,Monmouth,SO,5,5,5.92,14,14,0,0,0,76,100,54,50,24,59,3,0.326
+Joe Sabbath,Rhode Island,JR,4,5,5.93,16,9,0,0,3,57.2,60,47,38,26,58,14,0.263
+Sergio Lopez,UT Rio Grande Valley,GR,2,4,5.93,14,12,0,0,0,60.2,74,45,40,19,71,3,0.301
+Casan Evans,LSU,SO,2,4,5.93,13,12,0,0,0,60.2,54,43,40,31,89,6,0.231
+Hayden Lewis,Washington,SR,6,5,5.94,16,12,0,0,0,69.2,74,51,46,26,59,6,0.277
+Derek Arrocha,Jackson State,JR,7,6,5.94,19,11,1,0,1,83.1,101,63,55,36,83,9,0.301
+Nick Baffa,Valparaiso,SO,3,5,5.95,15,14,0,0,0,62,83,55,41,28,48,3,0.327
+Cole Van Assen,Purdue,JR,6,5,5.96,15,15,0,0,0,80,104,62,53,17,65,9,0.309
+Drake Frize,San Diego,GR,3,5,5.98,17,7,0,0,1,52.2,50,35,35,22,42,12,0.254
+Brock Lucas,Missouri State,SR,6,6,5.98,19,9,0,0,2,64.2,68,49,43,37,56,4,0.271
+Haden Luke,Nicholls,SR,6,3,5.98,12,12,0,0,0,52.2,53,36,35,32,69,5,0.262
+Jesus Campa,Florida A&#038;M,GR,3,2,5.98,14,13,0,0,0,55.2,60,45,37,29,33,8,0.264
+Liam Kinneen,Princeton,SO,2,4,5.98,11,11,0,0,0,58.2,56,45,39,32,42,17,0.26
+Max Haug,George Washington,SR,2,6,5.99,14,14,0,0,0,73.2,87,56,49,36,65,17,0.3
+Matthew Delvaux,Mercyhurst,JR,5,5,5.99,13,13,2,1,0,70.2,73,49,47,31,50,11,0.265
+Wyatt Danilowicz,Louisville,SR,4,3,6,14,14,0,0,0,69,72,50,46,32,84,9,0.268
+Owen Phypers,Navy,FR,5,4,6,11,10,0,0,0,54,59,38,36,18,52,6,0.282
+Drew Talavs,San Diego State,JR,5,4,6.01,16,15,0,0,0,67.1,68,50,45,30,67,7,0.26
+Tanner Boccabello,Bethune-Cookman,GR,6,0,6.01,15,15,0,0,0,67.1,88,53,45,23,53,9,0.324
+Clayton Poliey,Rider,SR,3,2,6.03,17,14,1,0,0,59.2,66,46,40,31,39,4,0.287
+Regan Hall,Illinois,JR,7,6,6.03,15,15,0,0,0,77.2,101,59,52,19,75,8,0.314
+Jack Kelley,Villanova,GR,2,7,6.05,14,14,0,0,0,64,60,48,43,31,56,5,0.242
+Cooper McMullen,Kennesaw State,SO,2,4,6.05,16,13,0,0,0,58,73,43,39,31,32,3,0.308
+Thomas Harper,Illinois State,SR,4,5,6.1,19,10,0,0,0,59,64,43,40,27,51,17,0.283
+Tripp Patterson,North Alabama,SO,7,4,6.1,15,15,0,0,0,82.2,103,63,56,25,49,7,0.307
+Jackson Gowan,Queens (NC),JR,1,7,6.11,15,12,0,0,0,66.1,74,48,45,32,40,10,0.288
+Niccolas Gregson,UC San Diego,GR,1,7,6.12,15,14,0,0,0,72,101,57,49,16,60,8,0.333
+Jake Storey,Northern Colorado,SR,2,7,6.12,16,14,0,0,1,67.2,81,56,46,30,58,7,0.293
+Owen Kramkowski,Arizona,JR,1,8,6.12,14,14,0,0,0,72,98,59,49,15,75,5,0.325
+Payton Riske,Utah,JR,4,4,6.15,14,14,0,0,0,60,72,42,41,18,42,6,0.291
+Drew Turner,UNC Asheville,FR,4,8,6.15,16,11,1,0,2,79,85,64,54,38,83,10,0.283
+Griffin Smith,Washington State,SR,5,5,6.16,16,15,0,0,0,76,85,57,52,21,50,6,0.284
+Miguel Hugas,Mercer,JR,9,2,6.17,16,15,0,0,0,77.1,86,58,53,24,52,21,0.286
+Gianni Gambardella,Maine,SR,5,4,6.18,14,13,0,0,0,67,75,52,46,32,32,2,0.274
+Micah Hagler,Seattle,JR,3,6,6.21,13,13,0,0,0,66.2,82,57,46,28,38,5,0.308
+Carter Casabella,Tennessee Tech,SO,2,6,6.22,16,9,1,0,0,68,85,62,47,23,46,8,0.305
+Jackson Lee,Lipscomb,FR,4,3,6.23,17,3,0,0,3,56.1,67,41,39,35,50,6,0.295
+Matt Stuart,Gardner-Webb,FR,4,3,6.23,15,13,1,1,0,60.2,79,49,42,26,30,6,0.322
+Jayden Lopez,Jackson State,SR,4,4,6.24,14,13,1,0,0,79.1,73,60,55,46,87,9,0.244
+Max Tripure,Western Illinois,SR,4,6,6.24,14,14,0,0,0,75,82,53,52,32,60,6,0.28
+Lucas Davenport,Baylor,JR,5,4,6.25,13,13,1,0,0,63.1,75,45,44,16,69,7,0.295
+Kevin Reed,Evansville,JR,6,6,6.27,15,7,0,0,1,60.1,71,45,42,29,40,8,0.301
+Maxwell Schumacher,Tennessee-Martin,SR,3,4,6.27,14,14,0,0,0,70.1,101,66,49,21,48,10,0.332
+Caleb Anderson,Long Beach State,GR,3,5,6.28,21,5,0,0,0,53,55,39,37,19,63,10,0.262
+Nolan Geisler,UMass Lowell,SO,4,2,6.28,21,4,0,0,1,53,71,40,37,14,35,5,0.327
+Connor Davis,Morehead State,FR,3,2,6.28,14,14,0,0,0,57.1,67,45,40,30,24,9,0.302
+Aidan Dowd,Fordham,JR,3,4,6.29,17,13,0,0,0,63,72,48,44,25,33,16,0.294
+Lucas Boesen,UNC Asheville,SR,3,3,6.34,16,13,1,0,0,71,76,56,50,57,69,7,0.275
+Julian Mlodzinski,Florida International,SR,3,8,6.36,16,13,0,0,0,58,77,49,41,27,33,4,0.321
+J.D. Rodriguez,Tulane,SR,5,3,6.36,19,12,0,0,0,58,72,46,41,28,58,8,0.306
+David Leslie,Pittsburgh,GR,4,5,6.37,18,10,0,0,1,65,77,54,46,29,74,8,0.291
+Aidan Weaver,Duke,SR,4,9,6.37,14,14,0,0,0,65,66,47,46,36,87,8,0.259
+Chase Ingram,UAB,SR,2,4,6.37,24,9,0,0,4,70.2,91,55,50,16,50,3,0.305
+Ethan Wendel,Tarleton,JR,6,4,6.37,16,14,0,0,0,70.2,79,53,50,30,45,12,0.28
+Connor Wylde,New Mexico State,SR,4,2,6.37,16,8,0,0,1,53.2,60,43,38,35,32,16,0.296
+Cooper Smith,UNC Asheville,SR,4,3,6.37,15,13,3,1,1,70.2,80,57,50,18,48,6,0.281
+Cam Allen,Wright State,JR,5,3,6.38,15,15,0,0,0,66.1,68,49,47,30,60,9,0.267
+Gus McKay,Incarnate Word,SR,2,2,6.39,16,5,0,0,0,49.1,64,38,35,19,31,7,0.325
+Grayson Bradberry,Butler,FR,5,4,6.4,15,11,0,0,0,57.2,60,46,41,28,58,14,0.269
+Trent Hillen,Northwestern State,SR,2,3,6.41,11,11,0,0,0,59,65,43,42,16,60,7,0.284
+Ty Uber,Notre Dame,GR,4,3,6.42,16,13,0,0,0,54.2,59,45,39,24,50,5,0.274
+Brady Kehlenbrink,Missouri,SO,3,10,6.42,15,15,0,0,0,74.1,77,59,53,24,100,4,0.263
+Carter Burnette,Western Carolina,SO,2,9,6.44,15,15,2,1,0,81,85,63,58,30,76,11,0.28
+Eli DeRossi,Mount St. Mary&#8217;s,JR,2,4,6.45,12,12,0,0,0,53,59,44,38,30,50,7,0.272
+Jake Moss,Pennsylvania,SR,4,2,6.46,11,7,0,0,0,47.1,61,41,34,25,46,2,0.305
+Paul Schmitz,Houston,SR,2,6,6.46,14,14,0,0,0,61.1,67,47,44,30,55,6,0.286
+Ross Norman,Coastal Carolina,JR,6,7,6.46,16,16,1,1,0,78,96,58,56,18,65,11,0.302
+Richard De Jesus,UMES,FR,1,7,6.46,16,16,0,0,0,71,80,59,51,36,45,17,0.284
+Noah Chapman,UNC Greensboro,JR,4,6,6.47,15,15,1,0,0,80.2,92,61,58,34,82,14,0.289
+Luke Ridley,West Georgia,SR,3,2,6.48,12,12,0,0,0,58.1,68,45,42,44,54,7,0.288
+Jack Turner,New Mexico State,SR,4,7,6.48,14,7,0,0,1,58.1,70,49,42,33,61,8,0.298
+Nate Gray,BYU,JR,7,7,6.48,16,5,0,0,0,58.1,65,44,42,39,56,8,0.279
+Colin Fitzgerald,Penn State,SR,2,6,6.51,13,13,0,0,0,56.2,79,54,41,31,67,5,0.325
+Kenneth Haynes,Prairie View,JR,2,3,6.51,12,12,0,0,0,56.2,69,48,41,39,41,6,0.305
+Anthony Mateo,Alabama A&#038;M,JR,4,6,6.52,13,13,1,0,0,77.1,96,60,56,26,47,11,0.304
+Tyson Potts,Central Michigan,SR,2,5,6.52,15,12,0,0,0,58,76,47,42,24,44,12,0.319
+Aidan Brainard,Nevada,SR,5,4,6.53,15,10,0,0,1,62,81,50,45,39,68,10,0.32
+Alec Belardes,San Diego State,SO,3,3,6.55,15,13,0,0,0,67.1,76,49,49,35,66,12,0.297
+JT Guerrero,Grand Canyon,JR,3,5,6.55,13,12,0,0,0,67.1,86,52,49,26,53,12,0.314
+Justin DeCastro,Long Island,SR,7,5,6.56,15,15,4,1,0,82.1,112,64,60,29,37,17,0.32
+Ethan Hamill,Cornell,SR,1,4,6.56,12,11,0,0,1,48,45,36,35,25,36,12,0.256
+Alex Sotiropoulos,Columbia,SO,2,4,6.57,12,11,0,0,0,61.2,62,50,45,39,51,8,0.262
+Carson Byers,Miami (OH),SR,7,1,6.58,23,3,0,0,2,65.2,78,54,48,19,62,12,0.289
+Will Howell,Memphis,SO,6,6,6.59,15,15,0,0,0,69.2,77,53,51,37,52,10,0.286
+Diego Gutierrez,San Diego,GR,5,4,6.61,14,14,0,0,0,66.2,71,50,49,32,84,4,0.281
+Cristian Mogen,New Mexico,SO,1,2,6.61,14,14,0,0,0,66.2,87,56,49,30,65,6,0.316
+Bryan Matuschat,Sacred Heart,SO,5,7,6.61,13,13,0,0,0,80.1,114,67,59,20,41,2,0.325
+JC Dermody,UL Monroe,SR,5,6,6.63,13,13,2,0,0,58.1,75,45,43,27,51,11,0.314
+Ben Smith,Houston Christian,SR,4,4,6.64,13,9,1,0,0,61,75,50,45,23,54,3,0.307
+Mason Christopher,Seton Hall,SO,4,6,6.66,14,11,0,0,0,50,59,34,37,21,45,4,0.285
+Dillon Kirksey,Coppin State,JR,3,7,6.69,15,14,0,0,0,72.2,94,84,54,32,58,12,0.303
+Eric Rawlings,Western Illinois,SR,2,5,6.71,28,0,0,0,2,52.1,65,41,39,29,54,9,0.305
+Zach Vriesenga,Western Michigan,JR,2,6,6.75,17,12,0,0,0,68,80,63,51,45,61,10,0.285
+Jake Cullen,Rhode Island,SO,3,5,6.75,19,11,0,0,1,60,54,52,45,41,61,15,0.236
+Garrison Sumner,BYU,SR,4,3,6.78,15,10,0,0,0,66.1,74,51,50,28,85,7,0.284
+Owen Slater,Missouri State,SO,4,3,6.79,16,12,0,0,0,58.1,72,48,44,34,40,16,0.309
+Colter McAnelly,Utah,JR,3,7,6.82,13,13,0,0,0,67.1,71,55,51,31,70,3,0.267
+Davis Kahn,Harvard,FR,1,1,6.86,13,3,0,0,0,40.2,58,34,31,13,23,4,0.324
+Keyon Guillory,Grambling,JR,3,5,6.88,16,16,1,0,0,69.1,83,63,53,46,56,7,0.297
+Luke Richard,Mississippi Valley State,SO,3,7,6.88,16,10,0,0,0,69.1,109,71,53,31,48,6,0.353
+Christian Charalambous,Presbyterian,SO,2,6,6.89,14,14,1,1,0,64,79,54,49,24,50,9,0.307
+Cooper Consiglio,NC State,JR,3,5,6.9,16,11,0,0,3,60,64,56,46,29,71,7,0.27
+Nicco Holland,Coppin State,JR,4,5,6.9,14,10,0,0,0,58.2,66,57,45,35,51,10,0.275
+Jeremy Cheeseman,Fairleigh Dickinson,SR,4,4,7.01,14,14,0,0,0,68,92,58,53,30,45,9,0.331
+Ryan Borberg,Dallas Baptist,SR,1,1,7.02,15,15,0,0,0,59,71,52,46,23,45,11,0.296
+Shane Sdao,Texas A&#038;M,JR,4,4,7.03,17,13,0,0,0,71.2,98,59,56,20,83,7,0.318
+Riley Peterson,Milwaukee,JR,6,4,7.03,17,15,0,0,0,71.2,77,60,56,27,75,18,0.278
+Carter Samuelson,UAB,FR,5,3,7.05,20,11,0,0,0,60,74,55,47,39,37,10,0.312
+Eli Green,Northern Kentucky,SR,1,3,7.11,17,9,0,0,1,55.2,60,44,44,33,49,7,0.274
+Joe LoPinto,Canisius,JR,5,7,7.12,16,15,0,0,0,72,85,63,57,37,55,11,0.289
+Seth Garner,Memphis,SR,1,6,7.13,15,12,0,0,0,59.1,77,54,47,21,42,6,0.31
+Hunter Colagrande,Stony Brook,SO,1,4,7.14,14,14,0,0,0,58,78,52,46,21,62,11,0.32
+Reid Bertram,Gardner-Webb,SR,3,4,7.15,13,13,1,0,0,61.2,78,52,49,20,40,12,0.317
+Jacob Jette,UMass Lowell,SR,2,7,7.19,14,12,0,0,0,56.1,66,55,45,29,38,5,0.292
+Jake Francis,Villanova,JR,1,5,7.21,21,11,0,0,1,53.2,76,48,43,13,34,14,0.341
+Michael Lane,Delaware State,JR,4,9,7.24,14,14,1,0,0,73.1,91,71,59,31,88,7,0.301
+Jacob Hines,Central Connecticut,SO,2,7,7.27,12,12,1,0,0,52,57,50,42,39,37,12,0.278
+Trevor Esparza,Grambling,JR,4,3,7.28,18,8,0,0,0,55.2,77,54,45,29,54,9,0.321
+Justin Ritz,Coppin State,SR,1,3,7.3,26,2,1,0,4,49.1,60,46,40,17,40,16,0.294
+Tyler Hartley,Marist,JR,5,4,7.32,14,14,0,0,0,59,78,51,48,31,38,10,0.328
+Joshua Caravalho,Houston Christian,SR,2,5,7.34,15,8,0,0,0,57.2,66,52,47,28,52,5,0.281
+Wilson Perkins,Davidson,SR,1,4,7.34,15,15,0,0,0,72.1,110,62,59,22,50,6,0.355
+Ryan Weaver,Northwestern,GR,1,7,7.39,15,13,0,0,0,70.2,87,61,58,26,54,11,0.31
+Dutch DeProspero,Towson,SR,3,8,7.43,15,14,0,0,0,59.1,92,59,49,24,48,10,0.347
+Maverick Torres,West Georgia,SO,2,5,7.45,17,11,0,0,0,58,73,50,48,28,47,6,0.303
+Griffin Stieg,Virginia Tech,JR,2,5,7.46,16,15,0,0,0,66.1,86,56,55,33,52,9,0.321
+Trevor Landen,Northern Colorado,JR,0,7,7.46,17,7,0,0,1,56.2,66,49,47,36,37,6,0.297
+Elliot Eaton,Princeton,JR,2,6,7.5,14,6,0,0,1,48,52,43,40,23,37,17,0.281
+Shane McAlinden,CSU Bakersfield,JR,3,6,7.51,14,13,0,0,0,56.1,77,57,47,37,33,7,0.335
+Parker Dillhoff,UNLV,SR,4,5,7.53,15,15,1,0,0,69.1,80,66,58,43,94,7,0.288
+Jason Buhl,Western Illinois,GR,2,7,7.55,19,14,0,0,0,62,85,56,52,23,44,4,0.335
+Heath Andrews,NC State,JR,3,4,7.55,15,13,0,0,0,64.1,79,58,54,35,58,7,0.303
+Jase Phillips,SIU Edwardsville,JR,3,4,7.56,14,13,0,0,0,58.1,62,52,49,35,45,7,0.27
+Adam Behrens,Loyola Marymount,JR,2,7,7.68,15,12,1,0,1,68,92,62,58,15,45,9,0.323
+Nolan Kirsch,Mercyhurst,JR,2,6,7.69,17,3,0,0,1,48,49,44,41,36,37,6,0.263
+James Ellis,Saint Peter&#8217;s,SR,0,10,7.69,13,13,0,0,0,59.2,78,63,51,43,33,14,0.31
+Carter Fink,Niagara,JR,2,4,7.76,15,11,0,0,0,55.2,84,56,48,25,46,9,0.351
+Esteban Torres,UMES,SO,3,7,7.78,14,9,0,0,0,56.2,58,55,49,47,36,9,0.266
+Gaines Estridge,Air Force,JR,3,5,7.79,16,11,0,0,1,64.2,92,66,56,16,41,0,0.323
+Darin Kuskie,Old Dominion,JR,4,8,7.8,15,14,0,0,0,60,82,55,52,24,65,3,0.325
+David Thomas,San Jose State,SR,5,5,7.82,14,14,3,1,0,73.2,102,68,64,21,59,3,0.329
+Benjamin Hudson,Penn State,SO,2,10,7.83,14,14,0,0,0,64.1,76,59,56,22,49,13,0.296
+AJ Petraitis,Le Moyne,JR,5,6,7.9,15,15,0,0,0,82,96,78,72,44,57,7,0.289
+Avery Laine,Loyola Marymount,SR,2,4,7.92,15,15,0,0,0,61.1,84,63,54,29,28,8,0.331
+Aden Knowles,Towson,FR,2,4,7.97,17,9,0,0,0,61,76,57,54,29,54,7,0.31
+Sam Novotny,South Dakota State,JR,3,7,7.99,15,14,0,0,0,65.1,83,65,58,27,49,5,0.305
+Logan Darnell,Mississippi Valley State,SO,2,7,8.02,17,9,0,0,0,55,93,55,49,15,29,6,0.383
+Alessandro Castro,Nevada,JR,3,4,8.1,14,12,0,0,0,53.2,81,56,48,23,44,4,0.351
+Tyler Sausville,Siena,SR,1,4,8.13,13,10,0,0,0,52,72,57,47,31,46,3,0.317
+Jeremy Vest,Delaware State,SO,2,5,8.16,14,11,0,0,0,60.2,83,70,55,39,37,13,0.316
+Colton Kennedy,Utah Valley,SR,1,5,8.2,14,10,0,0,0,56,67,66,51,37,61,7,0.29
+Tyler Patrick,Fresno State,SO,1,4,8.21,18,9,0,0,0,57,92,54,52,16,29,10,0.367
+Anthony Solis,Eastern Illinois,JR,4,4,8.35,20,8,0,0,2,69,93,67,64,30,50,4,0.32
+Beau Beaty,Prairie View,SR,3,10,8.38,14,13,1,1,0,72,89,69,67,29,35,17,0.31
+Brandon Mikos,Youngstown State,SR,1,8,8.46,14,10,0,0,0,55.1,81,55,52,26,37,4,0.345
+Brandt Corley,UL Monroe,JR,2,3,8.54,14,14,0,0,0,57.1,79,49,54,31,61,14,0.326
+Carter DeGondea,Georgia Southern,JR,1,5,8.69,16,14,0,0,0,58,83,59,56,30,57,7,0.335
+Luke VanMarter,Le Moyne,FR,5,6,8.74,15,11,0,0,0,57.2,73,66,56,52,43,5,0.311
+Mason Gass,Ohio,FR,3,4,8.78,19,7,0,0,0,68.2,100,69,67,18,32,8,0.352
+Carson Lane,UNLV,JR,3,4,8.81,14,13,0,0,0,62.1,86,62,61,37,71,6,0.33
+Jonah Johnson,Loyola Marymount,SR,2,7,9,15,14,0,0,0,66,98,73,66,32,52,11,0.354
+Mason Glickman,New Haven,SR,1,6,9.25,15,5,0,0,1,47.2,76,60,49,25,39,15,0.374
+Walker Fuller,Norfolk State,SR,0,7,9.35,14,13,0,0,0,51,75,66,53,27,32,5,0.341
+Deaton Oak,Bellarmine,GR,2,5,9.38,14,13,0,0,0,55.2,88,61,58,17,25,6,0.361
+Cade Williams,UMES,GR,2,6,9.54,14,10,0,0,0,50,72,61,53,37,30,7,0.336
+Drew Townson,Fresno State,SR,1,8,9.63,17,10,0,0,0,57,88,71,61,30,47,7,0.337
+Jose Cherena,Alcorn State,JR,1,5,10.3,21,3,0,0,0,50.2,79,74,58,47,31,12,0.359
+Kayden Sutton,Alcorn State,FR,1,7,10.9,14,10,0,0,0,55.1,82,89,67,45,31,18,0.336
+Kurt Thomas,Saint Peter&#8217;s,SR,1,11,11.15,14,13,0,0,0,61.1,104,89,76,49,38,13,0.384
