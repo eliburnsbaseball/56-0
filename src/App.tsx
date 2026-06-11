@@ -130,7 +130,6 @@ type ShareState = 'idle' | 'shared' | 'copied' | 'downloaded' | 'unsupported'
 const DEFAULT_ROSTER: Slot[] = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'SP', 'SP', 'RP', 'RP']
 const DEFAULT_ERAS: Era[] = ['pre-2000s', '2000s', '2010s', '2020s']
 const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP']
-const SORT_OPTIONS: SortKey[] = ['rating', 'games', 'avg', 'ops', 'hr', 'rbi', 'era', 'whip', 'so']
 const LEADERBOARD_STORAGE_KEY = 'college-baseball-diamond-leaderboards-v1'
 const TEAM_POOL_MINIMUM = 18
 const RULES = [
@@ -225,30 +224,6 @@ function getOpenPositionsForPlayer(player: Player, slotInstances: SlotInstance[]
 
 function getSlotKeyForPosition(position: Slot, slotInstances: SlotInstance[], drafted: DraftedMap) {
   return slotInstances.find((entry) => entry.slot === position && !drafted[entry.key])?.key ?? null
-}
-
-function getSortValue(player: Player, sortKey: SortKey) {
-  switch (sortKey) {
-    case 'games':
-      return player.stats.games ?? -1
-    case 'avg':
-      return player.stats.avg ?? -1
-    case 'ops':
-      return player.stats.ops ?? -1
-    case 'hr':
-      return player.stats.hr ?? -1
-    case 'rbi':
-      return player.stats.rbi ?? -1
-    case 'era':
-      return player.stats.era ?? Number.POSITIVE_INFINITY
-    case 'whip':
-      return player.stats.whip ?? Number.POSITIVE_INFINITY
-    case 'so':
-      return player.stats.strikeouts ?? -1
-    case 'rating':
-    default:
-      return player.value
-  }
 }
 
 function formatRate(value?: number) {
@@ -1175,20 +1150,14 @@ function FilterPanel({
   selectedPosition,
   onSelectPosition,
   positionFilters,
-  sortOptions,
-  sortKey,
-  onSelectSort,
-  hardMode,
+  draftMode,
 }: {
   search: string
   onSearchChange: (value: string) => void
   selectedPosition: PositionFilter
   onSelectPosition: (position: PositionFilter) => void
   positionFilters: PositionFilter[]
-  sortOptions: SortKey[]
-  sortKey: SortKey
-  onSelectSort: (value: SortKey) => void
-  hardMode: boolean
+  draftMode: DraftMode
 }) {
   return (
     <section className="sidebar-section">
@@ -1230,23 +1199,12 @@ function FilterPanel({
           <div>
             <p className="section-kicker">Board Order</p>
           </div>
-          {hardMode ? <span>Locked</span> : null}
+          <span>Locked</span>
         </div>
-        {hardMode ? (
+        {draftMode === 'hard' ? (
           <div className="field-note">Hard mode keeps the board alphabetical for every draw.</div>
         ) : (
-          <div className="segmented-control">
-            {sortOptions.map((entry) => (
-              <button
-                key={entry}
-                type="button"
-                className={sortKey === entry ? 'active' : ''}
-                onClick={() => onSelectSort(entry)}
-              >
-                {entry.toUpperCase()}
-              </button>
-            ))}
-          </div>
+          <div className="field-note">Classic always ranks the board by highest point total first.</div>
         )}
       </div>
     </section>
@@ -1408,8 +1366,6 @@ function CandidateBoardPage({
   draftedCount,
   selectedPosition,
   setSelectedPosition,
-  sortKey,
-  setSortKey,
   search,
   setSearch,
   slotInstances,
@@ -1432,8 +1388,6 @@ function CandidateBoardPage({
   draftedCount: number
   selectedPosition: PositionFilter
   setSelectedPosition: (value: PositionFilter) => void
-  sortKey: SortKey
-  setSortKey: (value: SortKey) => void
   search: string
   setSearch: (value: string) => void
   slotInstances: SlotInstance[]
@@ -1489,10 +1443,7 @@ function CandidateBoardPage({
               selectedPosition={selectedPosition}
               onSelectPosition={setSelectedPosition}
               positionFilters={meta?.positionFilters ?? POSITION_FILTERS}
-              sortOptions={meta?.sortOptions ?? SORT_OPTIONS}
-              sortKey={sortKey}
-              onSelectSort={setSortKey}
-              hardMode={activeMode.draftMode === 'hard'}
+              draftMode={activeMode.draftMode}
             />
 
             <RosterTracker
@@ -1930,7 +1881,6 @@ function App() {
   const [selectedModeId, setSelectedModeId] = useState<ModeId | null>(null)
   const [drafted, setDrafted] = useState<DraftedMap>({})
   const [selectedPosition, setSelectedPosition] = useState<PositionFilter>('ALL')
-  const [sortKey, setSortKey] = useState<SortKey>('rating')
   const [search, setSearch] = useState('')
   const [currentAssignment, setCurrentAssignment] = useState<DraftAssignment | null>(null)
   const [draftRounds, setDraftRounds] = useState<DraftRound[]>([])
@@ -2054,15 +2004,9 @@ function App() {
 
     return filtered.sort((left, right) => {
       if (activeMode?.draftMode === 'hard') return left.name.localeCompare(right.name)
-      if (sortKey === 'rating') {
-        return right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left) || left.name.localeCompare(right.name)
-      }
-      if (sortKey === 'era' || sortKey === 'whip') {
-        return getSortValue(left, sortKey) - getSortValue(right, sortKey) || right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left)
-      }
-      return getSortValue(right, sortKey) - getSortValue(left, sortKey) || right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left)
+      return right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left) || left.name.localeCompare(right.name)
     })
-  }, [activeMode?.draftMode, assignmentPlayers, search, selectedPosition, sortKey])
+  }, [activeMode?.draftMode, assignmentPlayers, search, selectedPosition])
 
   const draftedList = useMemo(
     () =>
@@ -2080,7 +2024,6 @@ function App() {
     setDrafted({})
     setDraftRounds([])
     setSelectedPosition('ALL')
-    setSortKey('rating')
     setSearch('')
     setPendingPlayer(null)
     setPositionChoices([])
@@ -2280,8 +2223,6 @@ function App() {
         draftedCount={draftedCount}
         selectedPosition={selectedPosition}
         setSelectedPosition={setSelectedPosition}
-        sortKey={sortKey}
-        setSortKey={setSortKey}
         search={search}
         setSearch={setSearch}
         slotInstances={slotInstances}

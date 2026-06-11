@@ -516,16 +516,28 @@ function applySampleAdjustment(category, rawValue, stats) {
     const games = stats.games || 0
     const starts = stats.starts || 0
     const saves = stats.saves || 0
-    const volume = innings + starts * 2 + saves * 1.5 + games * 0.35
-    const reliability = Math.min(1, Math.sqrt(volume / 95))
-    return rawValue * (0.2 + reliability * 0.8)
+    const strikeouts = stats.strikeouts || 0
+    const reliefAppearances = Math.max(0, games - starts)
+    const volume = innings + starts * 4 + reliefAppearances * 0.9 + saves * 1.5 + Math.min(strikeouts, innings * 1.25) * 0.08
+    const reliability = 1 - Math.exp(-volume / 130)
+    const baseline = -0.75
+    const adjusted = baseline + (rawValue - baseline) * reliability
+
+    if (innings < 8 && strikeouts < 10) {
+      return adjusted - (8 - innings) * 0.07
+    }
+
+    return adjusted
   }
 
   const games = stats.games || 0
   const pa = stats.pa || games * 4
-  const volume = games + pa * 0.18
-  const reliability = Math.min(1, Math.sqrt(volume / 120))
-  return rawValue * (0.32 + reliability * 0.68)
+  const hr = stats.hr || 0
+  const rbi = stats.rbi || 0
+  const volume = pa + games * 1.35 + hr * 0.5 + rbi * 0.08
+  const reliability = 1 - Math.exp(-volume / 240)
+  const baseline = -0.2
+  return baseline + (rawValue - baseline) * reliability
 }
 
 function getEra(year) {
