@@ -262,6 +262,12 @@
   color: var(--muted-soft);
 }
 
+.mode-best {
+  color: var(--text) !important;
+  font-size: 0.96rem;
+  font-weight: 600;
+}
+
 .mode-tags {
   display: flex;
   flex-wrap: wrap;

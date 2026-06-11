@@ -94,6 +94,7 @@ type OptimalSummary = {
   losses: number
   draftedList: DraftedEntry[]
 }
+type UniversalBestMap = Partial<Record<ModeId, OptimalSummary | null>>
 type SimulationSummary = {
   sampleSize: number
   totals: number[]
@@ -279,10 +280,10 @@ function formatPlayerStatSummary(player: Player) {
 
 function formatCompactPlayerStatSummary(player: Player) {
   if (player.category === 'pitcher') {
-    return `${player.stats.innings?.toFixed(1) ?? '0.0'} IP - ${player.stats.strikeouts ?? 0} SO - ${player.stats.games ?? 0} G`
+    return `${player.stats.era?.toFixed(2) ?? '-'} ERA - ${player.stats.whip?.toFixed(3) ?? '-'} WHIP - ${player.stats.strikeouts ?? 0} SO`
   }
 
-  return `${player.stats.games ?? 0} G - ${player.stats.rbi ?? 0} RBI - ${player.stats.sb ?? 0} SB`
+  return `${formatRate(player.stats.avg)} AVG - ${player.stats.hr ?? 0} HR - ${formatRate(player.stats.ops)} OPS`
 }
 
 function formatPositionBadge(positions: Slot[]) {
@@ -723,6 +724,95 @@ function buildRunOptimalSummary(rounds: DraftRound[], slotInstances: SlotInstanc
   }
 }
 
+function buildUniversalOptimalSummary(
+  players: Player[],
+  slotInstances: SlotInstance[],
+  modeId: ModeId | null,
+  simulationSummary: SimulationSummary | null,
+): OptimalSummary | null {
+  if (!modeId || players.length === 0 || slotInstances.length === 0 || slotInstances.length > 20) return null
+
+  const modePlayers = players.filter((player) => playerMatchesMode(player, modeId))
+  const candidateMap = new Map<string, Player>()
+
+  for (const entry of slotInstances) {
+    modePlayers
+      .filter((player) => player.eligiblePositions.includes(entry.slot))
+      .sort((left, right) => right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left))
+      .slice(0, 140)
+      .forEach((player) => candidateMap.set(player.id, player))
+  }
+
+  const candidates = [...candidateMap.values()]
+  const fullMask = (1 << slotInstances.length) - 1
+  const scores = new Float64Array(fullMask + 1)
+  scores.fill(Number.NEGATIVE_INFINITY)
+  scores[0] = 0
+
+  const previousMask = new Int32Array(fullMask + 1)
+  const previousPlayerIndex = new Int32Array(fullMask + 1)
+  const previousSlotIndex = new Int32Array(fullMask + 1)
+  previousMask.fill(-1)
+  previousPlayerIndex.fill(-1)
+  previousSlotIndex.fill(-1)
+
+  const eligibleMasks = candidates.map((player) =>
+    slotInstances.reduce((mask, entry, index) => (player.eligiblePositions.includes(entry.slot) ? mask | (1 << index) : mask), 0),
+  )
+
+  for (let playerIndex = 0; playerIndex < candidates.length; playerIndex += 1) {
+    const eligibleMask = eligibleMasks[playerIndex]
+    if (eligibleMask === 0) continue
+
+    for (let mask = fullMask; mask >= 0; mask -= 1) {
+      const currentScore = scores[mask]
+      if (!Number.isFinite(currentScore)) continue
+
+      let openMask = eligibleMask & ~mask
+      while (openMask > 0) {
+        const slotBit = openMask & -openMask
+        const nextMask = mask | slotBit
+        const nextScore = currentScore + candidates[playerIndex].value
+        if (nextScore > scores[nextMask]) {
+          scores[nextMask] = nextScore
+          previousMask[nextMask] = mask
+          previousPlayerIndex[nextMask] = playerIndex
+          previousSlotIndex[nextMask] = Math.log2(slotBit) | 0
+        }
+        openMask -= slotBit
+      }
+    }
+  }
+
+  if (!Number.isFinite(scores[fullMask])) return null
+
+  const draftedList: DraftedEntry[] = []
+  let mask = fullMask
+  while (mask > 0) {
+    const playerIndex = previousPlayerIndex[mask]
+    const slotIndex = previousSlotIndex[mask]
+    const priorMask = previousMask[mask]
+    if (playerIndex < 0 || slotIndex < 0 || priorMask < 0) break
+
+    draftedList.push({
+      ...slotInstances[slotIndex],
+      player: candidates[playerIndex],
+    })
+    mask = priorMask
+  }
+
+  draftedList.sort((left, right) => slotInstances.findIndex((entry) => entry.key === left.key) - slotInstances.findIndex((entry) => entry.key === right.key))
+  const totalPoints = draftedList.reduce((sum, entry) => sum + (entry.player?.value ?? 0), 0)
+  const percentile = percentileFromSortedTotals(simulationSummary?.totals ?? [], totalPoints)
+
+  return {
+    totalPoints,
+    wins: estimateWinsFromPercentile(percentile),
+    losses: estimateLossesFromPercentile(percentile),
+    draftedList,
+  }
+}
+
 function formatModeSummary(mode: ModeConfig, era: Era) {
   return `${mode.label} | ${era} | ${mode.orderLabel.toLowerCase()}`
 }
@@ -846,8 +936,10 @@ function LoadingScreen() {
 
 function ModeSelector({
   onStart,
+  universalBests,
 }: {
   onStart: (modeId: ModeId) => void
+  universalBests: UniversalBestMap
 }) {
   return (
     <div className="mode-list">
@@ -862,6 +954,11 @@ function ModeSelector({
               </div>
             </div>
             <p>{config.description}</p>
+            {universalBests[modeId] ? (
+              <p className="mode-best">
+                All-time best: {universalBests[modeId]!.wins}-{universalBests[modeId]!.losses} - {formatPoints(universalBests[modeId]!.totalPoints)}
+              </p>
+            ) : null}
           </div>
 
           <div className="mode-row-actions">
@@ -914,9 +1011,11 @@ function LeaderboardTable({
 function LandingPage({
   leaderboards,
   onStart,
+  universalBests,
 }: {
   leaderboards: Leaderboards
   onStart: (modeId: ModeId) => void
+  universalBests: UniversalBestMap
 }) {
   const hasSavedRuns = hasAnyLeaderboardEntries(leaderboards)
   const populatedLeaderboards = (Object.entries(MODE_CONFIG) as [ModeId, ModeConfig][])
@@ -954,7 +1053,7 @@ function LandingPage({
             </div>
             <span>Four ways to build a roster</span>
           </div>
-          <ModeSelector onStart={onStart} />
+          <ModeSelector onStart={onStart} universalBests={universalBests} />
         </section>
 
         <section className="landing-grid">
@@ -1221,7 +1320,7 @@ function CandidateRow({
       <strong className="candidate-cell candidate-name" data-label="Player">
         <span>{player.name}</span>
         <small className="candidate-mobile-meta">
-          {player.team} · {formatSeasonLabel(player)}
+          {player.team} - {formatSeasonLabel(player)}
         </small>
       </strong>
       <span className="candidate-cell" data-label="School">
@@ -1882,6 +1981,14 @@ function App() {
   const slotInstances = useMemo(() => buildSlotInstances(rosterSlots), [rosterSlots])
   const activeMode = selectedModeId ? MODE_CONFIG[selectedModeId] : null
   const simulationSummary = useMemo(() => buildSimulationSummary(players, slotInstances, selectedModeId), [players, selectedModeId, slotInstances])
+  const universalBests = useMemo<UniversalBestMap>(() => {
+    const entries = (Object.keys(MODE_CONFIG) as ModeId[]).map((modeId) => {
+      const modeSimulation = buildSimulationSummary(players, slotInstances, modeId)
+      return [modeId, buildUniversalOptimalSummary(players, slotInstances, modeId, modeSimulation)] as const
+    })
+
+    return Object.fromEntries(entries)
+  }, [players, slotInstances])
   const optimalSummary = useMemo(
     () => buildRunOptimalSummary(draftRounds, slotInstances, simulationSummary),
     [draftRounds, simulationSummary, slotInstances],
@@ -2121,7 +2228,7 @@ function App() {
   }
 
   if (!selectedModeId || !activeMode) {
-    return <LandingPage leaderboards={leaderboards} onStart={startMode} />
+    return <LandingPage leaderboards={leaderboards} onStart={startMode} universalBests={universalBests} />
   }
 
   const displayAssignment = spinning ? spinPreview : currentAssignment
