@@ -1,7 +1,7 @@
 import { mkdir, readFile, rm, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
-const rosterSlots = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'SP', 'SP', 'RP', 'RP']
+const rosterSlots = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'SP', 'SP', 'RP', 'RP']
 const advancedPath = join(process.cwd(), 'data', 'raw', '2026-advanced.csv')
 const hitterPath = join(process.cwd(), 'data', 'raw', '2026-hitters.csv')
 const pitcherPath = join(process.cwd(), 'data', 'raw', '2026-pitchers.csv')
@@ -65,7 +65,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     rosterSlots,
     availableEras: eras,
-    positionFilters: ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP'],
+    positionFilters: ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'RP'],
     sortOptions: ['rating', 'games', 'avg', 'ops', 'hr', 'rbi', 'era', 'whip', 'so'],
     playerChunks: [],
     modelDiagnostics: {
@@ -326,15 +326,16 @@ function getCareerWeight(player) {
 }
 
 function getPrimaryCareerPosition(players, eligiblePositions) {
-  const counts = new Map(eligiblePositions.map((position) => [position, 0]))
+  const counts = new Map(eligiblePositions.filter((position) => position !== 'DH').map((position) => [position, 0]))
 
   for (const player of players) {
     for (const position of player.eligiblePositions) {
+      if (position === 'DH') continue
       counts.set(position, (counts.get(position) ?? 0) + 1)
     }
   }
 
-  return [...counts.entries()].sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))[0]?.[0] ?? eligiblePositions[0]
+  return [...counts.entries()].sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))[0]?.[0] ?? eligiblePositions.find((position) => position !== 'DH') ?? eligiblePositions[0]
 }
 
 function normalizeCareerEligiblePositions(players, eligiblePositions, primaryPosition) {
@@ -342,14 +343,15 @@ function normalizeCareerEligiblePositions(players, eligiblePositions, primaryPos
     return eligiblePositions
   }
 
-  const hasInfield = eligiblePositions.some((position) => ['1B', '2B', '3B', 'SS'].includes(position))
-  const hasOutfield = eligiblePositions.some((position) => ['LF', 'CF', 'RF'].includes(position))
+  const fieldingPositions = eligiblePositions.filter((position) => position !== 'DH')
+  const hasInfield = fieldingPositions.some((position) => ['1B', '2B', '3B', 'SS'].includes(position))
+  const hasOutfield = fieldingPositions.some((position) => ['LF', 'CF', 'RF'].includes(position))
+  const normalizedFielding =
+    fieldingPositions.length > 4 || (hasInfield && hasOutfield)
+      ? [primaryPosition]
+      : fieldingPositions
 
-  if (eligiblePositions.length > 4 || (hasInfield && hasOutfield)) {
-    return [primaryPosition]
-  }
-
-  return eligiblePositions
+  return normalizedFielding.includes('DH') ? normalizedFielding : [...normalizedFielding, 'DH']
 }
 
 function pickCareerClassYear(players) {
@@ -564,8 +566,8 @@ function estimateWhip(row) {
 }
 
 function getEligibleCurrentHitterPositions(position) {
-  if (['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF'].includes(position)) return [position]
-  if (position === 'OF') return ['LF', 'CF', 'RF']
+  if (['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF'].includes(position)) return [position, 'DH']
+  if (position === 'OF') return ['LF', 'CF', 'RF', 'DH']
   return []
 }
 

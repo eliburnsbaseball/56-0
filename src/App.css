@@ -869,6 +869,17 @@
   font-size: 1rem;
 }
 
+.results-hero-draw,
+.results-hero-link {
+  color: #f8f3ea;
+  font-size: 0.98rem;
+}
+
+.results-hero-link {
+  color: var(--accent-gold);
+  font-weight: 700;
+}
+
 .results-hero-strength,
 .results-hero-optimal {
   color: #f8f3ea;

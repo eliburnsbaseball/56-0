@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState, type ReactNode, type RefObject } 
 import './App.css'
 
 type DraftMode = 'classic' | 'hard'
-type Slot = 'C' | '1B' | '2B' | '3B' | 'SS' | 'LF' | 'CF' | 'RF' | 'SP' | 'RP'
+type Slot = 'C' | '1B' | '2B' | '3B' | 'SS' | 'LF' | 'CF' | 'RF' | 'DH' | 'SP' | 'RP'
 type Era = 'pre-2000s' | '2000s' | '2010s' | '2020s'
 type PositionFilter = 'ALL' | Slot
 type SortKey = 'rating' | 'games' | 'avg' | 'ops' | 'hr' | 'rbi' | 'era' | 'whip' | 'so'
@@ -131,12 +131,12 @@ type ModeConfig = {
 
 type ShareState = 'idle' | 'shared' | 'copied' | 'downloaded' | 'unsupported'
 
-const DEFAULT_ROSTER: Slot[] = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'SP', 'SP', 'RP', 'RP']
+const DEFAULT_ROSTER: Slot[] = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'SP', 'SP', 'RP', 'RP']
 const DEFAULT_ERAS: Era[] = ['pre-2000s', '2000s', '2010s', '2020s']
-const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP']
+const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'RP']
 const TEAM_POOL_MINIMUM = 18
 const RULES = [
-  ['13 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, SP1, SP2, SP3, RP1, RP2.'],
+  ['14 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, DH, SP1, SP2, SP3, RP1, RP2.'],
   ['Random boards', 'Each pick spins to a new school or conference board, and each draw gives you one team re-spin and one era re-spin before you lock in the next pick.'],
   ['Career value', 'Ratings use full college careers, so four good years beat one short spike.'],
   ['56-game finish', 'Projected records use a tougher 56-game curve so unbeaten runs stay rare.'],
@@ -1241,7 +1241,7 @@ function RosterTracker({
       <div className="section-bar compact">
         <div>
           <p className="section-kicker">Roster Card</p>
-          <h3>{draftedCount}/13 drafted</h3>
+          <h3>{draftedCount}/14 drafted</h3>
         </div>
       </div>
 
@@ -1482,7 +1482,7 @@ function CandidateBoardPage({
             <div className="status-strip">
               <span>{filteredPlayers.length} candidates shown</span>
               <span>{meta?.modelDiagnostics.historicalPlayers ?? 0} historical careers loaded</span>
-              <span>Current roster: {draftedCount}/13 drafted</span>
+              <span>Current roster: {draftedCount}/14 drafted</span>
               {usedFallback && fallbackLabel ? <span>{fallbackLabel}</span> : null}
             </div>
 
@@ -1552,11 +1552,14 @@ function ResultsHero({
   summaryRecord,
   totalScore,
   modeSummary,
+  finalDrawLabel,
+  shareCardRef,
   optimalSummary,
   simulationSummary,
   strengthPercentile,
   shareState,
   onShare,
+  onSaveImage,
   onGoHome,
   onDraftAgain,
   onViewBoard,
@@ -1564,11 +1567,14 @@ function ResultsHero({
   summaryRecord: string
   totalScore: number
   modeSummary: string
+  finalDrawLabel: string
+  shareCardRef: RefObject<HTMLDivElement | null>
   optimalSummary: OptimalSummary | null
   simulationSummary: SimulationSummary | null
   strengthPercentile: number
   shareState: ShareState
   onShare: () => void
+  onSaveImage: () => void
   onGoHome: () => void
   onDraftAgain: () => void
   onViewBoard: () => void
@@ -1591,6 +1597,9 @@ function ResultsHero({
           <button type="button" className="button button-secondary" onClick={onViewBoard}>
             View Full Board
           </button>
+          <button type="button" className="button button-secondary" onClick={onSaveImage}>
+            Save Image
+          </button>
           <button type="button" className="button button-primary" onClick={onShare}>
             {shareState === 'shared'
               ? 'Shared'
@@ -1604,12 +1613,14 @@ function ResultsHero({
       </div>
 
       <section className="results-hero">
-        <div className="results-hero-main share-card-preview">
+        <div className="results-hero-main share-card-preview" id="results-share-card" ref={shareCardRef}>
           <span className="share-card-label">Share card preview</span>
           <p className="section-kicker">Season Recap</p>
           <h1>{summaryRecord}</h1>
           <p className="results-total-war">{formatPoints(totalScore)}</p>
           <p className="results-meta">{modeSummary}</p>
+          <p className="results-hero-draw">Featured board: {finalDrawLabel}</p>
+          <p className="results-hero-link">Play at 56-0.pages.dev</p>
           <p className="results-hero-strength">
             Stronger than {strengthPercentile}% of the {simulationSummary?.sampleSize ?? 1000} simulated seasons.
           </p>
@@ -1788,6 +1799,7 @@ function RunSummaryPanel({
 function ResultsPage({
   activeMode,
   currentEra,
+  finalDrawLabel,
   draftedList,
   totalScore,
   projectedWins,
@@ -1802,12 +1814,14 @@ function ResultsPage({
   onLeaderboardNameChange,
   onSave,
   onShare,
+  onSaveImage,
   onDraftAgain,
   onGoHome,
   onViewBoard,
 }: {
   activeMode: ModeConfig
   currentEra: Era
+  finalDrawLabel: string
   draftedList: DraftedEntry[]
   totalScore: number
   projectedWins: number
@@ -1822,6 +1836,7 @@ function ResultsPage({
   onLeaderboardNameChange: (value: string) => void
   onSave: () => void
   onShare: () => void
+  onSaveImage: () => void
   onDraftAgain: () => void
   onGoHome: () => void
   onViewBoard: () => void
@@ -1835,17 +1850,20 @@ function ResultsPage({
           summaryRecord={summary.recordLabel}
           totalScore={totalScore}
           modeSummary={formatModeSummary(activeMode, currentEra)}
+          finalDrawLabel={finalDrawLabel}
+          shareCardRef={shareCardRef}
           optimalSummary={optimalSummary}
           simulationSummary={simulationSummary}
           strengthPercentile={strengthPercentile}
           shareState={shareState}
           onShare={onShare}
+          onSaveImage={onSaveImage}
           onGoHome={onGoHome}
           onDraftAgain={onDraftAgain}
           onViewBoard={onViewBoard}
         />
 
-        <div className="results-layout" id="results-share-card" ref={shareCardRef}>
+        <div className="results-layout">
           <section className="results-panel results-roster-panel">
             <ResultsLineupSnapshot draftedList={draftedList} />
             <div className="section-bar">
@@ -1853,7 +1871,7 @@ function ResultsPage({
                 <p className="section-kicker">Final Lineup</p>
                 <h2>Box score roster</h2>
               </div>
-              <span>{draftedList.length}/13 drafted</span>
+              <span>{draftedList.length}/14 drafted</span>
             </div>
 
             <ResultsRosterTable draftedList={draftedList} />
@@ -2149,14 +2167,15 @@ function App() {
   }
 
   async function shareResult() {
-    const shareText = [
-      '56-0 College Baseball Run Complete',
-      `Record: ${projectedWins}-${projectedLosses}`,
-      `Mode: ${activeMode?.label ?? 'Unknown'}`,
-      `Draw: ${currentAssignment?.label ?? 'Random draw'}`,
-      `Era: ${currentAssignment?.era ?? activeMode?.eraFilter ?? DEFAULT_ERAS[0]}`,
-      `Total Points: ${scoreFormatter.format(totalScore)}`,
-    ].join('\n')
+      const shareText = [
+        '56-0 College Baseball Run Complete',
+        `Record: ${projectedWins}-${projectedLosses}`,
+        `Mode: ${activeMode?.label ?? 'Unknown'}`,
+        `Draw: ${currentAssignment?.label ?? 'Random draw'}`,
+        `Era: ${currentAssignment?.era ?? activeMode?.eraFilter ?? DEFAULT_ERAS[0]}`,
+        `Total Points: ${scoreFormatter.format(totalScore)}`,
+        'Play: https://56-0.pages.dev',
+      ].join('\n')
 
     try {
       const target = shareCardRef.current ?? document.getElementById('results-share-card')
@@ -2199,6 +2218,27 @@ function App() {
     }
   }
 
+  async function saveResultImage() {
+    try {
+      const target = shareCardRef.current ?? document.getElementById('results-share-card')
+      if (!target) {
+        throw new Error('Missing share card')
+      }
+
+      const imageBlob = await renderElementToPng(target)
+      const imageFile = new File([imageBlob], `56-0-${projectedWins}-${projectedLosses}.png`, { type: 'image/png' })
+      const url = URL.createObjectURL(imageBlob)
+      const anchor = document.createElement('a')
+      anchor.href = url
+      anchor.download = imageFile.name
+      anchor.click()
+      URL.revokeObjectURL(url)
+      setShareState('downloaded')
+    } catch {
+      setShareState('unsupported')
+    }
+  }
+
   if (loading) {
     return <LoadingScreen />
   }
@@ -2219,6 +2259,7 @@ function App() {
       <ResultsPage
         activeMode={activeMode}
         currentEra={currentEra}
+        finalDrawLabel={currentAssignment?.label ?? 'Random draw'}
         draftedList={draftedList}
         totalScore={totalScore}
         projectedWins={projectedWins}
@@ -2233,6 +2274,7 @@ function App() {
         onLeaderboardNameChange={setLeaderboardName}
         onSave={saveLeaderboard}
         onShare={shareResult}
+        onSaveImage={saveResultImage}
         onDraftAgain={resetDraft}
         onGoHome={goHome}
         onViewBoard={() => setShowResultsView(false)}
