@@ -73,6 +73,10 @@ type SlotInstance = {
 
 type DraftedMap = Record<string, Player>
 type DraftedEntry = SlotInstance & { player: Player | null }
+type DraftRound = {
+  assignment: DraftAssignment
+  candidates: Player[]
+}
 
 type LeaderboardEntry = {
   id: string
@@ -89,6 +93,20 @@ type OptimalSummary = {
   wins: number
   losses: number
   draftedList: DraftedEntry[]
+}
+type SimulationSummary = {
+  sampleSize: number
+  totals: number[]
+  percentilePoints: {
+    p50: number
+    p90: number
+    p99: number
+  }
+  bestRun: {
+    totalPoints: number
+    wins: number
+    losses: number
+  }
 }
 
 type ModeConfig = {
@@ -265,28 +283,25 @@ function formatPositionBadge(player: Player) {
   return player.eligiblePositions.join('/')
 }
 
-function estimateWins(totalPoints: number, optimalPoints?: number | null) {
-  if (optimalPoints && optimalPoints > 0) {
-    const ratio = Math.max(0, Math.min(1, totalPoints / optimalPoints))
-    if (ratio >= 0.99) return 56
-
-    const projected = 12 + 43 / (1 + Math.exp(-10 * (ratio - 0.79)))
-    return Math.max(10, Math.min(55, Math.round(projected)))
-  }
-
-  const projected = 12 + 42 * (1 - Math.exp(-Math.max(totalPoints, 0) / 82))
-  return Math.max(10, Math.min(55, Math.round(projected)))
+function estimateWinsFromPercentile(percentile: number) {
+  if (percentile >= 99) return 56
+  const normalized = Math.max(0, Math.min(1, percentile / 100))
+  const projected = 18 + 37 * Math.pow(normalized, 0.72)
+  return Math.max(18, Math.min(55, Math.round(projected)))
 }
 
-function estimateLosses(totalPoints: number, optimalPoints?: number | null) {
-  return Math.max(0, 56 - estimateWins(totalPoints, optimalPoints))
+function estimateLossesFromPercentile(percentile: number) {
+  return Math.max(0, 56 - estimateWinsFromPercentile(percentile))
 }
 
-function estimateStrengthPercentile(totalPoints: number, optimalPoints?: number | null) {
-  if (!optimalPoints || optimalPoints <= 0) return 50
-  const ratio = Math.max(0, Math.min(1, totalPoints / optimalPoints))
-  const percentile = Math.round(100 / (1 + Math.exp(-11 * (ratio - 0.76))))
-  return Math.max(1, Math.min(ratio >= 0.99 ? 99 : 98, percentile))
+function getAssignmentKey(assignment: DraftAssignment) {
+  return `${assignment.era}|${assignment.kind}|${assignment.team ?? assignment.conference ?? assignment.label}`
+}
+
+function buildAssignmentForPlayer(player: Player): DraftAssignment {
+  return player.teamTier === 'power5'
+    ? { era: player.era, kind: 'power5', label: player.team, team: player.team }
+    : { era: player.era, kind: 'midMajor', label: player.conference, conference: player.conference }
 }
 
 function buildAssignments(players: Player[], drafted: DraftedMap, slotInstances: SlotInstance[], modeId: ModeId | null) {
@@ -299,12 +314,8 @@ function buildAssignments(players: Player[], drafted: DraftedMap, slotInstances:
     if (draftedIds.has(player.id)) continue
     if (getOpenPositionsForPlayer(player, slotInstances, drafted).length === 0) continue
 
-    const assignment =
-      player.teamTier === 'power5'
-        ? { era: player.era, kind: 'power5' as const, label: player.team, team: player.team }
-        : { era: player.era, kind: 'midMajor' as const, label: player.conference, conference: player.conference }
-
-    const key = `${assignment.era}|${assignment.kind}|${assignment.label}`
+    const assignment = buildAssignmentForPlayer(player)
+    const key = getAssignmentKey(assignment)
     if (!seen.has(key)) {
       seen.add(key)
       assignments.push(assignment)
@@ -312,6 +323,141 @@ function buildAssignments(players: Player[], drafted: DraftedMap, slotInstances:
   }
 
   return assignments
+}
+
+function buildAssignmentPools(players: Player[], modeId: ModeId | null) {
+  const pools = new Map<string, { assignment: DraftAssignment; players: Player[] }>()
+
+  for (const player of players) {
+    if (!playerMatchesMode(player, modeId)) continue
+    const assignment = buildAssignmentForPlayer(player)
+    const key = getAssignmentKey(assignment)
+    const current = pools.get(key)
+    if (current) {
+      current.players.push(player)
+      continue
+    }
+    pools.set(key, { assignment, players: [player] })
+  }
+
+  for (const pool of pools.values()) {
+    pool.players.sort((left, right) => right.value - left.value || left.name.localeCompare(right.name))
+  }
+
+  return [...pools.values()]
+}
+
+function percentileFromSortedTotals(sortedTotals: number[], value: number) {
+  if (sortedTotals.length === 0) return 50
+  let low = 0
+  let high = sortedTotals.length
+
+  while (low < high) {
+    const middle = (low + high) >> 1
+    if (sortedTotals[middle] <= value) {
+      low = middle + 1
+    } else {
+      high = middle
+    }
+  }
+
+  return Math.max(1, Math.min(99, Math.round((low / sortedTotals.length) * 100)))
+}
+
+function quantileFromSortedTotals(sortedTotals: number[], percentile: number) {
+  if (sortedTotals.length === 0) return 0
+  const index = Math.max(0, Math.min(sortedTotals.length - 1, Math.round((sortedTotals.length - 1) * percentile)))
+  return sortedTotals[index]
+}
+
+function chooseBestPositionForPlayer(player: Player, slotInstances: SlotInstance[], drafted: DraftedMap, slotSupply: Map<Slot, number>) {
+  const openPositions = getOpenPositionsForPlayer(player, slotInstances, drafted)
+  if (openPositions.length === 0) return null
+
+  return [...openPositions].sort((left, right) => {
+    const supplyDelta = (slotSupply.get(left) ?? 0) - (slotSupply.get(right) ?? 0)
+    if (supplyDelta !== 0) return supplyDelta
+    const leftIndex = slotInstances.findIndex((entry) => entry.slot === left && !drafted[entry.key])
+    const rightIndex = slotInstances.findIndex((entry) => entry.slot === right && !drafted[entry.key])
+    return leftIndex - rightIndex
+  })[0]
+}
+
+function findBestAvailablePlayer(poolPlayers: Player[], slotInstances: SlotInstance[], drafted: DraftedMap, draftedIds: Set<string>) {
+  for (const player of poolPlayers) {
+    if (draftedIds.has(player.id)) continue
+    if (getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0) return player
+  }
+  return null
+}
+
+function buildSimulationSummary(players: Player[], slotInstances: SlotInstance[], modeId: ModeId | null, sampleSize = 1000): SimulationSummary | null {
+  if (!modeId || players.length === 0) return null
+
+  const assignmentPools = buildAssignmentPools(players, modeId)
+  if (assignmentPools.length === 0) return null
+
+  const slotSupply = slotInstances.reduce((map, entry) => {
+    const count = players.filter((player) => playerMatchesMode(player, modeId) && player.eligiblePositions.includes(entry.slot)).length
+    map.set(entry.slot, count)
+    return map
+  }, new Map<Slot, number>())
+
+  const totals: number[] = []
+
+  for (let runIndex = 0; runIndex < sampleSize; runIndex += 1) {
+    const drafted: DraftedMap = {}
+    const draftedIds = new Set<string>()
+    let previousAssignment: DraftAssignment | null = null
+
+    for (let pickIndex = 0; pickIndex < slotInstances.length; pickIndex += 1) {
+      const availableAssignments = assignmentPools
+        .filter(({ players: poolPlayers }) => findBestAvailablePlayer(poolPlayers, slotInstances, drafted, draftedIds))
+        .map(({ assignment }) => assignment)
+
+      if (availableAssignments.length === 0) break
+
+      const assignment = selectRandomAssignment(availableAssignments, previousAssignment)
+      if (!assignment) break
+
+      const pool = assignmentPools.find((entry) => getAssignmentKey(entry.assignment) === getAssignmentKey(assignment))
+      if (!pool) break
+
+      const player = findBestAvailablePlayer(pool.players, slotInstances, drafted, draftedIds)
+      if (!player) break
+
+      const position = chooseBestPositionForPlayer(player, slotInstances, drafted, slotSupply)
+      if (!position) break
+
+      const slotKey = getSlotKeyForPosition(position, slotInstances, drafted)
+      if (!slotKey) break
+
+      drafted[slotKey] = player
+      draftedIds.add(player.id)
+      previousAssignment = assignment
+    }
+
+    totals.push(Object.values(drafted).reduce((sum, player) => sum + player.value, 0))
+  }
+
+  const sortedTotals = [...totals].sort((left, right) => left - right)
+  const bestTotal = sortedTotals[sortedTotals.length - 1] ?? 0
+  const bestPercentile = percentileFromSortedTotals(sortedTotals, bestTotal)
+
+  return {
+    sampleSize,
+    totals: sortedTotals,
+    percentilePoints: {
+      p50: quantileFromSortedTotals(sortedTotals, 0.5),
+      p90: quantileFromSortedTotals(sortedTotals, 0.9),
+      p99: quantileFromSortedTotals(sortedTotals, 0.99),
+    },
+    bestRun: {
+      totalPoints: bestTotal,
+      wins: estimateWinsFromPercentile(bestPercentile),
+      losses: estimateLossesFromPercentile(bestPercentile),
+    },
+  }
 }
 
 function selectRandomAssignment(assignments: DraftAssignment[], previous: DraftAssignment | null) {
@@ -396,59 +542,64 @@ function hasAnyLeaderboardEntries(leaderboards: Leaderboards) {
   return Object.values(leaderboards).some((entries) => entries.length > 0)
 }
 
-function buildOptimalSummary(players: Player[], slotInstances: SlotInstance[], modeId: ModeId | null): OptimalSummary | null {
-  if (!modeId || players.length === 0 || slotInstances.length === 0 || slotInstances.length > 20) return null
+function buildRunOptimalSummary(rounds: DraftRound[], slotInstances: SlotInstance[], simulationSummary: SimulationSummary | null): OptimalSummary | null {
+  if (rounds.length === 0 || slotInstances.length === 0 || slotInstances.length > 20) return null
 
-  const modePlayers = players.filter((player) => playerMatchesMode(player, modeId))
-  const candidateMap = new Map<string, Player>()
-
-  for (const entry of slotInstances) {
-    modePlayers
-      .filter((player) => player.eligiblePositions.includes(entry.slot))
-      .sort((left, right) => right.value - left.value)
-      .slice(0, 120)
-      .forEach((player) => candidateMap.set(player.id, player))
-  }
-
-  const candidates = [...candidateMap.values()]
   const fullMask = (1 << slotInstances.length) - 1
   const scores = new Float64Array(fullMask + 1)
   scores.fill(Number.NEGATIVE_INFINITY)
   scores[0] = 0
 
   const previousMask = new Int32Array(fullMask + 1)
-  const previousPlayerIndex = new Int32Array(fullMask + 1)
+  const previousCandidateIndex = new Int32Array(fullMask + 1)
+  const previousRoundIndex = new Int32Array(fullMask + 1)
   const previousSlotIndex = new Int32Array(fullMask + 1)
   previousMask.fill(-1)
-  previousPlayerIndex.fill(-1)
+  previousCandidateIndex.fill(-1)
+  previousRoundIndex.fill(-1)
   previousSlotIndex.fill(-1)
 
-  const eligibleMasks = candidates.map((player) =>
-    slotInstances.reduce((mask, entry, index) => (player.eligiblePositions.includes(entry.slot) ? mask | (1 << index) : mask), 0),
-  )
+  for (let roundIndex = 0; roundIndex < rounds.length; roundIndex += 1) {
+    const round = rounds[roundIndex]
+    const nextScores = new Float64Array(fullMask + 1)
+    nextScores.set(scores)
+    const nextPreviousMask = new Int32Array(previousMask)
+    const nextPreviousCandidateIndex = new Int32Array(previousCandidateIndex)
+    const nextPreviousRoundIndex = new Int32Array(previousRoundIndex)
+    const nextPreviousSlotIndex = new Int32Array(previousSlotIndex)
 
-  for (let playerIndex = 0; playerIndex < candidates.length; playerIndex += 1) {
-    const eligibleMask = eligibleMasks[playerIndex]
-    if (eligibleMask === 0) continue
-
-    for (let mask = fullMask; mask >= 0; mask -= 1) {
+    for (let mask = 0; mask <= fullMask; mask += 1) {
       const currentScore = scores[mask]
       if (!Number.isFinite(currentScore)) continue
 
-      let openMask = eligibleMask & ~mask
-      while (openMask > 0) {
-        const slotBit = openMask & -openMask
-        const nextMask = mask | slotBit
-        const nextScore = currentScore + candidates[playerIndex].value
-        if (nextScore > scores[nextMask]) {
-          scores[nextMask] = nextScore
-          previousMask[nextMask] = mask
-          previousPlayerIndex[nextMask] = playerIndex
-          previousSlotIndex[nextMask] = Math.log2(slotBit) | 0
+      for (let candidateIndex = 0; candidateIndex < round.candidates.length; candidateIndex += 1) {
+        const player = round.candidates[candidateIndex]
+        let openMask = slotInstances.reduce(
+          (candidateMask, entry, slotIndex) => (player.eligiblePositions.includes(entry.slot) && (mask & (1 << slotIndex)) === 0 ? candidateMask | (1 << slotIndex) : candidateMask),
+          0,
+        )
+
+        while (openMask > 0) {
+          const slotBit = openMask & -openMask
+          const nextMask = mask | slotBit
+          const nextScore = currentScore + player.value
+          if (nextScore > nextScores[nextMask]) {
+            nextScores[nextMask] = nextScore
+            nextPreviousMask[nextMask] = mask
+            nextPreviousCandidateIndex[nextMask] = candidateIndex
+            nextPreviousRoundIndex[nextMask] = roundIndex
+            nextPreviousSlotIndex[nextMask] = Math.log2(slotBit) | 0
+          }
+          openMask -= slotBit
         }
-        openMask -= slotBit
       }
     }
+
+    scores.set(nextScores)
+    previousMask.set(nextPreviousMask)
+    previousCandidateIndex.set(nextPreviousCandidateIndex)
+    previousRoundIndex.set(nextPreviousRoundIndex)
+    previousSlotIndex.set(nextPreviousSlotIndex)
   }
 
   if (!Number.isFinite(scores[fullMask])) return null
@@ -456,25 +607,27 @@ function buildOptimalSummary(players: Player[], slotInstances: SlotInstance[], m
   const draftedList: DraftedEntry[] = []
   let mask = fullMask
   while (mask > 0) {
-    const playerIndex = previousPlayerIndex[mask]
+    const roundIndex = previousRoundIndex[mask]
+    const candidateIndex = previousCandidateIndex[mask]
     const slotIndex = previousSlotIndex[mask]
     const priorMask = previousMask[mask]
-    if (playerIndex < 0 || slotIndex < 0 || priorMask < 0) break
+    if (roundIndex < 0 || candidateIndex < 0 || slotIndex < 0 || priorMask < 0) break
 
     draftedList.push({
       ...slotInstances[slotIndex],
-      player: candidates[playerIndex],
+      player: rounds[roundIndex].candidates[candidateIndex],
     })
     mask = priorMask
   }
 
   draftedList.sort((left, right) => slotInstances.findIndex((entry) => entry.key === left.key) - slotInstances.findIndex((entry) => entry.key === right.key))
   const totalPoints = draftedList.reduce((sum, entry) => sum + (entry.player?.value ?? 0), 0)
+  const percentile = percentileFromSortedTotals(simulationSummary?.totals ?? [], totalPoints)
 
   return {
     totalPoints,
-    wins: estimateWins(totalPoints, totalPoints),
-    losses: estimateLosses(totalPoints, totalPoints),
+    wins: estimateWinsFromPercentile(percentile),
+    losses: estimateLossesFromPercentile(percentile),
     draftedList,
   }
 }
@@ -1222,6 +1375,7 @@ function ResultsHero({
   modeSummary,
   drawLabel,
   optimalSummary,
+  simulationSummary,
   strengthPercentile,
   shareState,
   onShare,
@@ -1234,6 +1388,7 @@ function ResultsHero({
   modeSummary: string
   drawLabel: string
   optimalSummary: OptimalSummary | null
+  simulationSummary: SimulationSummary | null
   strengthPercentile: number
   shareState: ShareState
   onShare: () => void
@@ -1278,10 +1433,17 @@ function ResultsHero({
           <h1>{summaryRecord}</h1>
           <p className="results-total-war">{formatPoints(totalScore)}</p>
           <p className="results-meta">{drawLabel} draw / {modeSummary}</p>
-          <p className="results-hero-strength">Stronger than {strengthPercentile}% of all rosters</p>
+          <p className="results-hero-strength">
+            Stronger than {strengthPercentile}% of {simulationSummary?.sampleSize ?? 0} no-respin top-pick runs
+          </p>
           {optimalSummary ? (
             <p className="results-hero-optimal">
-              Optimal result: {optimalSummary.wins}-{optimalSummary.losses} at {formatPoints(optimalSummary.totalPoints)}
+              Optimal result on your boards: {optimalSummary.wins}-{optimalSummary.losses} at {formatPoints(optimalSummary.totalPoints)}
+            </p>
+          ) : null}
+          {simulationSummary ? (
+            <p className="results-hero-optimal">
+              Best simulated no-respin result: {simulationSummary.bestRun.wins}-{simulationSummary.bestRun.losses} at {formatPoints(simulationSummary.bestRun.totalPoints)}
             </p>
           ) : null}
         </div>
@@ -1364,6 +1526,7 @@ function RunSummaryPanel({
   drawLabel,
   leaderboardName,
   savedResult,
+  simulationSummary,
   onLeaderboardNameChange,
   onSave,
   summary,
@@ -1374,6 +1537,7 @@ function RunSummaryPanel({
   drawLabel: string
   leaderboardName: string
   savedResult: boolean
+  simulationSummary: SimulationSummary | null
   onLeaderboardNameChange: (value: string) => void
   onSave: () => void
   summary: ReturnType<typeof summarizeRoster>
@@ -1394,6 +1558,8 @@ function RunSummaryPanel({
     ['Final Draw', drawLabel],
     ['Era', currentEra],
     ['Mode', activeMode.label],
+    ['Median Sim', simulationSummary ? formatPoints(simulationSummary.percentilePoints.p50) : '-'],
+    ['90th Pctl Sim', simulationSummary ? formatPoints(simulationSummary.percentilePoints.p90) : '-'],
   ] as const
 
   return (
@@ -1463,6 +1629,7 @@ function ResultsPage({
   shareState,
   shareCardRef,
   optimalSummary,
+  simulationSummary,
   strengthPercentile,
   onLeaderboardNameChange,
   onSave,
@@ -1483,6 +1650,7 @@ function ResultsPage({
   shareState: ShareState
   shareCardRef: RefObject<HTMLDivElement | null>
   optimalSummary: OptimalSummary | null
+  simulationSummary: SimulationSummary | null
   strengthPercentile: number
   onLeaderboardNameChange: (value: string) => void
   onSave: () => void
@@ -1503,6 +1671,7 @@ function ResultsPage({
           modeSummary={formatModeSummary(activeMode, currentEra)}
           drawLabel={drawLabel}
           optimalSummary={optimalSummary}
+          simulationSummary={simulationSummary}
           strengthPercentile={strengthPercentile}
           shareState={shareState}
           onShare={onShare}
@@ -1531,6 +1700,7 @@ function ResultsPage({
             drawLabel={drawLabel}
             leaderboardName={leaderboardName}
             savedResult={savedResult}
+            simulationSummary={simulationSummary}
             onLeaderboardNameChange={onLeaderboardNameChange}
             onSave={onSave}
             summary={summary}
@@ -1552,6 +1722,7 @@ function App() {
   const [sortKey, setSortKey] = useState<SortKey>('rating')
   const [search, setSearch] = useState('')
   const [currentAssignment, setCurrentAssignment] = useState<DraftAssignment | null>(null)
+  const [draftRounds, setDraftRounds] = useState<DraftRound[]>([])
   const [spinning, setSpinning] = useState(false)
   const [spinReason, setSpinReason] = useState<'advance' | 'team' | 'era' | 'start'>('start')
   const [pendingPlayer, setPendingPlayer] = useState<Player | null>(null)
@@ -1598,16 +1769,23 @@ function App() {
   const rosterSlots = meta?.rosterSlots ?? DEFAULT_ROSTER
   const slotInstances = useMemo(() => buildSlotInstances(rosterSlots), [rosterSlots])
   const activeMode = selectedModeId ? MODE_CONFIG[selectedModeId] : null
-  const optimalSummary = useMemo(() => buildOptimalSummary(players, slotInstances, selectedModeId), [players, selectedModeId, slotInstances])
+  const simulationSummary = useMemo(() => buildSimulationSummary(players, slotInstances, selectedModeId), [players, selectedModeId, slotInstances])
+  const optimalSummary = useMemo(
+    () => buildRunOptimalSummary(draftRounds, slotInstances, simulationSummary),
+    [draftRounds, simulationSummary, slotInstances],
+  )
   const availableAssignments = useMemo(
     () => buildAssignments(players, drafted, slotInstances, selectedModeId),
     [drafted, players, selectedModeId, slotInstances],
   )
   const totalScore = useMemo(() => Object.values(drafted).reduce((sum, player) => sum + player.value, 0), [drafted])
   const completed = Object.keys(drafted).length >= slotInstances.length
-  const projectedWins = estimateWins(totalScore, optimalSummary?.totalPoints)
-  const projectedLosses = estimateLosses(totalScore, optimalSummary?.totalPoints)
-  const strengthPercentile = estimateStrengthPercentile(totalScore, optimalSummary?.totalPoints)
+  const strengthPercentile = useMemo(
+    () => percentileFromSortedTotals(simulationSummary?.totals ?? [], totalScore),
+    [simulationSummary, totalScore],
+  )
+  const projectedWins = estimateWinsFromPercentile(strengthPercentile)
+  const projectedLosses = estimateLossesFromPercentile(strengthPercentile)
 
   useEffect(() => {
     if (!selectedModeId || loading || completed || !spinning || availableAssignments.length === 0) return
@@ -1681,6 +1859,7 @@ function App() {
 
   function clearRunState() {
     setDrafted({})
+    setDraftRounds([])
     setSelectedPosition('ALL')
     setSortKey('rating')
     setSearch('')
@@ -1717,10 +1896,15 @@ function App() {
     const slotKey = getSlotKeyForPosition(position, slotInstances, drafted)
     if (!slotKey) return
     const willCompleteRoster = Object.keys(drafted).length + 1 >= slotInstances.length
+    const roundAssignment = currentAssignment
+    const roundCandidates = [...assignmentPlayers]
 
     setPendingPlayer(null)
     setPositionChoices([])
     setDrafted((current) => ({ ...current, [slotKey]: player }))
+    if (roundAssignment) {
+      setDraftRounds((current) => [...current, { assignment: roundAssignment, candidates: roundCandidates }])
+    }
     if (!willCompleteRoster) {
       triggerSpin('advance')
     } else {
@@ -1850,6 +2034,7 @@ function App() {
         shareState={shareState}
         shareCardRef={shareCardRef}
         optimalSummary={optimalSummary}
+        simulationSummary={simulationSummary}
         strengthPercentile={strengthPercentile}
         onLeaderboardNameChange={setLeaderboardName}
         onSave={saveLeaderboard}
