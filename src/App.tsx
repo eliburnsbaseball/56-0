@@ -114,6 +114,10 @@ type AssignmentPoolResult = {
   usedFallback: boolean
   fallbackLabel: string | null
 }
+type RespinUsage = {
+  team: boolean
+  era: boolean
+}
 
 type ModeConfig = {
   label: string
@@ -134,7 +138,7 @@ const LEADERBOARD_STORAGE_KEY = 'college-baseball-diamond-leaderboards-v1'
 const TEAM_POOL_MINIMUM = 18
 const RULES = [
   ['13 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, SP1, SP2, SP3, RP1, RP2.'],
-  ['Random boards', 'Each pick spins to a new school or conference board, and you can re-spin team or era before you lock in the next pick.'],
+  ['Random boards', 'Each pick spins to a new school or conference board, and each draw gives you one team re-spin and one era re-spin before you lock in the next pick.'],
   ['Career value', 'Ratings use full college careers, so four good years beat one short spike.'],
   ['56-game finish', 'Projected records use a tougher 56-game curve so unbeaten runs stay rare.'],
 ] as const
@@ -306,7 +310,7 @@ function estimateWinsFromPercentile(percentile: number) {
   if (percentile >= 99) return 56
   const probability = Math.min(0.99, Math.max(0.01, percentile / 100))
   const zScore = inverseNormalCdf(probability)
-  const projected = 28 + zScore * 8.25
+  const projected = 29 + zScore * 9.5 + Math.max(0, zScore) * 1.25
   return Math.max(10, Math.min(55, Math.round(projected)))
 }
 
@@ -1107,14 +1111,16 @@ function CurrentDrawPanel({
   currentEra,
   onSpinTeam,
   onSpinEra,
-  disabled,
+  teamDisabled,
+  eraDisabled,
 }: {
   spinning: boolean
   assignment: DraftAssignment | null
   currentEra: Era
   onSpinTeam: () => void
   onSpinEra: () => void
-  disabled: boolean
+  teamDisabled: boolean
+  eraDisabled: boolean
 }) {
   return (
     <section className="sidebar-section">
@@ -1131,10 +1137,10 @@ function CurrentDrawPanel({
       </div>
 
       <div className="draw-actions">
-        <button type="button" className="button button-secondary" onClick={onSpinTeam} disabled={disabled}>
+        <button type="button" className="button button-secondary" onClick={onSpinTeam} disabled={teamDisabled}>
           Re-spin team
         </button>
-        <button type="button" className="button button-secondary" onClick={onSpinEra} disabled={disabled}>
+        <button type="button" className="button button-secondary" onClick={onSpinEra} disabled={eraDisabled}>
           Re-spin era
         </button>
       </div>
@@ -1362,6 +1368,7 @@ function CandidateBoardPage({
   filteredPlayers,
   usedFallback,
   fallbackLabel,
+  respinUsage,
   drafted,
   draftedCount,
   selectedPosition,
@@ -1384,6 +1391,7 @@ function CandidateBoardPage({
   filteredPlayers: Player[]
   usedFallback: boolean
   fallbackLabel: string | null
+  respinUsage: RespinUsage
   drafted: DraftedMap
   draftedCount: number
   selectedPosition: PositionFilter
@@ -1434,7 +1442,8 @@ function CandidateBoardPage({
               currentEra={currentEra}
               onSpinTeam={onSpinTeam}
               onSpinEra={onSpinEra}
-              disabled={spinning}
+              teamDisabled={spinning || respinUsage.team}
+              eraDisabled={spinning || respinUsage.era}
             />
 
             <FilterPanel
@@ -1889,6 +1898,7 @@ function App() {
   const [pendingPlayer, setPendingPlayer] = useState<Player | null>(null)
   const [positionChoices, setPositionChoices] = useState<Slot[]>([])
   const [spinPreview, setSpinPreview] = useState<DraftAssignment | null>(null)
+  const [respinUsage, setRespinUsage] = useState<RespinUsage>({ team: false, era: false })
   const [leaderboards, setLeaderboards] = useState<Leaderboards>(createEmptyLeaderboards())
   const [showResultsView, setShowResultsView] = useState(false)
   const [leaderboardName, setLeaderboardName] = useState('')
@@ -1900,19 +1910,24 @@ function App() {
     let cancelled = false
 
     async function loadData() {
-      setLoading(true)
-      const metaResponse = await fetch('/data/meta.generated.json')
-      const nextMeta = (await metaResponse.json()) as Meta
-      const chunkFiles = nextMeta.playerChunks?.length ? nextMeta.playerChunks : ['players.generated.json']
-      const chunkResponses = await Promise.all(chunkFiles.map((fileName) => fetch(`/data/${fileName}`)))
-      const chunkPayloads = (await Promise.all(chunkResponses.map((response) => response.json()))) as Player[][]
-      const nextPlayers = chunkPayloads.flat()
-      if (cancelled) return
+      try {
+        setLoading(true)
+        const metaResponse = await fetch('/data/meta.generated.json')
+        const nextMeta = (await metaResponse.json()) as Meta
+        const chunkFiles = nextMeta.playerChunks?.length ? nextMeta.playerChunks : ['players.generated.json']
+        const chunkResponses = await Promise.all(chunkFiles.map((fileName) => fetch(`/data/${fileName}`)))
+        const chunkPayloads = (await Promise.all(chunkResponses.map((response) => response.json()))) as Player[][]
+        const nextPlayers = chunkPayloads.flat()
+        if (cancelled) return
 
-      setMeta(nextMeta)
-      setPlayers(nextPlayers)
-      setLeaderboards(readLeaderboards())
-      setLoading(false)
+        setMeta(nextMeta)
+        setPlayers(nextPlayers)
+        setLeaderboards(readLeaderboards())
+      } catch (error) {
+        console.error('Failed to load draft data', error)
+      } finally {
+        if (!cancelled) setLoading(false)
+      }
     }
 
     loadData()
@@ -1975,6 +1990,13 @@ function App() {
 
       setCurrentAssignment(nextAssignment)
       setSpinPreview(nextAssignment)
+      setRespinUsage(
+        spinReason === 'team'
+          ? (current) => ({ ...current, team: true })
+          : spinReason === 'era'
+            ? (current) => ({ ...current, era: true })
+            : { team: false, era: false },
+      )
       setSpinning(false)
     }, 980)
 
@@ -2033,6 +2055,7 @@ function App() {
     setShowResultsView(false)
     setCurrentAssignment(null)
     setSpinPreview(null)
+    setRespinUsage({ team: false, era: false })
   }
 
   function startMode(modeId: ModeId) {
@@ -2050,6 +2073,7 @@ function App() {
 
   function triggerSpin(reason: 'advance' | 'team' | 'era' | 'start') {
     if (completed || availableAssignments.length === 0) return
+    if ((reason === 'team' && respinUsage.team) || (reason === 'era' && respinUsage.era)) return
     setSpinReason(reason)
     setSpinning(true)
   }
@@ -2220,6 +2244,7 @@ function App() {
         drafted={drafted}
         usedFallback={assignmentPool.usedFallback}
         fallbackLabel={assignmentPool.fallbackLabel}
+        respinUsage={respinUsage}
         draftedCount={draftedCount}
         selectedPosition={selectedPosition}
         setSelectedPosition={setSelectedPosition}
