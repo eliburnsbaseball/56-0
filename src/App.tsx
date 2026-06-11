@@ -108,6 +108,11 @@ type SimulationSummary = {
     losses: number
   }
 }
+type AssignmentPoolResult = {
+  players: Player[]
+  usedFallback: boolean
+  fallbackLabel: string | null
+}
 
 type ModeConfig = {
   label: string
@@ -126,6 +131,7 @@ const DEFAULT_ERAS: Era[] = ['pre-2000s', '2000s', '2010s', '2020s']
 const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP']
 const SORT_OPTIONS: SortKey[] = ['rating', 'games', 'avg', 'ops', 'hr', 'rbi', 'era', 'whip', 'so']
 const LEADERBOARD_STORAGE_KEY = 'college-baseball-diamond-leaderboards-v1'
+const TEAM_POOL_MINIMUM = 18
 const RULES = [
   ['13 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, SP1, SP2, SP3, RP1, RP2.'],
   ['Random boards', 'Each pick spins to a new school or conference board, and you can re-spin team or era before you lock in the next pick.'],
@@ -353,6 +359,53 @@ function buildAssignmentPools(players: Player[], modeId: ModeId | null) {
   }
 
   return [...pools.values()]
+}
+
+function getAssignmentPoolResult(
+  players: Player[],
+  assignment: DraftAssignment | null,
+  modeId: ModeId | null,
+  drafted: DraftedMap,
+  slotInstances: SlotInstance[],
+  spinning: boolean,
+): AssignmentPoolResult {
+  if (!assignment || spinning) {
+    return { players: [], usedFallback: false, fallbackLabel: null }
+  }
+
+  const draftedIds = new Set(Object.values(drafted).map((player) => player.id))
+  const basePlayers = players
+    .filter((player) => playerMatchesMode(player, modeId))
+    .filter((player) => !draftedIds.has(player.id))
+    .filter((player) => matchesAssignment(player, assignment))
+    .filter((player) => getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0)
+
+  if (assignment.kind !== 'power5' || basePlayers.length >= TEAM_POOL_MINIMUM) {
+    return { players: basePlayers, usedFallback: false, fallbackLabel: null }
+  }
+
+  const teamSeed = players.find((player) => playerMatchesMode(player, modeId) && player.team === assignment.team)
+  const conference = teamSeed?.conference
+  if (!conference) {
+    return { players: basePlayers, usedFallback: false, fallbackLabel: null }
+  }
+
+  const fallbackPlayers = players
+    .filter((player) => playerMatchesMode(player, modeId))
+    .filter((player) => !draftedIds.has(player.id))
+    .filter((player) => player.era === assignment.era)
+    .filter((player) => player.conference === conference)
+    .filter((player) => getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0)
+
+  if (fallbackPlayers.length <= basePlayers.length) {
+    return { players: basePlayers, usedFallback: false, fallbackLabel: null }
+  }
+
+  return {
+    players: fallbackPlayers,
+    usedFallback: true,
+    fallbackLabel: `${conference} depth pool`,
+  }
 }
 
 function percentileFromSortedTotals(sortedTotals: number[], value: number) {
@@ -1212,6 +1265,8 @@ function CandidateBoardPage({
   spinning,
   meta,
   filteredPlayers,
+  usedFallback,
+  fallbackLabel,
   drafted,
   draftedCount,
   selectedPosition,
@@ -1234,6 +1289,8 @@ function CandidateBoardPage({
   spinning: boolean
   meta: Meta | null
   filteredPlayers: Player[]
+  usedFallback: boolean
+  fallbackLabel: string | null
   drafted: DraftedMap
   draftedCount: number
   selectedPosition: PositionFilter
@@ -1319,6 +1376,7 @@ function CandidateBoardPage({
               <span>{filteredPlayers.length} candidates shown</span>
               <span>{meta?.modelDiagnostics.historicalPlayers ?? 0} historical careers loaded</span>
               <span>Current roster: {draftedCount}/13 drafted</span>
+              {usedFallback && fallbackLabel ? <span>{fallbackLabel}</span> : null}
             </div>
 
             {spinning ? <div className="board-loading">Cycling through eras and team draws...</div> : null}
@@ -1823,15 +1881,12 @@ function App() {
     }
   }, [availableAssignments, completed, currentAssignment, loading, selectedModeId, spinReason, spinning])
 
-  const assignmentPlayers = useMemo(() => {
-    if (!currentAssignment || spinning) return []
-    const draftedIds = new Set(Object.values(drafted).map((player) => player.id))
-    return players
-      .filter((player) => playerMatchesMode(player, selectedModeId))
-      .filter((player) => !draftedIds.has(player.id))
-      .filter((player) => matchesAssignment(player, currentAssignment))
-      .filter((player) => getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0)
-  }, [currentAssignment, drafted, players, selectedModeId, slotInstances, spinning])
+  const assignmentPool = useMemo(
+    () => getAssignmentPoolResult(players, currentAssignment, selectedModeId, drafted, slotInstances, spinning),
+    [currentAssignment, drafted, players, selectedModeId, slotInstances, spinning],
+  )
+
+  const assignmentPlayers = assignmentPool.players
 
   const filteredPlayers = useMemo(() => {
     const term = search.trim().toLowerCase()
@@ -2068,6 +2123,8 @@ function App() {
         meta={meta}
         filteredPlayers={filteredPlayers}
         drafted={drafted}
+        usedFallback={assignmentPool.usedFallback}
+        fallbackLabel={assignmentPool.fallbackLabel}
         draftedCount={draftedCount}
         selectedPosition={selectedPosition}
         setSelectedPosition={setSelectedPosition}

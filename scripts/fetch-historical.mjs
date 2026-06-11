@@ -354,6 +354,9 @@ function getTeamLookupKeys(team) {
 const TARGET_TEAM_ALIASES = {
   [normalizeText('USC')]: 'Southern California',
   [normalizeText('Mississippi')]: 'Ole Miss',
+  [normalizeText('Central Florida')]: 'UCF',
+  [normalizeText('Central Fla.')]: 'UCF',
+  [normalizeText('Central Fla')]: 'UCF',
   [normalizeText('Oklahoma St.')]: 'Oklahoma State',
   [normalizeText('Kansas St.')]: 'Kansas State',
   [normalizeText('Illinois St.')]: 'Illinois State',
@@ -373,6 +376,7 @@ const TARGET_TEAM_ALIASES = {
 const TARGET_TEAM_ALIAS_KEYS = {
   [normalizeText('Southern California')]: [normalizeText('USC')],
   [normalizeText('Ole Miss')]: [normalizeText('Mississippi')],
+  [normalizeText('UCF')]: [normalizeText('Central Florida'), normalizeText('Central Fla.'), normalizeText('Central Fla')],
   [normalizeText('Oklahoma State')]: [normalizeText('Oklahoma St.')],
   [normalizeText('Kansas State')]: [normalizeText('Kansas St.')],
   [normalizeText('Illinois State')]: [normalizeText('Illinois St.')],
