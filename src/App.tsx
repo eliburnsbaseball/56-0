@@ -134,6 +134,7 @@ type ShareState = 'idle' | 'shared' | 'copied' | 'downloaded' | 'unsupported'
 const DEFAULT_ROSTER: Slot[] = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'SP', 'SP', 'RP', 'RP']
 const DEFAULT_ERAS: Era[] = ['pre-2000s', '2000s', '2010s', '2020s']
 const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH', 'SP', 'RP']
+const TEAM_BOARD_MEANINGFUL_MINIMUM = 8
 const RULES = [
   ['14 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, DH, SP1, SP2, SP3, RP1, RP2.'],
   ['Random boards', 'Each pick spins to a new school or conference board, and each draw gives you one team re-spin and one era re-spin before you lock in the next pick.'],
@@ -388,11 +389,7 @@ function getAssignmentPoolResult(
     .filter((player) => matchesAssignment(player, assignment))
     .filter((player) => getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0)
 
-  const openSlots = getOpenSlotInstances(slotInstances, drafted)
-  const hasEnoughPlayers = basePlayers.length >= openSlots.length
-  const coversEveryOpenSlot = openSlots.every((entry) => basePlayers.some((player) => player.eligiblePositions.includes(entry.slot)))
-
-  if (assignment.kind !== 'power5' || (hasEnoughPlayers && coversEveryOpenSlot)) {
+  if (assignment.kind !== 'power5' || basePlayers.length >= TEAM_BOARD_MEANINGFUL_MINIMUM) {
     return { players: basePlayers, usedFallback: false, fallbackLabel: null }
   }
 
