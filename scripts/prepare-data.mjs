@@ -166,7 +166,8 @@ function isUsableHistoricalPlayer(player) {
 
 function enrichHistoricalPlayer(player, schoolLookup) {
   const rawRating = player.category === 'pitcher' ? scoreHistoricalPitcher(player.stats) : scoreHistoricalHitter(player.stats)
-  const rating = player.category === 'pitcher' ? Math.max(-1.75, rawRating) : rawRating
+  const adjustedRating = applySampleAdjustment(player.category, rawRating, player.stats)
+  const rating = player.category === 'pitcher' ? Math.max(-1.75, adjustedRating) : adjustedRating
   return {
     ...player,
     logoSlug: findSchoolSlug(player.team, schoolLookup),
@@ -179,6 +180,16 @@ function buildCurrentHitter(row, model, schoolLookup) {
   const primaryPosition = normalizeCurrentHitterPosition(row.POS)
   const eligiblePositions = getEligibleCurrentHitterPositions(primaryPosition)
   const conferenceInfo = lookupConference(team)
+  const stats = {
+    games: numberValue(row.GP),
+    avg: numberValue(row.BA),
+    ops: numberValue(row.OPS),
+    hr: numberValue(row.HR),
+    rbi: numberValue(row.RBI),
+    sb: numberValue(row.SB),
+    pa: numberValue(row.PA),
+  }
+  const rawValue = estimate(model, hitterFeatures.map((feature) => numberValue(row[feature])))
 
   return {
     id: `2026-${normalizeText(row.Player)}-${normalizeText(team)}-${primaryPosition}`,
@@ -192,16 +203,9 @@ function buildCurrentHitter(row, model, schoolLookup) {
     eligiblePositions,
     teamTier: conferenceInfo.teamTier,
     conference: conferenceInfo.conference,
-    value: roundTo(estimate(model, hitterFeatures.map((feature) => numberValue(row[feature]))), 2),
+    value: roundTo(applySampleAdjustment('hitter', rawValue, stats), 2),
     logoSlug: findSchoolSlug(team, schoolLookup),
-    stats: {
-      games: numberValue(row.GP),
-      avg: numberValue(row.BA),
-      ops: numberValue(row.OPS),
-      hr: numberValue(row.HR),
-      rbi: numberValue(row.RBI),
-      sb: numberValue(row.SB),
-    },
+    stats,
     statLine: `${formatDecimal(row.BA, 3)} AVG - ${formatDecimal(row.OPS, 3)} OPS - ${row.HR} HR`,
     source: '2026-csv',
   }
@@ -443,6 +447,17 @@ function buildCurrentPitcher(row, model, schoolLookup) {
   const team = decodeHtml(row.Team)
   const eligiblePositions = classifyCurrentPitcherPositions(row)
   const conferenceInfo = lookupConference(team)
+  const stats = {
+    games: numberValue(row.APP),
+    wins: numberValue(row.W),
+    era: numberValue(row.ERA),
+    whip: estimateWhip(row),
+    strikeouts: numberValue(row.K),
+    innings: numberValue(row.IP),
+    saves: numberValue(row.SV),
+    starts: numberValue(row.GS),
+  }
+  const rawValue = estimate(model, pitcherFeatures.map((feature) => numberValue(row[feature])))
 
   return {
     id: `2026-${normalizeText(row.Player)}-${normalizeText(team)}-pitch`,
@@ -456,18 +471,9 @@ function buildCurrentPitcher(row, model, schoolLookup) {
     eligiblePositions,
     teamTier: conferenceInfo.teamTier,
     conference: conferenceInfo.conference,
-    value: roundTo(estimate(model, pitcherFeatures.map((feature) => numberValue(row[feature]))), 2),
+    value: roundTo(applySampleAdjustment('pitcher', rawValue, stats), 2),
     logoSlug: findSchoolSlug(team, schoolLookup),
-    stats: {
-      games: numberValue(row.APP),
-      wins: numberValue(row.W),
-      era: numberValue(row.ERA),
-      whip: estimateWhip(row),
-      strikeouts: numberValue(row.K),
-      innings: numberValue(row.IP),
-      saves: numberValue(row.SV),
-      starts: numberValue(row.GS),
-    },
+    stats,
     statLine: `${formatDecimal(row.ERA, 2)} ERA - ${formatDecimal(estimateWhip(row), 3)} WHIP - ${row.K} SO`,
     source: '2026-csv',
   }
@@ -502,6 +508,24 @@ function scoreHistoricalPitcher(stats) {
     (stats.whip || 0) * 0.45 +
     1.65
   )
+}
+
+function applySampleAdjustment(category, rawValue, stats) {
+  if (category === 'pitcher') {
+    const innings = stats.innings || 0
+    const games = stats.games || 0
+    const starts = stats.starts || 0
+    const saves = stats.saves || 0
+    const volume = innings + starts * 2 + saves * 1.5 + games * 0.35
+    const reliability = Math.min(1, Math.sqrt(volume / 95))
+    return rawValue * (0.2 + reliability * 0.8)
+  }
+
+  const games = stats.games || 0
+  const pa = stats.pa || games * 4
+  const volume = games + pa * 0.18
+  const reliability = Math.min(1, Math.sqrt(volume / 120))
+  return rawValue * (0.32 + reliability * 0.68)
 }
 
 function getEra(year) {

@@ -246,7 +246,7 @@ function getSortValue(player: Player, sortKey: SortKey) {
 
 function formatRate(value?: number) {
   if (value === undefined || value === null) return '-'
-  return value.toFixed(3).replace(/^0(?=\.)/, '.')
+  return value.toFixed(3)
 }
 
 function formatSeasonLabel(player: Player) {
@@ -265,22 +265,30 @@ function formatPlayerType(player: Player) {
 
 function formatPlayerStatSummary(player: Player) {
   if (player.category === 'pitcher') {
-    return `W ${player.stats.wins ?? 0} | ERA ${player.stats.era?.toFixed(2) ?? '-'} | WHIP ${player.stats.whip?.toFixed(3) ?? '-'} | SO ${player.stats.strikeouts ?? 0}`
+    return `ERA ${player.stats.era?.toFixed(2) ?? '-'} | WHIP ${player.stats.whip?.toFixed(3) ?? '-'} | SO ${player.stats.strikeouts ?? 0} | IP ${player.stats.innings?.toFixed(1) ?? '0.0'}`
   }
 
-  return `AVG ${formatRate(player.stats.avg)} | OPS ${formatRate(player.stats.ops)} | HR ${player.stats.hr ?? 0} | RBI ${player.stats.rbi ?? 0}`
+  return `AVG ${formatRate(player.stats.avg)} | OPS ${formatRate(player.stats.ops)} | RBI ${player.stats.rbi ?? 0} | SB ${player.stats.sb ?? 0}`
 }
 
 function formatCompactPlayerStatSummary(player: Player) {
   if (player.category === 'pitcher') {
-    return `${player.stats.wins ?? 0} W  ·  ${player.stats.era?.toFixed(2) ?? '-'} ERA  ·  ${player.stats.whip?.toFixed(3) ?? '-'} WHIP`
+    return `${player.stats.innings?.toFixed(1) ?? '0.0'} IP - ${player.stats.strikeouts ?? 0} SO - ${player.stats.games ?? 0} G`
   }
 
-  return `${formatRate(player.stats.avg)} AVG  ·  ${player.stats.hr ?? 0} HR  ·  ${formatRate(player.stats.ops)} OPS`
+  return `${player.stats.games ?? 0} G - ${player.stats.rbi ?? 0} RBI - ${player.stats.sb ?? 0} SB`
 }
 
 function formatPositionBadge(player: Player) {
   return player.eligiblePositions.join('/')
+}
+
+function getPlayerVolume(player: Player) {
+  if (player.category === 'pitcher') {
+    return player.stats.innings ?? player.stats.games ?? 0
+  }
+
+  return player.stats.games ?? 0
 }
 
 function estimateWinsFromPercentile(percentile: number) {
@@ -1838,10 +1846,13 @@ function App() {
 
     return filtered.sort((left, right) => {
       if (activeMode?.draftMode === 'hard') return left.name.localeCompare(right.name)
-      if (sortKey === 'era' || sortKey === 'whip') {
-        return getSortValue(left, sortKey) - getSortValue(right, sortKey) || right.value - left.value
+      if (sortKey === 'rating') {
+        return right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left) || left.name.localeCompare(right.name)
       }
-      return getSortValue(right, sortKey) - getSortValue(left, sortKey) || right.value - left.value
+      if (sortKey === 'era' || sortKey === 'whip') {
+        return getSortValue(left, sortKey) - getSortValue(right, sortKey) || right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left)
+      }
+      return getSortValue(right, sortKey) - getSortValue(left, sortKey) || right.value - left.value || getPlayerVolume(right) - getPlayerVolume(left)
     })
   }, [activeMode?.draftMode, assignmentPlayers, search, selectedPosition, sortKey])
 
@@ -2091,3 +2102,4 @@ function App() {
 }
 
 export default App
+
