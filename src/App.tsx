@@ -285,8 +285,8 @@ function formatCompactPlayerStatSummary(player: Player) {
   return `${player.stats.games ?? 0} G - ${player.stats.rbi ?? 0} RBI - ${player.stats.sb ?? 0} SB`
 }
 
-function formatPositionBadge(player: Player) {
-  return player.eligiblePositions.join('/')
+function formatPositionBadge(positions: Slot[]) {
+  return positions.join('/')
 }
 
 function getPlayerVolume(player: Player) {
@@ -295,6 +295,11 @@ function getPlayerVolume(player: Player) {
   }
 
   return player.stats.games ?? 0
+}
+
+function getDisplayedEligiblePositions(player: Player, slotInstances: SlotInstance[], drafted: DraftedMap) {
+  const openPositions = getOpenPositionsForPlayer(player, slotInstances, drafted)
+  return openPositions.length > 0 ? openPositions : player.eligiblePositions
 }
 
 function inverseNormalCdf(probability: number) {
@@ -1189,20 +1194,26 @@ function RosterTracker({
 function CandidateRow({
   index,
   player,
+  slotInstances,
+  drafted,
   canDraft,
   spinning,
   onDraft,
 }: {
   index: number
   player: Player
+  slotInstances: SlotInstance[]
+  drafted: DraftedMap
   canDraft: boolean
   spinning: boolean
   onDraft: (player: Player) => void
 }) {
+  const displayedEligiblePositions = getDisplayedEligiblePositions(player, slotInstances, drafted)
+
   return (
     <div className={`candidate-row${canDraft ? '' : ' unavailable'}`}>
       <span className="candidate-mobile-badge" aria-hidden="true">
-        {formatPositionBadge(player)}
+        {formatPositionBadge(displayedEligiblePositions)}
       </span>
       <span className="candidate-cell" data-label="Rank">
         {index + 1}
@@ -1217,7 +1228,7 @@ function CandidateRow({
         {player.team}
       </span>
       <span className="candidate-cell candidate-eligible" data-label="Eligible">
-        {player.eligiblePositions.join(' - ')}
+        {displayedEligiblePositions.join(' - ')}
       </span>
       <span className="candidate-cell" data-label="Type">
         {formatPlayerType(player)}
@@ -1273,6 +1284,8 @@ function CandidateTable({
           key={player.id}
           index={index}
           player={player}
+          slotInstances={slotInstances}
+          drafted={drafted}
           canDraft={getOpenPositionsForPlayer(player, slotInstances, drafted).length > 0}
           spinning={spinning}
           onDraft={onDraft}
@@ -1417,14 +1430,20 @@ function CandidateBoardPage({
 function DraftSlotDialog({
   player,
   positions,
+  slotInstances,
+  drafted,
   onAssign,
   onClose,
 }: {
   player: Player
   positions: Slot[]
+  slotInstances: SlotInstance[]
+  drafted: DraftedMap
   onAssign: (position: Slot) => void
   onClose: () => void
 }) {
+  const displayedEligiblePositions = getDisplayedEligiblePositions(player, slotInstances, drafted)
+
   return (
     <div className="drawer-backdrop" role="presentation" onClick={onClose}>
       <aside className="slot-drawer" role="dialog" aria-modal="true" onClick={(event) => event.stopPropagation()}>
@@ -1441,7 +1460,7 @@ function DraftSlotDialog({
         <div className="slot-drawer-summary">
           <p>{player.team}</p>
           <p>{formatCareerLabel(player)}</p>
-          <p>Eligible: {player.eligiblePositions.join(' - ')}</p>
+          <p>Eligible: {displayedEligiblePositions.join(' - ')}</p>
         </div>
 
         <div className="slot-drawer-body">
@@ -2170,6 +2189,8 @@ function App() {
         <DraftSlotDialog
           player={pendingPlayer}
           positions={positionChoices}
+          slotInstances={slotInstances}
+          drafted={drafted}
           onAssign={(position) => assignPlayer(pendingPlayer, position)}
           onClose={() => setPendingPlayer(null)}
         />
