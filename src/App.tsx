@@ -134,7 +134,6 @@ type ShareState = 'idle' | 'shared' | 'copied' | 'downloaded' | 'unsupported'
 const DEFAULT_ROSTER: Slot[] = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'SP', 'SP', 'RP', 'RP']
 const DEFAULT_ERAS: Era[] = ['pre-2000s', '2000s', '2010s', '2020s']
 const POSITION_FILTERS: PositionFilter[] = ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP']
-const LEADERBOARD_STORAGE_KEY = 'college-baseball-diamond-leaderboards-v1'
 const TEAM_POOL_MINIMUM = 18
 const RULES = [
   ['13 slots', 'C, 1B, 2B, 3B, SS, LF, CF, RF, SP1, SP2, SP3, RP1, RP2.'],
@@ -583,30 +582,41 @@ function createEmptyLeaderboards(): Leaderboards {
   }
 }
 
-function readLeaderboards(): Leaderboards {
+function normalizeLeaderboards(parsed: Partial<Leaderboards> | null | undefined): Leaderboards {
+  return {
+    classic: parsed?.classic ?? [],
+    hard: parsed?.hard ?? [],
+    'classic-2020s': parsed?.['classic-2020s'] ?? [],
+    'hard-2020s': parsed?.['hard-2020s'] ?? [],
+  }
+}
+
+async function readLeaderboards(): Promise<Leaderboards> {
   try {
-    const raw = window.localStorage.getItem(LEADERBOARD_STORAGE_KEY)
-    if (!raw) return createEmptyLeaderboards()
-    const parsed = JSON.parse(raw) as Partial<Leaderboards>
-    return {
-      classic: parsed.classic ?? [],
-      hard: parsed.hard ?? [],
-      'classic-2020s': parsed['classic-2020s'] ?? [],
-      'hard-2020s': parsed['hard-2020s'] ?? [],
-    }
+    const response = await fetch('/api/leaderboards')
+    if (!response.ok) throw new Error(`Leaderboard fetch failed: ${response.status}`)
+    const parsed = (await response.json()) as Partial<Leaderboards>
+    return normalizeLeaderboards(parsed)
   } catch {
     return createEmptyLeaderboards()
   }
 }
 
-function writeLeaderboards(next: Leaderboards) {
-  window.localStorage.setItem(LEADERBOARD_STORAGE_KEY, JSON.stringify(next))
-}
+async function writeLeaderboardEntry(modeId: ModeId, entry: LeaderboardEntry): Promise<Leaderboards> {
+  const response = await fetch('/api/leaderboards', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ modeId, entry }),
+  })
 
-function sortLeaderboard(entries: LeaderboardEntry[]) {
-  return [...entries]
-    .sort((left, right) => right.wins - left.wins || right.war - left.war || left.createdAt.localeCompare(right.createdAt))
-    .slice(0, 10)
+  if (!response.ok) {
+    throw new Error(`Leaderboard save failed: ${response.status}`)
+  }
+
+  const parsed = (await response.json()) as Partial<Leaderboards>
+  return normalizeLeaderboards(parsed)
 }
 
 function hasAnyLeaderboardEntries(leaderboards: Leaderboards) {
@@ -1922,7 +1932,7 @@ function App() {
 
         setMeta(nextMeta)
         setPlayers(nextPlayers)
-        setLeaderboards(readLeaderboards())
+        setLeaderboards(await readLeaderboards())
       } catch (error) {
         console.error('Failed to load draft data', error)
       } finally {
@@ -2115,7 +2125,7 @@ function App() {
     startMode(selectedModeId)
   }
 
-  function saveLeaderboard() {
+  async function saveLeaderboard() {
     if (!selectedModeId || savedResult) return
     const name = leaderboardName.trim()
     if (!name) return
@@ -2129,14 +2139,13 @@ function App() {
       createdAt: new Date().toISOString(),
     }
 
-    const next = {
-      ...leaderboards,
-      [selectedModeId]: sortLeaderboard([...leaderboards[selectedModeId], entry]),
+    try {
+      const next = await writeLeaderboardEntry(selectedModeId, entry)
+      setLeaderboards(next)
+      setSavedResult(true)
+    } catch (error) {
+      console.error('Failed to save leaderboard entry', error)
     }
-
-    setLeaderboards(next)
-    writeLeaderboards(next)
-    setSavedResult(true)
   }
 
   async function shareResult() {

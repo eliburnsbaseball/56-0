@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "56-0",
+  "compatibility_date": "2026-06-11",
+  "pages_build_output_dir": "dist",
+  "kv_namespaces": [
+    {
+      "binding": "COLLEGE_BASEBALL_LEADERBOARDS",
+      "id": "d42f5961ed1047fe812b5d24b4d024eb"
+    }
+  ]
+}
