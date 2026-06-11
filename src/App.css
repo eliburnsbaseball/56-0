@@ -555,8 +555,10 @@
 
 .roster-row {
   display: grid;
-  gap: 2px;
-  min-height: 62px;
+  grid-template-columns: 42px minmax(0, 1fr);
+  gap: 8px 12px;
+  align-items: start;
+  min-height: 68px;
   padding: 8px 10px;
   border-bottom: 1px solid var(--border-soft);
   background: transparent;
@@ -566,14 +568,34 @@
   background: rgba(255, 255, 255, 0.24);
 }
 
-.roster-row span,
+.roster-slot,
 .roster-row small {
   color: var(--muted);
 }
 
-.roster-row strong {
+.roster-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 34px;
+  color: var(--muted-soft);
+  font-size: 0.96rem;
+  font-weight: 700;
+}
+
+.roster-player {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.roster-player strong {
   color: var(--text);
   font-size: 0.96rem;
+}
+
+.roster-player-stats {
+  color: var(--stat-blue);
 }
 
 .record-badge {
@@ -608,6 +630,32 @@
   border-bottom: 2px solid rgba(91, 74, 49, 0.12);
   color: var(--muted-soft);
   font-size: 1rem;
+}
+
+.spin-banner {
+  display: none;
+  gap: 4px;
+  justify-items: center;
+  padding: 10px 0 16px;
+  border-bottom: 1px solid rgba(91, 74, 49, 0.12);
+  text-align: center;
+}
+
+.spin-banner .section-kicker {
+  letter-spacing: 0.18em;
+}
+
+.spin-banner strong {
+  color: var(--text);
+  font-family: var(--display);
+  font-size: clamp(2.4rem, 10vw, 4rem);
+  line-height: 0.9;
+}
+
+.spin-banner span {
+  color: var(--accent-gold);
+  font-family: var(--display);
+  font-size: 1.8rem;
 }
 
 .board-loading {
@@ -661,6 +709,12 @@
   font-size: 1rem;
 }
 
+.candidate-mobile-badge,
+.candidate-mobile-meta,
+.candidate-mobile-stats {
+  display: none;
+}
+
 .candidate-name {
   color: var(--text);
   line-height: 1.25;
@@ -677,6 +731,12 @@
 .candidate-action {
   display: flex;
   justify-content: flex-end;
+}
+
+.candidate-row .button-draft {
+  min-width: 102px;
+  font-size: 0.98rem;
+  font-weight: 700;
 }
 
 .drawer-backdrop {
@@ -1090,28 +1150,20 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 920px) {
   .candidate-table-head,
   .results-table-head,
   .leaderboard-head {
     display: none;
   }
 
-  .landing-grid,
-  .results-layout {
-    grid-template-columns: 1fr;
+  .board-sidebar .draw-hero,
+  .board-sidebar .spinner-wheel {
+    display: none;
   }
 
-  .board-layout {
-    gap: var(--space-16);
-  }
-
-  .board-header-titleline {
-    align-items: flex-start;
-  }
-
-  .draw-hero strong {
-    font-size: 1.75rem;
+  .spin-banner {
+    display: grid;
   }
 
   .candidate-table,
@@ -1121,7 +1173,77 @@
     border-top: 0;
   }
 
-  .candidate-row,
+  .candidate-row {
+    grid-template-columns: 72px minmax(0, 1fr) auto;
+    grid-template-areas:
+      "badge player action"
+      "badge stats action";
+    gap: 8px 16px;
+    min-width: 0;
+    padding: 14px 0;
+    border: 0;
+    border-bottom: 1px solid rgba(91, 74, 49, 0.16);
+    background: transparent;
+  }
+
+  .candidate-mobile-badge {
+    display: inline-flex;
+    grid-area: badge;
+    align-items: center;
+    justify-content: center;
+    min-height: 48px;
+    padding: 0 8px;
+    border: 1px solid rgba(200, 156, 60, 0.4);
+    color: var(--accent-gold);
+    font-family: var(--display);
+    font-size: 1.05rem;
+    line-height: 1;
+    text-align: center;
+  }
+
+  .candidate-row .candidate-name {
+    grid-area: player;
+    display: grid;
+    gap: 6px;
+    font-size: 1.15rem;
+  }
+
+  .candidate-mobile-meta {
+    display: block;
+    color: var(--muted);
+    font-size: 0.92rem;
+    font-weight: 500;
+  }
+
+  .candidate-row .candidate-cell:nth-child(2),
+  .candidate-row .candidate-cell:nth-child(4),
+  .candidate-row .candidate-cell:nth-child(5),
+  .candidate-row .candidate-cell:nth-child(6),
+  .candidate-row .candidate-cell:nth-child(7),
+  .candidate-row .candidate-cell:nth-child(8) {
+    display: none;
+  }
+
+  .candidate-row .candidate-statline {
+    display: grid;
+    gap: 6px;
+    grid-area: stats;
+    font-size: 0.95rem;
+  }
+
+  .candidate-mobile-stats {
+    display: block;
+    color: var(--text);
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .candidate-row .candidate-action {
+    grid-area: action;
+    align-self: center;
+  }
+
   .results-table-row,
   .leaderboard-row {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1164,6 +1286,43 @@
   .leaderboard-row b {
     justify-content: start;
     text-align: left;
+  }
+
+  .candidate-cell::before {
+    display: none;
+  }
+
+  .candidate-action .button-draft {
+    min-width: 46px;
+    min-height: 46px;
+    padding: 0;
+    font-size: 0;
+  }
+
+  .candidate-action .button-draft::after {
+    content: '+';
+    color: #f8f3ea;
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+}
+
+@media (max-width: 720px) {
+  .landing-grid,
+  .results-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .board-layout {
+    gap: var(--space-16);
+  }
+
+  .board-header-titleline {
+    align-items: flex-start;
+  }
+
+  .draw-hero strong {
+    font-size: 1.75rem;
   }
 
   .status-strip,
@@ -1257,15 +1416,51 @@
     font-size: 0.92rem;
   }
 
-  .roster-grid,
+  .spin-banner {
+    padding-top: 0;
+  }
+
+  .spin-banner strong {
+    font-size: 3.2rem;
+  }
+
+  .spin-banner span {
+    font-size: 1.6rem;
+  }
+
   .results-summary-grid {
     grid-template-columns: 1fr;
+  }
+
+  .roster-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .roster-row {
+    grid-template-columns: 52px minmax(0, 1fr);
+    padding: 12px 6px;
+  }
+
+  .roster-slot {
+    min-height: 0;
+    align-items: start;
+    padding-top: 2px;
   }
 
   .candidate-row,
   .results-table-row,
   .leaderboard-row {
     grid-template-columns: 1fr;
+  }
+
+  .candidate-row {
+    grid-template-areas:
+      "badge player action"
+      "badge stats action";
+    grid-template-columns: 64px minmax(0, 1fr) 48px;
+    gap: 6px 12px;
+    align-items: center;
   }
 
   .candidate-action .button,
@@ -1315,6 +1510,21 @@
   .results-hero-strength,
   .results-hero-optimal {
     font-size: 0.92rem;
+  }
+
+  .candidate-mobile-badge {
+    min-height: 44px;
+    font-size: 0.96rem;
+  }
+
+  .candidate-row .candidate-name {
+    font-size: 1.05rem;
+  }
+
+  .candidate-mobile-meta,
+  .candidate-mobile-stats,
+  .candidate-row .candidate-statline {
+    font-size: 0.9rem;
   }
 }
 

@@ -253,6 +253,18 @@ function formatPlayerStatSummary(player: Player) {
   return `AVG ${formatRate(player.stats.avg)} | OPS ${formatRate(player.stats.ops)} | HR ${player.stats.hr ?? 0} | RBI ${player.stats.rbi ?? 0}`
 }
 
+function formatCompactPlayerStatSummary(player: Player) {
+  if (player.category === 'pitcher') {
+    return `${player.stats.wins ?? 0} W  ·  ${player.stats.era?.toFixed(2) ?? '-'} ERA  ·  ${player.stats.whip?.toFixed(3) ?? '-'} WHIP`
+  }
+
+  return `${formatRate(player.stats.avg)} AVG  ·  ${player.stats.hr ?? 0} HR  ·  ${formatRate(player.stats.ops)} OPS`
+}
+
+function formatPositionBadge(player: Player) {
+  return player.eligiblePositions.join('/')
+}
+
 function estimateWins(totalPoints: number, optimalPoints?: number | null) {
   if (optimalPoints && optimalPoints > 0) {
     const ratio = Math.max(0, Math.min(1, totalPoints / optimalPoints))
@@ -921,9 +933,12 @@ function RosterTracker({
           const player = drafted[entry.key]
           return (
             <div key={entry.key} className={`roster-row${player ? ' filled' : ''}`}>
-              <span>{entry.label}</span>
-              <strong>{player?.name ?? 'Open'}</strong>
-              <small>{player ? `${player.team} - ${formatSeasonLabel(player)}` : 'Waiting for pick'}</small>
+              <span className="roster-slot">{entry.label}</span>
+              <div className="roster-player">
+                <strong>{player?.name ?? 'Open'}</strong>
+                <small>{player ? `${player.team} - ${formatSeasonLabel(player)}` : 'Waiting for pick'}</small>
+                {player ? <small className="roster-player-stats">{formatPlayerStatSummary(player)}</small> : null}
+              </div>
             </div>
           )
         })}
@@ -947,11 +962,17 @@ function CandidateRow({
 }) {
   return (
     <div className={`candidate-row${canDraft ? '' : ' unavailable'}`}>
+      <span className="candidate-mobile-badge" aria-hidden="true">
+        {formatPositionBadge(player)}
+      </span>
       <span className="candidate-cell" data-label="Rank">
         {index + 1}
       </span>
       <strong className="candidate-cell candidate-name" data-label="Player">
-        {player.name}
+        <span>{player.name}</span>
+        <small className="candidate-mobile-meta">
+          {player.team} · {formatSeasonLabel(player)}
+        </small>
       </strong>
       <span className="candidate-cell" data-label="School">
         {player.team}
@@ -970,6 +991,7 @@ function CandidateRow({
       </span>
       <span className="candidate-cell candidate-statline" data-label="Key Stats">
         {formatPlayerStatSummary(player)}
+        <small className="candidate-mobile-stats">{formatCompactPlayerStatSummary(player)}</small>
       </span>
       <div className="candidate-cell candidate-action" data-label="Action">
         <button type="button" className="button button-draft" disabled={!canDraft || spinning} onClick={() => onDraft(player)}>
@@ -1126,6 +1148,12 @@ function CandidateBoardPage({
           </aside>
 
           <section className="board-main">
+            <div className="spin-banner">
+              <p className="section-kicker">You Spun</p>
+              <strong>{assignment?.label ?? 'Drawing board'}</strong>
+              <span>{currentEra}</span>
+            </div>
+
             <div className="status-strip">
               <span>{filteredPlayers.length} candidates shown</span>
               <span>{meta?.modelDiagnostics.historicalPlayers ?? 0} historical careers loaded</span>
