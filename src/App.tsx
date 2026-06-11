@@ -626,82 +626,149 @@ function hasAnyLeaderboardEntries(leaderboards: Leaderboards) {
   return Object.values(leaderboards).some((entries) => entries.length > 0)
 }
 
+type RoundOption = {
+  roundIndex: number
+  slotIndex: number
+  player: Player
+}
+
+function buildRoundOptions(rounds: DraftRound[], slotInstances: SlotInstance[]) {
+  const limitPerSlot = 10
+
+  return rounds.map((round, roundIndex) => {
+    const slotCounts = new Array(slotInstances.length).fill(0)
+    const options: RoundOption[] = []
+    const seen = new Set<string>()
+
+    for (const player of round.candidates) {
+      for (let slotIndex = 0; slotIndex < slotInstances.length; slotIndex += 1) {
+        const slot = slotInstances[slotIndex].slot
+        if (!player.eligiblePositions.includes(slot)) continue
+        if (slotCounts[slotIndex] >= limitPerSlot) continue
+
+        const key = `${player.id}|${slotIndex}`
+        if (seen.has(key)) continue
+
+        seen.add(key)
+        slotCounts[slotIndex] += 1
+        options.push({ roundIndex, slotIndex, player })
+      }
+
+      if (slotCounts.every((count) => count >= limitPerSlot)) break
+    }
+
+    return options
+  })
+}
+
 function buildRunOptimalSummary(rounds: DraftRound[], slotInstances: SlotInstance[], simulationSummary: SimulationSummary | null): OptimalSummary | null {
   if (rounds.length === 0 || slotInstances.length === 0 || slotInstances.length > 20) return null
 
   const fullMask = (1 << slotInstances.length) - 1
-  const scores = new Float64Array(fullMask + 1)
-  scores.fill(Number.NEGATIVE_INFINITY)
-  scores[0] = 0
+  const roundOptions = buildRoundOptions(rounds, slotInstances)
+  if (roundOptions.some((options) => options.length === 0)) return null
 
-  const previousMask = new Int32Array(fullMask + 1)
-  const previousCandidateIndex = new Int32Array(fullMask + 1)
-  const previousRoundIndex = new Int32Array(fullMask + 1)
-  const previousSlotIndex = new Int32Array(fullMask + 1)
-  previousMask.fill(-1)
-  previousCandidateIndex.fill(-1)
-  previousRoundIndex.fill(-1)
-  previousSlotIndex.fill(-1)
+  const repeatCounts = new Map<string, number>()
+  for (const options of roundOptions) {
+    const seenInRound = new Set<string>()
+    for (const option of options) {
+      if (seenInRound.has(option.player.id)) continue
+      seenInRound.add(option.player.id)
+      repeatCounts.set(option.player.id, (repeatCounts.get(option.player.id) ?? 0) + 1)
+    }
+  }
 
-  for (let roundIndex = 0; roundIndex < rounds.length; roundIndex += 1) {
-    const round = rounds[roundIndex]
-    const nextScores = new Float64Array(fullMask + 1)
-    nextScores.set(scores)
-    const nextPreviousMask = new Int32Array(previousMask)
-    const nextPreviousCandidateIndex = new Int32Array(previousCandidateIndex)
-    const nextPreviousRoundIndex = new Int32Array(previousRoundIndex)
-    const nextPreviousSlotIndex = new Int32Array(previousSlotIndex)
+  const repeatIds = [...repeatCounts.entries()].filter(([, count]) => count > 1).map(([playerId]) => playerId)
+  const repeatIndex = new Map(repeatIds.map((playerId, index) => [playerId, index]))
+  const roundOrder = roundOptions
+    .map((options, index) => ({
+      index,
+      options,
+      bestValue: options.reduce((best, option) => Math.max(best, option.player.value), Number.NEGATIVE_INFINITY),
+    }))
+    .sort((left, right) => left.options.length - right.options.length || right.bestValue - left.bestValue)
 
-    for (let mask = 0; mask <= fullMask; mask += 1) {
-      const currentScore = scores[mask]
-      if (!Number.isFinite(currentScore)) continue
+  const optimisticSuffix = new Array(roundOrder.length + 1).fill(0)
+  for (let index = roundOrder.length - 1; index >= 0; index -= 1) {
+    optimisticSuffix[index] = optimisticSuffix[index + 1] + Math.max(0, roundOrder[index].bestValue)
+  }
 
-      for (let candidateIndex = 0; candidateIndex < round.candidates.length; candidateIndex += 1) {
-        const player = round.candidates[candidateIndex]
-        let openMask = slotInstances.reduce(
-          (candidateMask, entry, slotIndex) => (player.eligiblePositions.includes(entry.slot) && (mask & (1 << slotIndex)) === 0 ? candidateMask | (1 << slotIndex) : candidateMask),
-          0,
-        )
+  const memo = new Map<string, number>()
+  const choiceMap = new Map<string, RoundOption | null>()
+  let bestSeen = Number.NEGATIVE_INFINITY
 
-        while (openMask > 0) {
-          const slotBit = openMask & -openMask
-          const nextMask = mask | slotBit
-          const nextScore = currentScore + player.value
-          if (nextScore > nextScores[nextMask]) {
-            nextScores[nextMask] = nextScore
-            nextPreviousMask[nextMask] = mask
-            nextPreviousCandidateIndex[nextMask] = candidateIndex
-            nextPreviousRoundIndex[nextMask] = roundIndex
-            nextPreviousSlotIndex[nextMask] = Math.log2(slotBit) | 0
-          }
-          openMask -= slotBit
-        }
+  function dfs(orderIndex: number, slotMask: number, usedRepeatMask: bigint, usedPlayers: Set<string>, currentScore: number): number {
+    if (orderIndex === roundOrder.length) {
+      return slotMask === fullMask ? 0 : Number.NEGATIVE_INFINITY
+    }
+
+    if (currentScore + optimisticSuffix[orderIndex] <= bestSeen) {
+      return Number.NEGATIVE_INFINITY
+    }
+
+    const key = `${orderIndex}|${slotMask}|${usedRepeatMask.toString()}`
+    if (memo.has(key)) return memo.get(key) ?? Number.NEGATIVE_INFINITY
+
+    let best = Number.NEGATIVE_INFINITY
+    let bestChoice: RoundOption | null = null
+
+    for (const option of roundOrder[orderIndex].options) {
+      const slotBit = 1 << option.slotIndex
+      if ((slotMask & slotBit) !== 0) continue
+      if (usedPlayers.has(option.player.id)) continue
+
+      const repeatedPlayerIndex = repeatIndex.get(option.player.id)
+      if (repeatedPlayerIndex !== undefined) {
+        const repeatBit = 1n << BigInt(repeatedPlayerIndex)
+        if ((usedRepeatMask & repeatBit) !== 0n) continue
+      }
+
+      usedPlayers.add(option.player.id)
+      const nextRepeatMask =
+        repeatedPlayerIndex === undefined ? usedRepeatMask : usedRepeatMask | (1n << BigInt(repeatedPlayerIndex))
+      const remainder = dfs(orderIndex + 1, slotMask | slotBit, nextRepeatMask, usedPlayers, currentScore + option.player.value)
+      usedPlayers.delete(option.player.id)
+
+      if (!Number.isFinite(remainder)) continue
+      const total = option.player.value + remainder
+      if (total > best) {
+        best = total
+        bestChoice = option
       }
     }
 
-    scores.set(nextScores)
-    previousMask.set(nextPreviousMask)
-    previousCandidateIndex.set(nextPreviousCandidateIndex)
-    previousRoundIndex.set(nextPreviousRoundIndex)
-    previousSlotIndex.set(nextPreviousSlotIndex)
+    if (currentScore + best > bestSeen) bestSeen = currentScore + best
+    memo.set(key, best)
+    choiceMap.set(key, bestChoice)
+    return best
   }
 
-  if (!Number.isFinite(scores[fullMask])) return null
+  const bestScore = dfs(0, 0, 0n, new Set<string>(), 0)
+  if (!Number.isFinite(bestScore)) return null
 
   const draftedList: DraftedEntry[] = []
-  let mask = fullMask
-  while (mask > 0) {
-    const roundIndex = previousRoundIndex[mask]
-    const candidateIndex = previousCandidateIndex[mask]
-    const slotIndex = previousSlotIndex[mask]
-    const priorMask = previousMask[mask]
-    if (roundIndex < 0 || candidateIndex < 0 || slotIndex < 0 || priorMask < 0) break
+  let orderIndex = 0
+  let slotMask = 0
+  let usedRepeatMask = 0n
+  const usedPlayers = new Set<string>()
+
+  while (orderIndex < roundOrder.length) {
+    const key = `${orderIndex}|${slotMask}|${usedRepeatMask.toString()}`
+    const option = choiceMap.get(key)
+    if (!option) return null
 
     draftedList.push({
-      ...slotInstances[slotIndex],
-      player: rounds[roundIndex].candidates[candidateIndex],
+      ...slotInstances[option.slotIndex],
+      player: option.player,
     })
-    mask = priorMask
+
+    usedPlayers.add(option.player.id)
+    slotMask |= 1 << option.slotIndex
+    const repeatedPlayerIndex = repeatIndex.get(option.player.id)
+    if (repeatedPlayerIndex !== undefined) {
+      usedRepeatMask |= 1n << BigInt(repeatedPlayerIndex)
+    }
+    orderIndex += 1
   }
 
   draftedList.sort((left, right) => slotInstances.findIndex((entry) => entry.key === left.key) - slotInstances.findIndex((entry) => entry.key === right.key))
@@ -1999,8 +2066,12 @@ function App() {
     () => percentileFromSortedTotals(simulationSummary?.totals ?? [], totalScore),
     [simulationSummary, totalScore],
   )
-  const projectedWins = estimateWinsFromPercentile(strengthPercentile)
-  const projectedLosses = estimateLossesFromPercentile(strengthPercentile)
+  const boardEfficiencyPercentile = optimalSummary?.totalPoints
+    ? Math.max(1, Math.min(99, Math.round((totalScore / optimalSummary.totalPoints) * 100)))
+    : strengthPercentile
+  const effectivePercentile = Math.min(strengthPercentile, boardEfficiencyPercentile)
+  const projectedWins = Math.min(optimalSummary?.wins ?? 56, estimateWinsFromPercentile(effectivePercentile))
+  const projectedLosses = Math.max(0, 56 - projectedWins)
 
   useEffect(() => {
     if (!selectedModeId || loading || completed || !spinning || availableAssignments.length === 0) return
