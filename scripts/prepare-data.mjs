@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, rm, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
 const rosterSlots = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'SP', 'SP', 'RP', 'RP']
@@ -10,6 +10,7 @@ const historicalPath = join(process.cwd(), 'data', 'imports', 'historical-player
 
 const hitterFeatures = ['PA', 'BA', 'OBP', 'SLG', 'OPS', 'R', 'H', '2B', '3B', 'HR', 'RBI', 'HBP', 'BB', 'K', 'SB', 'CS']
 const pitcherFeatures = ['APP', 'GS', 'SV', 'IP', 'ERA', 'H', 'ER', 'BB', 'K', 'HBP', 'BA', 'W', 'L']
+const PLAYER_CHUNK_TARGET_BYTES = 9_500_000
 
 async function main() {
   const schools = JSON.parse(await readFile(schoolsPath, 'utf8'))
@@ -66,6 +67,7 @@ async function main() {
     availableEras: eras,
     positionFilters: ['ALL', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'SP', 'RP'],
     sortOptions: ['rating', 'games', 'avg', 'ops', 'hr', 'rbi', 'era', 'whip', 'so'],
+    playerChunks: [],
     modelDiagnostics: {
       hitter: {
         trainingRows: hitterTraining.length,
@@ -81,13 +83,49 @@ async function main() {
     },
   }
 
-  await mkdir(join(process.cwd(), 'public', 'data'), { recursive: true })
-  await writeFile(join(process.cwd(), 'public', 'data', 'players.generated.json'), JSON.stringify(players))
-  await writeFile(join(process.cwd(), 'public', 'data', 'meta.generated.json'), JSON.stringify(meta))
+  const publicDataDir = join(process.cwd(), 'public', 'data')
+  await mkdir(publicDataDir, { recursive: true })
+  await rm(join(publicDataDir, 'players.generated.json'), { force: true })
+
+  const chunks = chunkPlayers(players, PLAYER_CHUNK_TARGET_BYTES)
+  meta.playerChunks = await Promise.all(
+    chunks.map(async (chunk, index) => {
+      const fileName = `players.generated.${String(index + 1).padStart(2, '0')}.json`
+      await writeFile(join(publicDataDir, fileName), JSON.stringify(chunk))
+      return fileName
+    }),
+  )
+
+  await writeFile(join(publicDataDir, 'meta.generated.json'), JSON.stringify(meta))
 
   console.log(
-    `Generated ${players.length} career players (${historical.length} historical seasons, ${currentPlayers.length} current seasons)`,
+    `Generated ${players.length} career players in ${meta.playerChunks.length} chunks (${historical.length} historical seasons, ${currentPlayers.length} current seasons)`,
   )
+}
+
+function chunkPlayers(players, targetBytes) {
+  const chunks = []
+  let currentChunk = []
+  let currentBytes = 2
+
+  for (const player of players) {
+    const serialized = JSON.stringify(player)
+    const serializedBytes = Buffer.byteLength(serialized)
+    const separatorBytes = currentChunk.length > 0 ? 1 : 0
+
+    if (currentChunk.length > 0 && currentBytes + serializedBytes + separatorBytes > targetBytes) {
+      chunks.push(currentChunk)
+      currentChunk = [player]
+      currentBytes = 2 + serializedBytes
+      continue
+    }
+
+    currentChunk.push(player)
+    currentBytes += serializedBytes + separatorBytes
+  }
+
+  if (currentChunk.length > 0) chunks.push(currentChunk)
+  return chunks
 }
 
 async function readHistoricalPlayers(schoolLookup) {

@@ -51,6 +51,7 @@ type Meta = {
   availableEras: Era[]
   positionFilters: PositionFilter[]
   sortOptions: SortKey[]
+  playerChunks?: string[]
   modelDiagnostics: {
     historicalPlayers: number
   }
@@ -1540,13 +1541,12 @@ function App() {
 
     async function loadData() {
       setLoading(true)
-      const [metaResponse, playersResponse] = await Promise.all([
-        fetch('/data/meta.generated.json'),
-        fetch('/data/players.generated.json'),
-      ])
-
+      const metaResponse = await fetch('/data/meta.generated.json')
       const nextMeta = (await metaResponse.json()) as Meta
-      const nextPlayers = (await playersResponse.json()) as Player[]
+      const chunkFiles = nextMeta.playerChunks?.length ? nextMeta.playerChunks : ['players.generated.json']
+      const chunkResponses = await Promise.all(chunkFiles.map((fileName) => fetch(`/data/${fileName}`)))
+      const chunkPayloads = (await Promise.all(chunkResponses.map((response) => response.json()))) as Player[][]
+      const nextPlayers = chunkPayloads.flat()
       if (cancelled) return
 
       setMeta(nextMeta)
